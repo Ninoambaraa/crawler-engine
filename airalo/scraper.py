@@ -50,10 +50,24 @@ def parse_page_detail_countries(html):
     
     current_package = {'country': None, 'price': None, 'data': None, 'validity': None}
     
+    # Create a dictionary to map the number of countries to the corresponding region
+    country_to_region = {
+        '36 Countries':  'Africa',
+        '18 Countries':  'Asia',
+        '39 Countries':  'Europe',
+        '24 Countries':  'Caribbean Islands',
+        '19 Countries':  'Latin America',
+        '15 Countries':  'Middle East',
+        '3 Countries' :  'North America',
+        '124 Countries': 'Global'
+    }
+    
     for package in packages:
         country_elem = package.find("p", {"data-testid": "COVERAGE-row"})
         if country_elem:
-            current_package['country'] = country_elem.find_next_sibling("p").get_text(strip=True)
+            country_data = country_elem.find_next_sibling("p").get_text(strip=True)
+            # Check if the country data is in the dictionary and replace it with the corresponding region if it is
+            current_package['country'] = country_to_region.get(country_data, country_data)
 
         price_elem = package.find("p", {"data-testid": "PRICE-row"})
         if price_elem:

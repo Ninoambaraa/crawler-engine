@@ -1,0 +1,8 @@
+africa
+asia
+europe
+caribbean-islands
+latin-america
+middle-east-and-north-africa
+north-america
+global
