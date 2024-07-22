@@ -1,0 +1,2878 @@
+country,days,package_type,price
+Africa,1,unlimited,9.00
+Africa,2,unlimited,17.00
+Africa,3,unlimited,24.00
+Africa,4,unlimited,27.00
+Africa,5,unlimited,34.00
+Africa,6,unlimited,37.00
+Africa,7,unlimited,39.00
+Africa,8,unlimited,42.00
+Africa,9,unlimited,44.00
+Africa,10,unlimited,49.00
+Africa,11,unlimited,54.00
+Africa,12,unlimited,59.00
+Africa,13,unlimited,64.00
+Africa,14,unlimited,69.00
+Africa,15,unlimited,74.00
+Africa,16,unlimited,79.00
+Africa,17,unlimited,84.00
+Africa,18,unlimited,89.00
+Africa,19,unlimited,94.00
+Africa,20,unlimited,99.00
+Andorra,1,unlimited,6.00
+Andorra,2,unlimited,9.00
+Andorra,3,unlimited,12.00
+Andorra,4,unlimited,15.00
+Andorra,5,unlimited,19.00
+Andorra,6,unlimited,23.00
+Andorra,7,unlimited,27.00
+Andorra,8,unlimited,29.00
+Andorra,9,unlimited,32.00
+Andorra,10,unlimited,34.00
+Andorra,11,unlimited,37.00
+Andorra,12,unlimited,40.00
+Andorra,13,unlimited,42.00
+Andorra,14,unlimited,44.00
+Andorra,15,unlimited,47.00
+Andorra,16,unlimited,49.00
+Andorra,17,unlimited,50.00
+Andorra,18,unlimited,52.00
+Andorra,19,unlimited,55.00
+Andorra,20,unlimited,57.00
+Andorra,21,unlimited,59.00
+Andorra,22,unlimited,60.00
+Andorra,23,unlimited,61.00
+Andorra,24,unlimited,62.00
+Andorra,25,unlimited,63.00
+Andorra,26,unlimited,64.00
+Andorra,27,unlimited,65.00
+Andorra,28,unlimited,66.00
+Andorra,29,unlimited,67.00
+Andorra,30,unlimited,69.00
+Andorra,31,unlimited,70.00
+Andorra,32,unlimited,71.00
+Andorra,33,unlimited,72.00
+Andorra,34,unlimited,73.00
+Andorra,35,unlimited,74.00
+Andorra,36,unlimited,75.00
+Andorra,37,unlimited,76.00
+Andorra,38,unlimited,77.00
+Andorra,39,unlimited,78.00
+Andorra,40,unlimited,79.00
+Andorra,41,unlimited,80.00
+Andorra,42,unlimited,81.00
+Andorra,43,unlimited,82.00
+Andorra,44,unlimited,83.00
+Andorra,45,unlimited,84.00
+Andorra,46,unlimited,85.00
+Andorra,47,unlimited,86.00
+Andorra,48,unlimited,87.00
+Andorra,49,unlimited,88.00
+Andorra,50,unlimited,89.00
+Andorra,51,unlimited,90.00
+Andorra,52,unlimited,91.00
+Andorra,53,unlimited,92.00
+Andorra,54,unlimited,93.00
+Andorra,55,unlimited,94.00
+Andorra,56,unlimited,95.00
+Andorra,57,unlimited,96.00
+Andorra,58,unlimited,97.00
+Andorra,59,unlimited,98.00
+Andorra,60,unlimited,99.00
+Andorra,61,unlimited,100.00
+Andorra,62,unlimited,101.00
+Andorra,63,unlimited,102.00
+Andorra,64,unlimited,103.00
+Andorra,65,unlimited,104.00
+Andorra,66,unlimited,105.00
+Andorra,67,unlimited,106.00
+Andorra,68,unlimited,107.00
+Andorra,69,unlimited,108.00
+Andorra,70,unlimited,109.00
+Andorra,71,unlimited,110.00
+Andorra,72,unlimited,111.00
+Andorra,73,unlimited,112.00
+Andorra,74,unlimited,113.00
+Andorra,75,unlimited,114.00
+Andorra,76,unlimited,115.00
+Andorra,77,unlimited,116.00
+Andorra,78,unlimited,117.00
+Andorra,79,unlimited,118.00
+Andorra,80,unlimited,119.00
+Andorra,81,unlimited,120.00
+Andorra,82,unlimited,121.00
+Andorra,83,unlimited,122.00
+Andorra,84,unlimited,123.00
+Andorra,85,unlimited,124.00
+Andorra,86,unlimited,125.00
+Andorra,87,unlimited,126.00
+Andorra,88,unlimited,127.00
+Andorra,89,unlimited,128.00
+Andorra,90,unlimited,129.00
+Argentina,1,unlimited,9.00
+Argentina,2,unlimited,12.00
+Argentina,3,unlimited,19.00
+Argentina,4,unlimited,24.00
+Argentina,5,unlimited,27.00
+Argentina,6,unlimited,29.00
+Argentina,7,unlimited,34.00
+Argentina,8,unlimited,35.00
+Argentina,9,unlimited,36.00
+Argentina,10,unlimited,37.00
+Argentina,11,unlimited,39.00
+Argentina,12,unlimited,41.00
+Argentina,13,unlimited,43.00
+Argentina,14,unlimited,45.00
+Argentina,15,unlimited,47.00
+Argentina,16,unlimited,49.00
+Argentina,17,unlimited,50.00
+Argentina,18,unlimited,52.00
+Argentina,19,unlimited,55.00
+Argentina,20,unlimited,57.00
+Argentina,21,unlimited,59.00
+Argentina,22,unlimited,60.00
+Argentina,23,unlimited,61.00
+Argentina,24,unlimited,62.00
+Argentina,25,unlimited,63.00
+Argentina,26,unlimited,64.00
+Argentina,27,unlimited,65.00
+Argentina,28,unlimited,79.00
+Argentina,29,unlimited,81.00
+Argentina,30,unlimited,83.00
+Argentina,31,unlimited,85.00
+Argentina,32,unlimited,87.00
+Argentina,33,unlimited,89.00
+Argentina,34,unlimited,91.00
+Argentina,35,unlimited,93.00
+Argentina,36,unlimited,95.00
+Argentina,37,unlimited,97.00
+Argentina,38,unlimited,99.00
+Argentina,39,unlimited,101.00
+Argentina,40,unlimited,103.00
+Argentina,41,unlimited,105.00
+Argentina,42,unlimited,107.00
+Argentina,43,unlimited,109.00
+Argentina,44,unlimited,111.00
+Argentina,45,unlimited,113.00
+Argentina,46,unlimited,115.00
+Argentina,47,unlimited,117.00
+Argentina,48,unlimited,119.00
+Argentina,49,unlimited,121.00
+Argentina,50,unlimited,123.00
+Argentina,51,unlimited,125.00
+Argentina,52,unlimited,127.00
+Argentina,53,unlimited,129.00
+Argentina,54,unlimited,131.00
+Argentina,55,unlimited,133.00
+Argentina,56,unlimited,135.00
+Argentina,57,unlimited,137.00
+Argentina,58,unlimited,139.00
+Argentina,59,unlimited,141.00
+Argentina,60,unlimited,143.00
+Argentina,61,unlimited,145.00
+Argentina,62,unlimited,147.00
+Argentina,63,unlimited,149.00
+Argentina,64,unlimited,151.00
+Argentina,65,unlimited,153.00
+Argentina,66,unlimited,155.00
+Argentina,67,unlimited,157.00
+Argentina,68,unlimited,159.00
+Argentina,69,unlimited,161.00
+Argentina,70,unlimited,163.00
+Argentina,71,unlimited,165.00
+Argentina,72,unlimited,167.00
+Argentina,73,unlimited,169.00
+Argentina,74,unlimited,171.00
+Argentina,75,unlimited,173.00
+Argentina,76,unlimited,175.00
+Argentina,77,unlimited,177.00
+Argentina,78,unlimited,179.00
+Argentina,79,unlimited,181.00
+Argentina,80,unlimited,183.00
+Argentina,81,unlimited,185.00
+Argentina,82,unlimited,187.00
+Argentina,83,unlimited,189.00
+Argentina,84,unlimited,191.00
+Argentina,85,unlimited,193.00
+Argentina,86,unlimited,195.00
+Argentina,87,unlimited,197.00
+Argentina,88,unlimited,199.00
+Argentina,89,unlimited,201.00
+Argentina,90,unlimited,203.00
+Asia,1,unlimited,6.00
+Asia,2,unlimited,12.00
+Asia,3,unlimited,19.00
+Asia,4,unlimited,24.00
+Asia,5,unlimited,27.00
+Asia,6,unlimited,29.00
+Asia,7,unlimited,34.00
+Asia,8,unlimited,35.00
+Asia,9,unlimited,36.00
+Asia,10,unlimited,37.00
+Asia,11,unlimited,39.00
+Asia,12,unlimited,41.00
+Asia,13,unlimited,43.00
+Asia,14,unlimited,45.00
+Asia,15,unlimited,47.00
+Asia,16,unlimited,49.00
+Asia,17,unlimited,50.00
+Asia,18,unlimited,52.00
+Asia,19,unlimited,55.00
+Asia,20,unlimited,57.00
+Asia,21,unlimited,59.00
+Asia,22,unlimited,60.00
+Asia,23,unlimited,61.00
+Asia,24,unlimited,62.00
+Asia,25,unlimited,63.00
+Asia,26,unlimited,64.00
+Asia,27,unlimited,65.00
+Asia,28,unlimited,79.00
+Asia,29,unlimited,81.00
+Asia,30,unlimited,83.00
+Asia,31,unlimited,85.00
+Asia,32,unlimited,87.00
+Asia,33,unlimited,89.00
+Asia,34,unlimited,91.00
+Asia,35,unlimited,93.00
+Asia,36,unlimited,95.00
+Asia,37,unlimited,97.00
+Asia,38,unlimited,99.00
+Asia,39,unlimited,101.00
+Asia,40,unlimited,103.00
+Asia,41,unlimited,105.00
+Asia,42,unlimited,107.00
+Asia,43,unlimited,109.00
+Asia,44,unlimited,111.00
+Asia,45,unlimited,113.00
+Asia,46,unlimited,115.00
+Asia,47,unlimited,117.00
+Asia,48,unlimited,119.00
+Asia,49,unlimited,121.00
+Asia,50,unlimited,123.00
+Asia,51,unlimited,125.00
+Asia,52,unlimited,127.00
+Asia,53,unlimited,129.00
+Asia,54,unlimited,131.00
+Asia,55,unlimited,133.00
+Asia,56,unlimited,135.00
+Asia,57,unlimited,137.00
+Asia,58,unlimited,139.00
+Asia,59,unlimited,141.00
+Asia,60,unlimited,143.00
+Asia,61,unlimited,145.00
+Asia,62,unlimited,147.00
+Asia,63,unlimited,149.00
+Asia,64,unlimited,151.00
+Asia,65,unlimited,153.00
+Asia,66,unlimited,155.00
+Asia,67,unlimited,157.00
+Asia,68,unlimited,159.00
+Asia,69,unlimited,161.00
+Asia,70,unlimited,163.00
+Asia,71,unlimited,165.00
+Asia,72,unlimited,167.00
+Asia,73,unlimited,169.00
+Asia,74,unlimited,171.00
+Asia,75,unlimited,173.00
+Asia,76,unlimited,175.00
+Asia,77,unlimited,177.00
+Asia,78,unlimited,179.00
+Asia,79,unlimited,181.00
+Asia,80,unlimited,183.00
+Asia,81,unlimited,185.00
+Asia,82,unlimited,187.00
+Asia,83,unlimited,189.00
+Asia,84,unlimited,191.00
+Asia,85,unlimited,193.00
+Asia,86,unlimited,195.00
+Asia,87,unlimited,197.00
+Asia,88,unlimited,199.00
+Asia,89,unlimited,201.00
+Asia,90,unlimited,203.00
+Australia,1,unlimited,6.54
+Australia,2,unlimited,9.81
+Australia,3,unlimited,13.08
+Australia,4,unlimited,16.35
+Australia,5,unlimited,20.71
+Australia,6,unlimited,25.07
+Australia,7,unlimited,29.43
+Australia,8,unlimited,31.61
+Australia,9,unlimited,34.88
+Australia,10,unlimited,37.06
+Australia,11,unlimited,40.33
+Australia,12,unlimited,43.60
+Australia,13,unlimited,45.78
+Australia,14,unlimited,47.96
+Australia,15,unlimited,51.23
+Australia,16,unlimited,53.41
+Australia,17,unlimited,54.50
+Australia,18,unlimited,56.68
+Australia,19,unlimited,59.95
+Australia,20,unlimited,62.13
+Australia,21,unlimited,64.31
+Australia,22,unlimited,65.40
+Australia,23,unlimited,66.49
+Australia,24,unlimited,67.58
+Australia,25,unlimited,68.67
+Australia,26,unlimited,69.76
+Australia,27,unlimited,70.85
+Australia,28,unlimited,71.94
+Australia,29,unlimited,73.03
+Australia,30,unlimited,75.21
+Australia,31,unlimited,76.30
+Australia,32,unlimited,77.39
+Australia,33,unlimited,78.48
+Australia,34,unlimited,79.57
+Australia,35,unlimited,80.66
+Australia,36,unlimited,81.75
+Australia,37,unlimited,82.84
+Australia,38,unlimited,83.93
+Australia,39,unlimited,85.02
+Australia,40,unlimited,86.11
+Australia,41,unlimited,87.20
+Australia,42,unlimited,88.29
+Australia,43,unlimited,89.38
+Australia,44,unlimited,90.47
+Australia,45,unlimited,91.56
+Australia,46,unlimited,92.65
+Australia,47,unlimited,93.74
+Australia,48,unlimited,94.83
+Australia,49,unlimited,95.92
+Australia,50,unlimited,97.01
+Australia,51,unlimited,98.10
+Australia,52,unlimited,99.19
+Australia,53,unlimited,100.28
+Australia,54,unlimited,101.37
+Australia,55,unlimited,102.46
+Australia,56,unlimited,103.55
+Australia,57,unlimited,104.64
+Australia,58,unlimited,105.73
+Australia,59,unlimited,106.82
+Australia,60,unlimited,107.91
+Australia,61,unlimited,109.00
+Australia,62,unlimited,110.09
+Australia,63,unlimited,111.18
+Australia,64,unlimited,112.27
+Australia,65,unlimited,113.36
+Australia,66,unlimited,114.45
+Australia,67,unlimited,115.54
+Australia,68,unlimited,116.63
+Australia,69,unlimited,117.72
+Australia,70,unlimited,118.81
+Australia,71,unlimited,119.90
+Australia,72,unlimited,120.99
+Australia,73,unlimited,122.08
+Australia,74,unlimited,123.17
+Australia,75,unlimited,124.26
+Australia,76,unlimited,125.35
+Australia,77,unlimited,126.44
+Australia,78,unlimited,127.53
+Australia,79,unlimited,128.62
+Australia,80,unlimited,129.71
+Australia,81,unlimited,130.80
+Australia,82,unlimited,131.89
+Australia,83,unlimited,132.98
+Australia,84,unlimited,134.07
+Australia,85,unlimited,135.16
+Australia,86,unlimited,136.25
+Australia,87,unlimited,137.34
+Australia,88,unlimited,138.43
+Australia,89,unlimited,139.52
+Australia,90,unlimited,140.61
+Austria,1,unlimited,6.54
+Austria,2,unlimited,9.81
+Austria,3,unlimited,13.08
+Austria,4,unlimited,16.35
+Austria,5,unlimited,20.71
+Austria,6,unlimited,25.07
+Austria,7,unlimited,29.43
+Austria,8,unlimited,31.61
+Austria,9,unlimited,34.88
+Austria,10,unlimited,37.06
+Austria,11,unlimited,40.33
+Austria,12,unlimited,43.60
+Austria,13,unlimited,45.78
+Austria,14,unlimited,47.96
+Austria,15,unlimited,51.23
+Austria,16,unlimited,53.41
+Austria,17,unlimited,54.50
+Austria,18,unlimited,56.68
+Austria,19,unlimited,59.95
+Austria,20,unlimited,62.13
+Austria,21,unlimited,64.31
+Austria,22,unlimited,65.40
+Austria,23,unlimited,66.49
+Austria,24,unlimited,67.58
+Austria,25,unlimited,68.67
+Austria,26,unlimited,69.76
+Austria,27,unlimited,70.85
+Austria,28,unlimited,71.94
+Austria,29,unlimited,73.03
+Austria,30,unlimited,75.21
+Austria,31,unlimited,76.30
+Austria,32,unlimited,77.39
+Austria,33,unlimited,78.48
+Austria,34,unlimited,79.57
+Austria,35,unlimited,80.66
+Austria,36,unlimited,81.75
+Austria,37,unlimited,82.84
+Austria,38,unlimited,83.93
+Austria,39,unlimited,85.02
+Austria,40,unlimited,86.11
+Austria,41,unlimited,87.20
+Austria,42,unlimited,88.29
+Austria,43,unlimited,89.38
+Austria,44,unlimited,90.47
+Austria,45,unlimited,91.56
+Austria,46,unlimited,92.65
+Austria,47,unlimited,93.74
+Austria,48,unlimited,94.83
+Austria,49,unlimited,95.92
+Austria,50,unlimited,97.01
+Austria,51,unlimited,98.10
+Austria,52,unlimited,99.19
+Austria,53,unlimited,100.28
+Austria,54,unlimited,101.37
+Austria,55,unlimited,102.46
+Austria,56,unlimited,103.55
+Austria,57,unlimited,104.64
+Austria,58,unlimited,105.73
+Austria,59,unlimited,106.82
+Austria,60,unlimited,107.91
+Austria,61,unlimited,109.00
+Austria,62,unlimited,110.09
+Austria,63,unlimited,111.18
+Austria,64,unlimited,112.27
+Austria,65,unlimited,113.36
+Austria,66,unlimited,114.45
+Austria,67,unlimited,115.54
+Austria,68,unlimited,116.63
+Austria,69,unlimited,117.72
+Austria,70,unlimited,118.81
+Austria,71,unlimited,119.90
+Austria,72,unlimited,120.99
+Austria,73,unlimited,122.08
+Austria,74,unlimited,123.17
+Austria,75,unlimited,124.26
+Austria,76,unlimited,125.35
+Austria,77,unlimited,126.44
+Austria,78,unlimited,127.53
+Austria,79,unlimited,128.62
+Austria,80,unlimited,129.71
+Austria,81,unlimited,130.80
+Austria,82,unlimited,131.89
+Austria,83,unlimited,132.98
+Austria,84,unlimited,134.07
+Austria,85,unlimited,135.16
+Austria,86,unlimited,136.25
+Austria,87,unlimited,137.34
+Austria,88,unlimited,138.43
+Austria,89,unlimited,139.52
+Austria,90,unlimited,140.61
+Japan,1,unlimited,6.54
+Japan,2,unlimited,9.81
+Japan,3,unlimited,13.08
+Japan,4,unlimited,16.35
+Japan,5,unlimited,20.71
+Japan,6,unlimited,25.07
+Japan,7,unlimited,29.43
+Japan,8,unlimited,31.61
+Japan,9,unlimited,34.88
+Japan,10,unlimited,37.06
+Japan,11,unlimited,40.33
+Japan,12,unlimited,43.60
+Japan,13,unlimited,45.78
+Japan,14,unlimited,47.96
+Japan,15,unlimited,51.23
+Japan,16,unlimited,53.41
+Japan,17,unlimited,54.50
+Japan,18,unlimited,56.68
+Japan,19,unlimited,59.95
+Japan,20,unlimited,62.13
+Japan,21,unlimited,64.31
+Japan,22,unlimited,65.40
+Japan,23,unlimited,66.49
+Japan,24,unlimited,67.58
+Japan,25,unlimited,68.67
+Japan,26,unlimited,69.76
+Japan,27,unlimited,70.85
+Japan,28,unlimited,71.94
+Japan,29,unlimited,73.03
+Japan,30,unlimited,75.21
+Japan,31,unlimited,76.30
+Japan,32,unlimited,77.39
+Japan,33,unlimited,78.48
+Japan,34,unlimited,79.57
+Japan,35,unlimited,80.66
+Japan,36,unlimited,81.75
+Japan,37,unlimited,82.84
+Japan,38,unlimited,83.93
+Japan,39,unlimited,85.02
+Japan,40,unlimited,86.11
+Japan,41,unlimited,87.20
+Japan,42,unlimited,88.29
+Japan,43,unlimited,89.38
+Japan,44,unlimited,90.47
+Japan,45,unlimited,91.56
+Japan,46,unlimited,92.65
+Japan,47,unlimited,93.74
+Japan,48,unlimited,94.83
+Japan,49,unlimited,95.92
+Japan,50,unlimited,97.01
+Japan,51,unlimited,98.10
+Japan,52,unlimited,99.19
+Japan,53,unlimited,100.28
+Japan,54,unlimited,101.37
+Japan,55,unlimited,102.46
+Japan,56,unlimited,103.55
+Japan,57,unlimited,104.64
+Japan,58,unlimited,105.73
+Japan,59,unlimited,106.82
+Japan,60,unlimited,107.91
+Japan,61,unlimited,109.00
+Japan,62,unlimited,110.09
+Japan,63,unlimited,111.18
+Japan,64,unlimited,112.27
+Japan,65,unlimited,113.36
+Japan,66,unlimited,114.45
+Japan,67,unlimited,115.54
+Japan,68,unlimited,116.63
+Japan,69,unlimited,117.72
+Japan,70,unlimited,118.81
+Japan,71,unlimited,119.90
+Japan,72,unlimited,120.99
+Japan,73,unlimited,122.08
+Japan,74,unlimited,123.17
+Japan,75,unlimited,124.26
+Japan,76,unlimited,125.35
+Japan,77,unlimited,126.44
+Japan,78,unlimited,127.53
+Japan,79,unlimited,128.62
+Japan,80,unlimited,129.71
+Japan,81,unlimited,130.80
+Japan,82,unlimited,131.89
+Japan,83,unlimited,132.98
+Japan,84,unlimited,134.07
+Japan,85,unlimited,135.16
+Japan,86,unlimited,136.25
+Japan,87,unlimited,137.34
+Japan,88,unlimited,138.43
+Japan,89,unlimited,139.52
+Japan,90,unlimited,140.61
+China,1,unlimited,6.54
+China,2,unlimited,9.81
+China,3,unlimited,13.08
+China,4,unlimited,16.35
+China,5,unlimited,20.71
+China,6,unlimited,25.07
+China,7,unlimited,29.43
+China,8,unlimited,31.61
+China,9,unlimited,34.88
+China,10,unlimited,37.06
+China,11,unlimited,40.33
+China,12,unlimited,43.60
+China,13,unlimited,45.78
+China,14,unlimited,47.96
+China,15,unlimited,51.23
+China,16,unlimited,53.41
+China,17,unlimited,54.50
+China,18,unlimited,56.68
+China,19,unlimited,59.95
+China,20,unlimited,62.13
+China,21,unlimited,64.31
+China,22,unlimited,65.40
+China,23,unlimited,66.49
+China,24,unlimited,67.58
+China,25,unlimited,68.67
+China,26,unlimited,69.76
+China,27,unlimited,70.85
+China,28,unlimited,71.94
+China,29,unlimited,73.03
+China,30,unlimited,75.21
+China,31,unlimited,76.30
+China,32,unlimited,77.39
+China,33,unlimited,78.48
+China,34,unlimited,79.57
+China,35,unlimited,80.66
+China,36,unlimited,81.75
+China,37,unlimited,82.84
+China,38,unlimited,83.93
+China,39,unlimited,85.02
+China,40,unlimited,86.11
+China,41,unlimited,87.20
+China,42,unlimited,88.29
+China,43,unlimited,89.38
+China,44,unlimited,90.47
+China,45,unlimited,91.56
+China,46,unlimited,92.65
+China,47,unlimited,93.74
+China,48,unlimited,94.83
+China,49,unlimited,95.92
+China,50,unlimited,97.01
+China,51,unlimited,98.10
+China,52,unlimited,99.19
+China,53,unlimited,100.28
+China,54,unlimited,101.37
+China,55,unlimited,102.46
+China,56,unlimited,103.55
+China,57,unlimited,104.64
+China,58,unlimited,105.73
+China,59,unlimited,106.82
+China,60,unlimited,107.91
+China,61,unlimited,109.00
+China,62,unlimited,110.09
+China,63,unlimited,111.18
+China,64,unlimited,112.27
+China,65,unlimited,113.36
+China,66,unlimited,114.45
+China,67,unlimited,115.54
+China,68,unlimited,116.63
+China,69,unlimited,117.72
+China,70,unlimited,118.81
+China,71,unlimited,119.90
+China,72,unlimited,120.99
+China,73,unlimited,122.08
+China,74,unlimited,123.17
+China,75,unlimited,124.26
+China,76,unlimited,125.35
+China,77,unlimited,126.44
+China,78,unlimited,127.53
+China,79,unlimited,128.62
+China,80,unlimited,129.71
+China,81,unlimited,130.80
+China,82,unlimited,131.89
+China,83,unlimited,132.98
+China,84,unlimited,134.07
+China,85,unlimited,135.16
+China,86,unlimited,136.25
+China,87,unlimited,137.34
+China,88,unlimited,138.43
+China,89,unlimited,139.52
+China,90,unlimited,140.61
+Philippines,1,unlimited,6.54
+Philippines,2,unlimited,9.81
+Philippines,3,unlimited,13.08
+Philippines,4,unlimited,16.35
+Philippines,5,unlimited,20.71
+Philippines,6,unlimited,25.07
+Philippines,7,unlimited,29.43
+Philippines,8,unlimited,31.61
+Philippines,9,unlimited,34.88
+Philippines,10,unlimited,37.06
+Philippines,11,unlimited,40.33
+Philippines,12,unlimited,43.60
+Philippines,13,unlimited,45.78
+Philippines,14,unlimited,47.96
+Philippines,15,unlimited,51.23
+Philippines,16,unlimited,53.41
+Philippines,17,unlimited,54.50
+Philippines,18,unlimited,56.68
+Philippines,19,unlimited,59.95
+Philippines,20,unlimited,62.13
+Philippines,21,unlimited,64.31
+Philippines,22,unlimited,65.40
+Philippines,23,unlimited,66.49
+Philippines,24,unlimited,67.58
+Philippines,25,unlimited,68.67
+Philippines,26,unlimited,69.76
+Philippines,27,unlimited,70.85
+Philippines,28,unlimited,71.94
+Philippines,29,unlimited,73.03
+Philippines,30,unlimited,75.21
+Philippines,31,unlimited,76.30
+Philippines,32,unlimited,77.39
+Philippines,33,unlimited,78.48
+Philippines,34,unlimited,79.57
+Philippines,35,unlimited,80.66
+Philippines,36,unlimited,81.75
+Philippines,37,unlimited,82.84
+Philippines,38,unlimited,83.93
+Philippines,39,unlimited,85.02
+Philippines,40,unlimited,86.11
+Philippines,41,unlimited,87.20
+Philippines,42,unlimited,88.29
+Philippines,43,unlimited,89.38
+Philippines,44,unlimited,90.47
+Philippines,45,unlimited,91.56
+Philippines,46,unlimited,92.65
+Philippines,47,unlimited,93.74
+Philippines,48,unlimited,94.83
+Philippines,49,unlimited,95.92
+Philippines,50,unlimited,97.01
+Philippines,51,unlimited,98.10
+Philippines,52,unlimited,99.19
+Philippines,53,unlimited,100.28
+Philippines,54,unlimited,101.37
+Philippines,55,unlimited,102.46
+Philippines,56,unlimited,103.55
+Philippines,57,unlimited,104.64
+Philippines,58,unlimited,105.73
+Philippines,59,unlimited,106.82
+Philippines,60,unlimited,107.91
+Philippines,61,unlimited,109.00
+Philippines,62,unlimited,110.09
+Philippines,63,unlimited,111.18
+Philippines,64,unlimited,112.27
+Philippines,65,unlimited,113.36
+Philippines,66,unlimited,114.45
+Philippines,67,unlimited,115.54
+Philippines,68,unlimited,116.63
+Philippines,69,unlimited,117.72
+Philippines,70,unlimited,118.81
+Philippines,71,unlimited,119.90
+Philippines,72,unlimited,120.99
+Philippines,73,unlimited,122.08
+Philippines,74,unlimited,123.17
+Philippines,75,unlimited,124.26
+Philippines,76,unlimited,125.35
+Philippines,77,unlimited,126.44
+Philippines,78,unlimited,127.53
+Philippines,79,unlimited,128.62
+Philippines,80,unlimited,129.71
+Philippines,81,unlimited,130.80
+Philippines,82,unlimited,131.89
+Philippines,83,unlimited,132.98
+Philippines,84,unlimited,134.07
+Philippines,85,unlimited,135.16
+Philippines,86,unlimited,136.25
+Philippines,87,unlimited,137.34
+Philippines,88,unlimited,138.43
+Philippines,89,unlimited,139.52
+Philippines,90,unlimited,140.61
+Taiwan,1,unlimited,6.54
+Taiwan,2,unlimited,9.81
+Taiwan,3,unlimited,13.08
+Taiwan,4,unlimited,16.35
+Taiwan,5,unlimited,20.71
+Taiwan,6,unlimited,25.07
+Taiwan,7,unlimited,29.43
+Taiwan,8,unlimited,31.61
+Taiwan,9,unlimited,34.88
+Taiwan,10,unlimited,37.06
+Taiwan,11,unlimited,40.33
+Taiwan,12,unlimited,43.60
+Taiwan,13,unlimited,45.78
+Taiwan,14,unlimited,47.96
+Taiwan,15,unlimited,51.23
+Taiwan,16,unlimited,53.41
+Taiwan,17,unlimited,54.50
+Taiwan,18,unlimited,56.68
+Taiwan,19,unlimited,59.95
+Taiwan,20,unlimited,62.13
+Taiwan,21,unlimited,64.31
+Taiwan,22,unlimited,65.40
+Taiwan,23,unlimited,66.49
+Taiwan,24,unlimited,67.58
+Taiwan,25,unlimited,68.67
+Taiwan,26,unlimited,69.76
+Taiwan,27,unlimited,70.85
+Taiwan,28,unlimited,71.94
+Taiwan,29,unlimited,73.03
+Taiwan,30,unlimited,75.21
+Taiwan,31,unlimited,76.30
+Taiwan,32,unlimited,77.39
+Taiwan,33,unlimited,78.48
+Taiwan,34,unlimited,79.57
+Taiwan,35,unlimited,80.66
+Taiwan,36,unlimited,81.75
+Taiwan,37,unlimited,82.84
+Taiwan,38,unlimited,83.93
+Taiwan,39,unlimited,85.02
+Taiwan,40,unlimited,86.11
+Taiwan,41,unlimited,87.20
+Taiwan,42,unlimited,88.29
+Taiwan,43,unlimited,89.38
+Taiwan,44,unlimited,90.47
+Taiwan,45,unlimited,91.56
+Taiwan,46,unlimited,92.65
+Taiwan,47,unlimited,93.74
+Taiwan,48,unlimited,94.83
+Taiwan,49,unlimited,95.92
+Taiwan,50,unlimited,97.01
+Taiwan,51,unlimited,98.10
+Taiwan,52,unlimited,99.19
+Taiwan,53,unlimited,100.28
+Taiwan,54,unlimited,101.37
+Taiwan,55,unlimited,102.46
+Taiwan,56,unlimited,103.55
+Taiwan,57,unlimited,104.64
+Taiwan,58,unlimited,105.73
+Taiwan,59,unlimited,106.82
+Taiwan,60,unlimited,107.91
+Taiwan,61,unlimited,109.00
+Taiwan,62,unlimited,110.09
+Taiwan,63,unlimited,111.18
+Taiwan,64,unlimited,112.27
+Taiwan,65,unlimited,113.36
+Taiwan,66,unlimited,114.45
+Taiwan,67,unlimited,115.54
+Taiwan,68,unlimited,116.63
+Taiwan,69,unlimited,117.72
+Taiwan,70,unlimited,118.81
+Taiwan,71,unlimited,119.90
+Taiwan,72,unlimited,120.99
+Taiwan,73,unlimited,122.08
+Taiwan,74,unlimited,123.17
+Taiwan,75,unlimited,124.26
+Taiwan,76,unlimited,125.35
+Taiwan,77,unlimited,126.44
+Taiwan,78,unlimited,127.53
+Taiwan,79,unlimited,128.62
+Taiwan,80,unlimited,129.71
+Taiwan,81,unlimited,130.80
+Taiwan,82,unlimited,131.89
+Taiwan,83,unlimited,132.98
+Taiwan,84,unlimited,134.07
+Taiwan,85,unlimited,135.16
+Taiwan,86,unlimited,136.25
+Taiwan,87,unlimited,137.34
+Taiwan,88,unlimited,138.43
+Taiwan,89,unlimited,139.52
+Taiwan,90,unlimited,140.61
+Thailand,1,unlimited,6.54
+Thailand,2,unlimited,9.81
+Thailand,3,unlimited,13.08
+Thailand,4,unlimited,16.35
+Thailand,5,unlimited,20.71
+Thailand,6,unlimited,23.07
+Thailand,7,unlimited,29.43
+Thailand,8,unlimited,31.61
+Thailand,9,unlimited,34.88
+Thailand,10,unlimited,37.06
+Thailand,11,unlimited,40.33
+Thailand,12,unlimited,43.60
+Thailand,13,unlimited,45.78
+Thailand,14,unlimited,47.96
+Thailand,15,unlimited,51.23
+Thailand,16,unlimited,53.41
+Thailand,17,unlimited,54.50
+Thailand,18,unlimited,56.68
+Thailand,19,unlimited,59.95
+Thailand,20,unlimited,62.13
+Thailand,21,unlimited,64.31
+Thailand,22,unlimited,65.40
+Thailand,23,unlimited,66.49
+Thailand,24,unlimited,67.58
+Thailand,25,unlimited,68.67
+Thailand,26,unlimited,69.76
+Thailand,27,unlimited,70.85
+Thailand,28,unlimited,71.94
+Thailand,29,unlimited,73.03
+Thailand,30,unlimited,75.21
+Thailand,31,unlimited,76.30
+Thailand,32,unlimited,77.39
+Thailand,33,unlimited,78.48
+Thailand,34,unlimited,79.57
+Thailand,35,unlimited,80.66
+Thailand,36,unlimited,81.75
+Thailand,37,unlimited,82.84
+Thailand,38,unlimited,83.93
+Thailand,39,unlimited,85.02
+Thailand,40,unlimited,86.11
+Thailand,41,unlimited,87.20
+Thailand,42,unlimited,88.29
+Thailand,43,unlimited,89.38
+Thailand,44,unlimited,90.47
+Thailand,45,unlimited,91.56
+Thailand,46,unlimited,92.65
+Thailand,47,unlimited,93.74
+Thailand,48,unlimited,94.83
+Thailand,49,unlimited,95.92
+Thailand,50,unlimited,97.01
+Thailand,51,unlimited,98.10
+Thailand,52,unlimited,99.19
+Thailand,53,unlimited,100.28
+Thailand,54,unlimited,101.37
+Thailand,55,unlimited,102.46
+Thailand,56,unlimited,103.55
+Thailand,57,unlimited,104.64
+Thailand,58,unlimited,105.73
+Thailand,59,unlimited,106.82
+Thailand,60,unlimited,107.91
+Thailand,61,unlimited,109.00
+Thailand,62,unlimited,110.09
+Thailand,63,unlimited,111.18
+Thailand,64,unlimited,112.27
+Thailand,65,unlimited,113.36
+Thailand,66,unlimited,114.45
+Thailand,67,unlimited,115.54
+Thailand,68,unlimited,116.63
+Thailand,69,unlimited,117.72
+Thailand,70,unlimited,118.81
+Thailand,71,unlimited,119.90
+Thailand,72,unlimited,120.99
+Thailand,73,unlimited,122.08
+Thailand,74,unlimited,123.17
+Thailand,75,unlimited,124.26
+Thailand,76,unlimited,125.35
+Thailand,77,unlimited,126.44
+Thailand,78,unlimited,127.53
+Thailand,79,unlimited,128.62
+Thailand,80,unlimited,129.71
+Thailand,81,unlimited,130.80
+Thailand,82,unlimited,131.89
+Thailand,83,unlimited,132.98
+Thailand,84,unlimited,134.07
+Thailand,85,unlimited,135.16
+Thailand,86,unlimited,136.25
+Thailand,87,unlimited,137.34
+Thailand,88,unlimited,138.43
+Thailand,89,unlimited,139.52
+Thailand,90,unlimited,140.61
+Vietnam,1,unlimited,6.54
+Vietnam,2,unlimited,9.81
+Vietnam,3,unlimited,13.08
+Vietnam,4,unlimited,16.35
+Vietnam,5,unlimited,20.71
+Vietnam,6,unlimited,25.07
+Vietnam,7,unlimited,29.43
+Vietnam,8,unlimited,31.61
+Vietnam,9,unlimited,34.88
+Vietnam,10,unlimited,37.06
+Vietnam,11,unlimited,40.33
+Vietnam,12,unlimited,43.60
+Vietnam,13,unlimited,45.78
+Vietnam,14,unlimited,47.96
+Vietnam,15,unlimited,51.23
+Vietnam,16,unlimited,53.41
+Vietnam,17,unlimited,54.50
+Vietnam,18,unlimited,56.68
+Vietnam,19,unlimited,59.95
+Vietnam,20,unlimited,62.13
+Vietnam,21,unlimited,64.31
+Vietnam,22,unlimited,65.40
+Vietnam,23,unlimited,66.49
+Vietnam,24,unlimited,67.58
+Vietnam,25,unlimited,68.67
+Vietnam,26,unlimited,69.76
+Vietnam,27,unlimited,70.85
+Vietnam,28,unlimited,71.94
+Vietnam,29,unlimited,73.03
+Vietnam,30,unlimited,75.21
+Vietnam,31,unlimited,76.30
+Vietnam,32,unlimited,77.39
+Vietnam,33,unlimited,78.48
+Vietnam,34,unlimited,79.57
+Vietnam,35,unlimited,80.66
+Vietnam,36,unlimited,81.75
+Vietnam,37,unlimited,82.84
+Vietnam,38,unlimited,83.93
+Vietnam,39,unlimited,85.02
+Vietnam,40,unlimited,86.11
+Vietnam,41,unlimited,87.20
+Vietnam,42,unlimited,88.29
+Vietnam,43,unlimited,89.38
+Vietnam,44,unlimited,90.47
+Vietnam,45,unlimited,91.56
+Vietnam,46,unlimited,92.65
+Vietnam,47,unlimited,93.74
+Vietnam,48,unlimited,94.83
+Vietnam,49,unlimited,95.92
+Vietnam,50,unlimited,97.01
+Vietnam,51,unlimited,98.10
+Vietnam,52,unlimited,99.19
+Vietnam,53,unlimited,100.28
+Vietnam,54,unlimited,101.37
+Vietnam,55,unlimited,102.46
+Vietnam,56,unlimited,103.55
+Vietnam,57,unlimited,104.64
+Vietnam,58,unlimited,105.73
+Vietnam,59,unlimited,106.82
+Vietnam,60,unlimited,107.91
+Vietnam,61,unlimited,109.00
+Vietnam,62,unlimited,110.09
+Vietnam,63,unlimited,111.18
+Vietnam,64,unlimited,112.27
+Vietnam,65,unlimited,113.36
+Vietnam,66,unlimited,114.45
+Vietnam,67,unlimited,115.54
+Vietnam,68,unlimited,116.63
+Vietnam,69,unlimited,117.72
+Vietnam,70,unlimited,118.81
+Vietnam,71,unlimited,119.90
+Vietnam,72,unlimited,120.99
+Vietnam,73,unlimited,122.08
+Vietnam,74,unlimited,123.17
+Vietnam,75,unlimited,124.26
+Vietnam,76,unlimited,125.35
+Vietnam,77,unlimited,126.44
+Vietnam,78,unlimited,127.53
+Vietnam,79,unlimited,128.62
+Vietnam,80,unlimited,129.71
+Vietnam,81,unlimited,130.80
+Vietnam,82,unlimited,131.89
+Vietnam,83,unlimited,132.98
+Vietnam,84,unlimited,134.07
+Vietnam,85,unlimited,135.16
+Vietnam,86,unlimited,136.25
+Vietnam,87,unlimited,137.34
+Vietnam,88,unlimited,138.43
+Vietnam,89,unlimited,139.52
+Vietnam,90,unlimited,140.61
+Malaysia,1,unlimited,6.54
+Malaysia,2,unlimited,9.81
+Malaysia,3,unlimited,13.08
+Malaysia,4,unlimited,16.35
+Malaysia,5,unlimited,20.71
+Malaysia,6,unlimited,25.07
+Malaysia,7,unlimited,29.43
+Malaysia,8,unlimited,31.61
+Malaysia,9,unlimited,34.88
+Malaysia,10,unlimited,37.06
+Malaysia,11,unlimited,40.33
+Malaysia,12,unlimited,43.60
+Malaysia,13,unlimited,45.78
+Malaysia,14,unlimited,47.96
+Malaysia,15,unlimited,51.23
+Malaysia,16,unlimited,53.41
+Malaysia,17,unlimited,54.50
+Malaysia,18,unlimited,56.68
+Malaysia,19,unlimited,59.95
+Malaysia,20,unlimited,62.13
+Malaysia,21,unlimited,64.31
+Malaysia,22,unlimited,65.40
+Malaysia,23,unlimited,66.49
+Malaysia,24,unlimited,67.58
+Malaysia,25,unlimited,68.67
+Malaysia,26,unlimited,69.76
+Malaysia,27,unlimited,70.85
+Malaysia,28,unlimited,71.94
+Malaysia,29,unlimited,73.03
+Malaysia,30,unlimited,75.21
+Malaysia,31,unlimited,76.30
+Malaysia,32,unlimited,77.39
+Malaysia,33,unlimited,78.48
+Malaysia,34,unlimited,79.57
+Malaysia,35,unlimited,80.66
+Malaysia,36,unlimited,81.75
+Malaysia,37,unlimited,82.84
+Malaysia,38,unlimited,83.93
+Malaysia,39,unlimited,85.02
+Malaysia,40,unlimited,86.11
+Malaysia,41,unlimited,87.20
+Malaysia,42,unlimited,88.29
+Malaysia,43,unlimited,89.38
+Malaysia,44,unlimited,90.47
+Malaysia,45,unlimited,91.56
+Malaysia,46,unlimited,92.65
+Malaysia,47,unlimited,93.74
+Malaysia,48,unlimited,94.83
+Malaysia,49,unlimited,95.92
+Malaysia,50,unlimited,97.01
+Malaysia,51,unlimited,98.10
+Malaysia,52,unlimited,99.19
+Malaysia,53,unlimited,100.28
+Malaysia,54,unlimited,101.37
+Malaysia,55,unlimited,102.46
+Malaysia,56,unlimited,103.55
+Malaysia,57,unlimited,104.64
+Malaysia,58,unlimited,105.73
+Malaysia,59,unlimited,106.82
+Malaysia,60,unlimited,107.91
+Malaysia,61,unlimited,109.00
+Malaysia,62,unlimited,110.09
+Malaysia,63,unlimited,111.18
+Malaysia,64,unlimited,112.27
+Malaysia,65,unlimited,113.36
+Malaysia,66,unlimited,114.45
+Malaysia,67,unlimited,115.54
+Malaysia,68,unlimited,116.63
+Malaysia,69,unlimited,117.72
+Malaysia,70,unlimited,118.81
+Malaysia,71,unlimited,119.90
+Malaysia,72,unlimited,120.99
+Malaysia,73,unlimited,122.08
+Malaysia,74,unlimited,123.17
+Malaysia,75,unlimited,124.26
+Malaysia,76,unlimited,125.35
+Malaysia,77,unlimited,126.44
+Malaysia,78,unlimited,127.53
+Malaysia,79,unlimited,128.62
+Malaysia,80,unlimited,129.71
+Malaysia,81,unlimited,130.80
+Malaysia,82,unlimited,131.89
+Malaysia,83,unlimited,132.98
+Malaysia,84,unlimited,134.07
+Malaysia,85,unlimited,135.16
+Malaysia,86,unlimited,136.25
+Malaysia,87,unlimited,137.34
+Malaysia,88,unlimited,138.43
+Malaysia,89,unlimited,139.52
+Malaysia,90,unlimited,140.61
+Singapore,1,unlimited,6.54
+Singapore,2,unlimited,9.81
+Singapore,3,unlimited,13.08
+Singapore,4,unlimited,16.35
+Singapore,5,unlimited,20.71
+Singapore,6,unlimited,25.07
+Singapore,7,unlimited,29.43
+Singapore,8,unlimited,31.61
+Singapore,9,unlimited,34.88
+Singapore,10,unlimited,37.06
+Singapore,11,unlimited,40.33
+Singapore,12,unlimited,43.60
+Singapore,13,unlimited,45.78
+Singapore,14,unlimited,47.96
+Singapore,15,unlimited,51.23
+Singapore,16,unlimited,53.41
+Singapore,17,unlimited,54.50
+Singapore,18,unlimited,56.68
+Singapore,19,unlimited,59.95
+Singapore,20,unlimited,62.13
+Singapore,21,unlimited,64.31
+Singapore,22,unlimited,65.40
+Singapore,23,unlimited,66.49
+Singapore,24,unlimited,67.58
+Singapore,25,unlimited,68.67
+Singapore,26,unlimited,69.76
+Singapore,27,unlimited,70.85
+Singapore,28,unlimited,71.94
+Singapore,29,unlimited,73.03
+Singapore,30,unlimited,75.21
+Singapore,31,unlimited,76.30
+Singapore,32,unlimited,77.39
+Singapore,33,unlimited,78.48
+Singapore,34,unlimited,79.57
+Singapore,35,unlimited,80.66
+Singapore,36,unlimited,81.75
+Singapore,37,unlimited,82.84
+Singapore,38,unlimited,83.93
+Singapore,39,unlimited,85.02
+Singapore,40,unlimited,86.11
+Singapore,41,unlimited,87.20
+Singapore,42,unlimited,88.29
+Singapore,43,unlimited,89.38
+Singapore,44,unlimited,90.47
+Singapore,45,unlimited,91.56
+Singapore,46,unlimited,92.65
+Singapore,47,unlimited,93.74
+Singapore,48,unlimited,94.83
+Singapore,49,unlimited,95.92
+Singapore,50,unlimited,97.01
+Singapore,51,unlimited,98.10
+Singapore,52,unlimited,99.19
+Singapore,53,unlimited,100.28
+Singapore,54,unlimited,101.37
+Singapore,55,unlimited,102.46
+Singapore,56,unlimited,103.55
+Singapore,57,unlimited,104.64
+Singapore,58,unlimited,105.73
+Singapore,59,unlimited,106.82
+Singapore,60,unlimited,107.91
+Singapore,61,unlimited,109.00
+Singapore,62,unlimited,110.09
+Singapore,63,unlimited,111.18
+Singapore,64,unlimited,112.27
+Singapore,65,unlimited,113.36
+Singapore,66,unlimited,114.45
+Singapore,67,unlimited,115.54
+Singapore,68,unlimited,116.63
+Singapore,69,unlimited,117.72
+Singapore,70,unlimited,118.81
+Singapore,71,unlimited,119.90
+Singapore,72,unlimited,120.99
+Singapore,73,unlimited,122.08
+Singapore,74,unlimited,123.17
+Singapore,75,unlimited,124.26
+Singapore,76,unlimited,125.35
+Singapore,77,unlimited,126.44
+Singapore,78,unlimited,127.53
+Singapore,79,unlimited,128.62
+Singapore,80,unlimited,129.71
+Singapore,81,unlimited,130.80
+Singapore,82,unlimited,131.89
+Singapore,83,unlimited,132.98
+Singapore,84,unlimited,134.07
+Singapore,85,unlimited,135.16
+Singapore,86,unlimited,136.25
+Singapore,87,unlimited,137.34
+Singapore,88,unlimited,138.43
+Singapore,89,unlimited,139.52
+Singapore,90,unlimited,140.61
+United States,1,unlimited,6.54
+United States,2,unlimited,9.81
+United States,3,unlimited,13.08
+United States,4,unlimited,16.35
+United States,5,unlimited,20.71
+United States,6,unlimited,25.07
+United States,7,unlimited,29.43
+United States,8,unlimited,31.61
+United States,9,unlimited,34.88
+United States,10,unlimited,37.06
+United States,11,unlimited,40.33
+United States,12,unlimited,43.60
+United States,13,unlimited,45.78
+United States,14,unlimited,47.96
+United States,15,unlimited,51.23
+United States,16,unlimited,53.41
+United States,17,unlimited,54.50
+United States,18,unlimited,56.68
+United States,19,unlimited,59.95
+United States,20,unlimited,62.13
+United States,21,unlimited,64.31
+United States,22,unlimited,65.40
+United States,23,unlimited,66.49
+United States,24,unlimited,67.58
+United States,25,unlimited,68.67
+United States,26,unlimited,69.76
+United States,27,unlimited,70.85
+United States,28,unlimited,71.94
+United States,29,unlimited,73.03
+United States,30,unlimited,75.21
+United States,31,unlimited,76.30
+United States,32,unlimited,77.39
+United States,33,unlimited,78.48
+United States,34,unlimited,79.57
+United States,35,unlimited,80.66
+United States,36,unlimited,81.75
+United States,37,unlimited,82.84
+United States,38,unlimited,83.93
+United States,39,unlimited,85.02
+United States,40,unlimited,86.11
+United States,41,unlimited,87.20
+United States,42,unlimited,88.29
+United States,43,unlimited,89.38
+United States,44,unlimited,90.47
+United States,45,unlimited,91.56
+United States,46,unlimited,92.65
+United States,47,unlimited,93.74
+United States,48,unlimited,94.83
+United States,49,unlimited,95.92
+United States,50,unlimited,97.01
+United States,51,unlimited,98.10
+United States,52,unlimited,99.19
+United States,53,unlimited,100.28
+United States,54,unlimited,101.37
+United States,55,unlimited,102.46
+United States,56,unlimited,103.55
+United States,57,unlimited,104.64
+United States,58,unlimited,105.73
+United States,59,unlimited,106.82
+United States,60,unlimited,107.91
+United States,61,unlimited,109.00
+United States,62,unlimited,110.09
+United States,63,unlimited,111.18
+United States,64,unlimited,112.27
+United States,65,unlimited,113.36
+United States,66,unlimited,114.45
+United States,67,unlimited,115.54
+United States,68,unlimited,116.63
+United States,69,unlimited,117.72
+United States,70,unlimited,118.81
+United States,71,unlimited,119.90
+United States,72,unlimited,120.99
+United States,73,unlimited,122.08
+United States,74,unlimited,123.17
+United States,75,unlimited,124.26
+United States,76,unlimited,125.35
+United States,77,unlimited,126.44
+United States,78,unlimited,127.53
+United States,79,unlimited,128.62
+United States,80,unlimited,129.71
+United States,81,unlimited,130.80
+United States,82,unlimited,131.89
+United States,83,unlimited,132.98
+United States,84,unlimited,134.07
+United States,85,unlimited,135.16
+United States,86,unlimited,136.25
+United States,87,unlimited,137.34
+United States,88,unlimited,138.43
+United States,89,unlimited,139.52
+United States,90,unlimited,140.61
+Guam,5,unlimited,19.00
+Guam,7,unlimited,27.00
+Guam,10,unlimited,34.00
+Guam,15,unlimited,47.00
+Guam,20,unlimited,54.00
+Hong Kong,1,unlimited,6.54
+Hong Kong,2,unlimited,9.81
+Hong Kong,3,unlimited,13.08
+Hong Kong,4,unlimited,16.35
+Hong Kong,5,unlimited,20.71
+Hong Kong,6,unlimited,25.07
+Hong Kong,7,unlimited,29.43
+Hong Kong,8,unlimited,31.61
+Hong Kong,9,unlimited,34.88
+Hong Kong,10,unlimited,37.06
+Hong Kong,11,unlimited,40.33
+Hong Kong,12,unlimited,43.60
+Hong Kong,13,unlimited,45.78
+Hong Kong,14,unlimited,47.96
+Hong Kong,15,unlimited,51.23
+Hong Kong,16,unlimited,53.41
+Hong Kong,17,unlimited,54.50
+Hong Kong,18,unlimited,56.68
+Hong Kong,19,unlimited,59.95
+Hong Kong,20,unlimited,62.13
+Hong Kong,21,unlimited,64.31
+Hong Kong,22,unlimited,65.40
+Hong Kong,23,unlimited,66.49
+Hong Kong,24,unlimited,67.58
+Hong Kong,25,unlimited,68.67
+Hong Kong,26,unlimited,69.76
+Hong Kong,27,unlimited,70.85
+Hong Kong,28,unlimited,71.94
+Hong Kong,29,unlimited,73.03
+Hong Kong,30,unlimited,75.21
+Hong Kong,31,unlimited,76.30
+Hong Kong,32,unlimited,77.39
+Hong Kong,33,unlimited,78.48
+Hong Kong,34,unlimited,79.57
+Hong Kong,35,unlimited,80.66
+Hong Kong,36,unlimited,81.75
+Hong Kong,37,unlimited,82.84
+Hong Kong,38,unlimited,83.93
+Hong Kong,39,unlimited,85.02
+Hong Kong,40,unlimited,86.11
+Hong Kong,41,unlimited,87.20
+Hong Kong,42,unlimited,88.29
+Hong Kong,43,unlimited,89.38
+Hong Kong,44,unlimited,90.47
+Hong Kong,45,unlimited,91.56
+Hong Kong,46,unlimited,92.65
+Hong Kong,47,unlimited,93.74
+Hong Kong,48,unlimited,94.83
+Hong Kong,49,unlimited,95.92
+Hong Kong,50,unlimited,97.01
+Hong Kong,51,unlimited,98.10
+Hong Kong,52,unlimited,99.19
+Hong Kong,53,unlimited,100.28
+Hong Kong,54,unlimited,101.37
+Hong Kong,55,unlimited,102.46
+Hong Kong,56,unlimited,103.55
+Hong Kong,57,unlimited,104.64
+Hong Kong,58,unlimited,105.73
+Hong Kong,59,unlimited,106.82
+Hong Kong,60,unlimited,107.91
+Hong Kong,61,unlimited,109.00
+Hong Kong,62,unlimited,110.09
+Hong Kong,63,unlimited,111.18
+Hong Kong,64,unlimited,112.27
+Hong Kong,65,unlimited,113.36
+Hong Kong,66,unlimited,114.45
+Hong Kong,67,unlimited,115.54
+Hong Kong,68,unlimited,116.63
+Hong Kong,69,unlimited,117.72
+Hong Kong,70,unlimited,118.81
+Hong Kong,71,unlimited,119.90
+Hong Kong,72,unlimited,120.99
+Hong Kong,73,unlimited,122.08
+Hong Kong,74,unlimited,123.17
+Hong Kong,75,unlimited,124.26
+Hong Kong,76,unlimited,125.35
+Hong Kong,77,unlimited,126.44
+Hong Kong,78,unlimited,127.53
+Hong Kong,79,unlimited,128.62
+Hong Kong,80,unlimited,129.71
+Hong Kong,81,unlimited,130.80
+Hong Kong,82,unlimited,131.89
+Hong Kong,83,unlimited,132.98
+Hong Kong,84,unlimited,134.07
+Hong Kong,85,unlimited,135.16
+Hong Kong,86,unlimited,136.25
+Hong Kong,87,unlimited,137.34
+Hong Kong,88,unlimited,138.43
+Hong Kong,89,unlimited,139.52
+Hong Kong,90,unlimited,140.61
+Indonesia,1,unlimited,6.54
+Indonesia,2,unlimited,9.81
+Indonesia,3,unlimited,13.08
+Indonesia,4,unlimited,16.35
+Indonesia,5,unlimited,20.71
+Indonesia,6,unlimited,25.07
+Indonesia,7,unlimited,29.43
+Indonesia,8,unlimited,31.61
+Indonesia,9,unlimited,34.88
+Indonesia,10,unlimited,37.06
+Indonesia,11,unlimited,40.33
+Indonesia,12,unlimited,43.60
+Indonesia,13,unlimited,45.78
+Indonesia,14,unlimited,47.96
+Indonesia,15,unlimited,51.23
+Indonesia,16,unlimited,53.41
+Indonesia,17,unlimited,54.50
+Indonesia,18,unlimited,56.68
+Indonesia,19,unlimited,59.95
+Indonesia,20,unlimited,62.13
+Indonesia,21,unlimited,64.31
+Indonesia,22,unlimited,65.40
+Indonesia,23,unlimited,66.49
+Indonesia,24,unlimited,67.58
+Indonesia,25,unlimited,68.67
+Indonesia,26,unlimited,69.76
+Indonesia,27,unlimited,70.85
+Indonesia,28,unlimited,71.94
+Indonesia,29,unlimited,73.03
+Indonesia,30,unlimited,75.21
+Indonesia,31,unlimited,76.30
+Indonesia,32,unlimited,77.39
+Indonesia,33,unlimited,78.48
+Indonesia,34,unlimited,79.57
+Indonesia,35,unlimited,80.66
+Indonesia,36,unlimited,81.75
+Indonesia,37,unlimited,82.84
+Indonesia,38,unlimited,83.93
+Indonesia,39,unlimited,85.02
+Indonesia,40,unlimited,86.11
+Indonesia,41,unlimited,87.20
+Indonesia,42,unlimited,88.29
+Indonesia,43,unlimited,89.38
+Indonesia,44,unlimited,90.47
+Indonesia,45,unlimited,91.56
+Indonesia,46,unlimited,92.65
+Indonesia,47,unlimited,93.74
+Indonesia,48,unlimited,94.83
+Indonesia,49,unlimited,95.92
+Indonesia,50,unlimited,97.01
+Indonesia,51,unlimited,98.10
+Indonesia,52,unlimited,99.19
+Indonesia,53,unlimited,100.28
+Indonesia,54,unlimited,101.37
+Indonesia,55,unlimited,102.46
+Indonesia,56,unlimited,103.55
+Indonesia,57,unlimited,104.64
+Indonesia,58,unlimited,105.73
+Indonesia,59,unlimited,106.82
+Indonesia,60,unlimited,107.91
+Indonesia,61,unlimited,109.00
+Indonesia,62,unlimited,110.09
+Indonesia,63,unlimited,111.18
+Indonesia,64,unlimited,112.27
+Indonesia,65,unlimited,113.36
+Indonesia,66,unlimited,114.45
+Indonesia,67,unlimited,115.54
+Indonesia,68,unlimited,116.63
+Indonesia,69,unlimited,117.72
+Indonesia,70,unlimited,118.81
+Indonesia,71,unlimited,119.90
+Indonesia,72,unlimited,120.99
+Indonesia,73,unlimited,122.08
+Indonesia,74,unlimited,123.17
+Indonesia,75,unlimited,124.26
+Indonesia,76,unlimited,125.35
+Indonesia,77,unlimited,126.44
+Indonesia,78,unlimited,127.53
+Indonesia,79,unlimited,128.62
+Indonesia,80,unlimited,129.71
+Indonesia,81,unlimited,130.80
+Indonesia,82,unlimited,131.89
+Indonesia,83,unlimited,132.98
+Indonesia,84,unlimited,134.07
+Indonesia,85,unlimited,135.16
+Indonesia,86,unlimited,136.25
+Indonesia,87,unlimited,137.34
+Indonesia,88,unlimited,138.43
+Indonesia,89,unlimited,139.52
+Indonesia,90,unlimited,140.61
+United Arab Emirates,1,unlimited,6.54
+United Arab Emirates,2,unlimited,9.81
+United Arab Emirates,3,unlimited,13.08
+United Arab Emirates,4,unlimited,16.35
+United Arab Emirates,5,unlimited,20.71
+United Arab Emirates,6,unlimited,25.07
+United Arab Emirates,7,unlimited,29.43
+United Arab Emirates,8,unlimited,31.61
+United Arab Emirates,9,unlimited,34.88
+United Arab Emirates,10,unlimited,37.06
+United Arab Emirates,11,unlimited,40.33
+United Arab Emirates,12,unlimited,43.60
+United Arab Emirates,13,unlimited,45.78
+United Arab Emirates,14,unlimited,47.96
+United Arab Emirates,15,unlimited,51.23
+United Arab Emirates,16,unlimited,53.41
+United Arab Emirates,17,unlimited,54.50
+United Arab Emirates,18,unlimited,56.68
+United Arab Emirates,19,unlimited,59.95
+United Arab Emirates,20,unlimited,62.13
+South Korea,1,unlimited,6.54
+South Korea,2,unlimited,9.81
+South Korea,3,unlimited,13.08
+South Korea,4,unlimited,16.35
+South Korea,5,unlimited,20.71
+South Korea,6,unlimited,25.07
+South Korea,7,unlimited,29.43
+South Korea,8,unlimited,31.61
+South Korea,9,unlimited,34.88
+South Korea,10,unlimited,37.06
+South Korea,11,unlimited,40.33
+South Korea,12,unlimited,43.60
+South Korea,13,unlimited,45.78
+South Korea,14,unlimited,47.96
+South Korea,15,unlimited,51.23
+South Korea,16,unlimited,53.41
+South Korea,17,unlimited,54.50
+South Korea,18,unlimited,56.68
+South Korea,19,unlimited,59.95
+South Korea,20,unlimited,62.13
+South Korea,21,unlimited,64.31
+South Korea,22,unlimited,65.40
+South Korea,23,unlimited,66.49
+South Korea,24,unlimited,67.58
+South Korea,25,unlimited,68.67
+South Korea,26,unlimited,69.76
+South Korea,27,unlimited,70.85
+South Korea,28,unlimited,71.94
+South Korea,29,unlimited,73.03
+South Korea,30,unlimited,75.21
+South Korea,31,unlimited,76.30
+South Korea,32,unlimited,77.39
+South Korea,33,unlimited,78.48
+South Korea,34,unlimited,79.57
+South Korea,35,unlimited,80.66
+South Korea,36,unlimited,81.75
+South Korea,37,unlimited,82.84
+South Korea,38,unlimited,83.93
+South Korea,39,unlimited,85.02
+South Korea,40,unlimited,86.11
+South Korea,41,unlimited,87.20
+South Korea,42,unlimited,88.29
+South Korea,43,unlimited,89.38
+South Korea,44,unlimited,90.47
+South Korea,45,unlimited,91.56
+South Korea,46,unlimited,92.65
+South Korea,47,unlimited,93.74
+South Korea,48,unlimited,94.83
+South Korea,49,unlimited,95.92
+South Korea,50,unlimited,97.01
+South Korea,51,unlimited,98.10
+South Korea,52,unlimited,99.19
+South Korea,53,unlimited,100.28
+South Korea,54,unlimited,101.37
+South Korea,55,unlimited,102.46
+South Korea,56,unlimited,103.55
+South Korea,57,unlimited,104.64
+South Korea,58,unlimited,105.73
+South Korea,59,unlimited,106.82
+South Korea,60,unlimited,107.91
+South Korea,61,unlimited,109.00
+South Korea,62,unlimited,110.09
+South Korea,63,unlimited,111.18
+South Korea,64,unlimited,112.27
+South Korea,65,unlimited,113.36
+South Korea,66,unlimited,114.45
+South Korea,67,unlimited,115.54
+South Korea,68,unlimited,116.63
+South Korea,69,unlimited,117.72
+South Korea,70,unlimited,118.81
+South Korea,71,unlimited,119.90
+South Korea,72,unlimited,120.99
+South Korea,73,unlimited,122.08
+South Korea,74,unlimited,123.17
+South Korea,75,unlimited,124.26
+South Korea,76,unlimited,125.35
+South Korea,77,unlimited,126.44
+South Korea,78,unlimited,127.53
+South Korea,79,unlimited,128.62
+South Korea,80,unlimited,129.71
+South Korea,81,unlimited,130.80
+South Korea,82,unlimited,131.89
+South Korea,83,unlimited,132.98
+South Korea,84,unlimited,134.07
+South Korea,85,unlimited,135.16
+South Korea,86,unlimited,136.25
+South Korea,87,unlimited,137.34
+South Korea,88,unlimited,138.43
+South Korea,89,unlimited,139.52
+South Korea,90,unlimited,140.61
+Cambodia,1,unlimited,6.54
+Cambodia,2,unlimited,9.81
+Cambodia,3,unlimited,13.08
+Cambodia,4,unlimited,16.35
+Cambodia,5,unlimited,20.71
+Cambodia,6,unlimited,25.07
+Cambodia,7,unlimited,29.43
+Cambodia,8,unlimited,31.61
+Cambodia,9,unlimited,34.88
+Cambodia,10,unlimited,37.06
+Cambodia,11,unlimited,40.33
+Cambodia,12,unlimited,43.60
+Cambodia,13,unlimited,45.78
+Cambodia,14,unlimited,47.96
+Cambodia,15,unlimited,51.23
+Cambodia,16,unlimited,53.41
+Cambodia,17,unlimited,54.50
+Cambodia,18,unlimited,56.68
+Cambodia,19,unlimited,59.95
+Cambodia,20,unlimited,62.13
+Cambodia,21,unlimited,64.31
+Cambodia,22,unlimited,65.40
+Cambodia,23,unlimited,66.49
+Cambodia,24,unlimited,67.58
+Cambodia,25,unlimited,68.67
+Cambodia,26,unlimited,69.76
+Cambodia,27,unlimited,70.85
+Cambodia,28,unlimited,71.94
+Cambodia,29,unlimited,73.03
+Cambodia,30,unlimited,75.21
+Cambodia,31,unlimited,76.30
+Cambodia,32,unlimited,77.39
+Cambodia,33,unlimited,78.48
+Cambodia,34,unlimited,79.57
+Cambodia,35,unlimited,80.66
+Cambodia,36,unlimited,81.75
+Cambodia,37,unlimited,82.84
+Cambodia,38,unlimited,83.93
+Cambodia,39,unlimited,85.02
+Cambodia,40,unlimited,86.11
+Cambodia,41,unlimited,87.20
+Cambodia,42,unlimited,88.29
+Cambodia,43,unlimited,89.38
+Cambodia,44,unlimited,90.47
+Cambodia,45,unlimited,91.56
+Cambodia,46,unlimited,92.65
+Cambodia,47,unlimited,93.74
+Cambodia,48,unlimited,94.83
+Cambodia,49,unlimited,95.92
+Cambodia,50,unlimited,97.01
+Cambodia,51,unlimited,98.10
+Cambodia,52,unlimited,99.19
+Cambodia,53,unlimited,100.28
+Cambodia,54,unlimited,101.37
+Cambodia,55,unlimited,102.46
+Cambodia,56,unlimited,103.55
+Cambodia,57,unlimited,104.64
+Cambodia,58,unlimited,105.73
+Cambodia,59,unlimited,106.82
+Cambodia,60,unlimited,107.91
+Cambodia,61,unlimited,109.00
+Cambodia,62,unlimited,110.09
+Cambodia,63,unlimited,111.18
+Cambodia,64,unlimited,112.27
+Cambodia,65,unlimited,113.36
+Cambodia,66,unlimited,114.45
+Cambodia,67,unlimited,115.54
+Cambodia,68,unlimited,116.63
+Cambodia,69,unlimited,117.72
+Cambodia,70,unlimited,118.81
+Cambodia,71,unlimited,119.90
+Cambodia,72,unlimited,120.99
+Cambodia,73,unlimited,122.08
+Cambodia,74,unlimited,123.17
+Cambodia,75,unlimited,124.26
+Cambodia,76,unlimited,125.35
+Cambodia,77,unlimited,126.44
+Cambodia,78,unlimited,127.53
+Cambodia,79,unlimited,128.62
+Cambodia,80,unlimited,129.71
+Cambodia,81,unlimited,130.80
+Cambodia,82,unlimited,131.89
+Cambodia,83,unlimited,132.98
+Cambodia,84,unlimited,134.07
+Cambodia,85,unlimited,135.16
+Cambodia,86,unlimited,136.25
+Cambodia,87,unlimited,137.34
+Cambodia,88,unlimited,138.43
+Cambodia,89,unlimited,139.52
+Cambodia,90,unlimited,140.61
+Mongolia,5,unlimited,29.00
+Mongolia,7,unlimited,37.00
+Mongolia,10,unlimited,44.00
+Mongolia,15,unlimited,47.00
+Mongolia,20,unlimited,59.00
+Mongolia,30,unlimited,79.00
+Brazil,1,unlimited,7.63
+Brazil,2,unlimited,9.81
+Brazil,3,unlimited,13.08
+Brazil,4,unlimited,16.35
+Brazil,5,unlimited,20.71
+Brazil,6,unlimited,25.07
+Brazil,7,unlimited,29.43
+Brazil,8,unlimited,31.61
+Brazil,9,unlimited,34.88
+Brazil,10,unlimited,37.06
+Brazil,11,unlimited,40.33
+Brazil,12,unlimited,43.60
+Brazil,13,unlimited,45.78
+Brazil,14,unlimited,47.96
+Brazil,15,unlimited,51.23
+Brazil,16,unlimited,53.41
+Brazil,17,unlimited,54.50
+Brazil,18,unlimited,56.68
+Brazil,19,unlimited,59.95
+Brazil,20,unlimited,62.13
+Brazil,21,unlimited,65.40
+Brazil,22,unlimited,68.67
+Brazil,23,unlimited,71.94
+Brazil,24,unlimited,75.21
+Brazil,25,unlimited,78.48
+Brazil,26,unlimited,81.75
+Brazil,27,unlimited,85.02
+Brazil,28,unlimited,88.29
+Brazil,29,unlimited,91.56
+Brazil,30,unlimited,94.83
+Brazil,31,unlimited,98.10
+Brazil,32,unlimited,101.37
+Brazil,33,unlimited,104.64
+Brazil,34,unlimited,107.91
+Brazil,35,unlimited,111.18
+Brazil,36,unlimited,114.45
+Brazil,37,unlimited,117.72
+Brazil,38,unlimited,120.99
+Brazil,39,unlimited,124.26
+Brazil,40,unlimited,127.53
+Brazil,41,unlimited,130.80
+Brazil,42,unlimited,134.07
+Brazil,43,unlimited,137.34
+Brazil,44,unlimited,140.61
+Brazil,45,unlimited,143.88
+Brazil,46,unlimited,147.15
+Brazil,47,unlimited,150.42
+Brazil,48,unlimited,153.69
+Brazil,49,unlimited,156.96
+Brazil,50,unlimited,160.23
+Brazil,51,unlimited,163.50
+Brazil,52,unlimited,166.77
+Brazil,53,unlimited,170.04
+Brazil,54,unlimited,173.31
+Brazil,55,unlimited,176.58
+Brazil,56,unlimited,179.85
+Brazil,57,unlimited,183.12
+Brazil,58,unlimited,186.39
+Brazil,59,unlimited,189.66
+Brazil,60,unlimited,192.93
+Brazil,61,unlimited,196.20
+Brazil,62,unlimited,199.47
+Brazil,63,unlimited,202.74
+Brazil,64,unlimited,206.01
+Brazil,65,unlimited,209.28
+Brazil,66,unlimited,212.55
+Brazil,67,unlimited,215.82
+Brazil,68,unlimited,219.09
+Brazil,69,unlimited,222.36
+Brazil,70,unlimited,225.63
+Brazil,71,unlimited,228.90
+Brazil,72,unlimited,232.17
+Brazil,73,unlimited,235.44
+Brazil,74,unlimited,238.71
+Brazil,75,unlimited,241.98
+Brazil,76,unlimited,245.25
+Brazil,77,unlimited,248.52
+Brazil,78,unlimited,251.79
+Brazil,79,unlimited,255.06
+Brazil,80,unlimited,258.33
+Brazil,81,unlimited,261.60
+Brazil,82,unlimited,264.87
+Brazil,83,unlimited,268.14
+Brazil,84,unlimited,271.41
+Brazil,85,unlimited,274.68
+Brazil,86,unlimited,277.95
+Brazil,87,unlimited,281.22
+Brazil,88,unlimited,284.49
+Brazil,89,unlimited,287.76
+Brazil,90,unlimited,291.03
+Denmark,1,unlimited,6.54
+Denmark,2,unlimited,9.81
+Denmark,3,unlimited,13.08
+Denmark,4,unlimited,16.35
+Denmark,5,unlimited,20.71
+Denmark,6,unlimited,25.07
+Denmark,7,unlimited,29.43
+Denmark,8,unlimited,31.61
+Denmark,9,unlimited,34.88
+Denmark,10,unlimited,37.06
+Denmark,11,unlimited,40.33
+Denmark,12,unlimited,43.60
+Denmark,13,unlimited,45.78
+Denmark,14,unlimited,47.96
+Denmark,15,unlimited,51.23
+Denmark,16,unlimited,53.41
+Denmark,17,unlimited,54.50
+Denmark,18,unlimited,56.68
+Denmark,19,unlimited,59.95
+Denmark,20,unlimited,62.13
+Denmark,21,unlimited,64.31
+Denmark,22,unlimited,65.40
+Denmark,23,unlimited,66.49
+Denmark,24,unlimited,67.58
+Denmark,25,unlimited,68.67
+Denmark,26,unlimited,69.76
+Denmark,27,unlimited,70.85
+Denmark,28,unlimited,71.94
+Denmark,29,unlimited,73.03
+Denmark,30,unlimited,75.21
+Denmark,31,unlimited,76.30
+Denmark,32,unlimited,77.39
+Denmark,33,unlimited,78.48
+Denmark,34,unlimited,79.57
+Denmark,35,unlimited,80.66
+Denmark,36,unlimited,81.75
+Denmark,37,unlimited,82.84
+Denmark,38,unlimited,83.93
+Denmark,39,unlimited,85.02
+Denmark,40,unlimited,86.11
+Denmark,41,unlimited,87.20
+Denmark,42,unlimited,88.29
+Denmark,43,unlimited,89.38
+Denmark,44,unlimited,90.47
+Denmark,45,unlimited,91.56
+Denmark,46,unlimited,92.65
+Denmark,47,unlimited,93.74
+Denmark,48,unlimited,94.83
+Denmark,49,unlimited,95.92
+Denmark,50,unlimited,97.01
+Denmark,51,unlimited,98.10
+Denmark,52,unlimited,99.19
+Denmark,53,unlimited,100.28
+Denmark,54,unlimited,101.37
+Denmark,55,unlimited,102.46
+Denmark,56,unlimited,103.55
+Denmark,57,unlimited,104.64
+Denmark,58,unlimited,105.73
+Denmark,59,unlimited,106.82
+Denmark,60,unlimited,107.91
+Denmark,61,unlimited,109.00
+Denmark,62,unlimited,110.09
+Denmark,63,unlimited,111.18
+Denmark,64,unlimited,112.27
+Denmark,65,unlimited,113.36
+Denmark,66,unlimited,114.45
+Denmark,67,unlimited,115.54
+Denmark,68,unlimited,116.63
+Denmark,69,unlimited,117.72ç
+Denmark,70,unlimited,118.81
+Denmark,71,unlimited,119.90
+Denmark,72,unlimited,120.99
+Denmark,73,unlimited,122.08
+Denmark,74,unlimited,123.17
+Denmark,75,unlimited,124.26
+Denmark,76,unlimited,125.35
+Denmark,77,unlimited,126.44
+Denmark,78,unlimited,127.53
+Denmark,79,unlimited,128.62
+Denmark,80,unlimited,129.71
+Denmark,81,unlimited,130.80
+Denmark,82,unlimited,131.89
+Denmark,83,unlimited,132.98
+Denmark,84,unlimited,134.07
+Denmark,85,unlimited,135.16
+Denmark,86,unlimited,136.25
+Denmark,87,unlimited,137.34
+Denmark,88,unlimited,138.43
+Denmark,89,unlimited,139.52
+Denmark,90,unlimited,140.61
+Canada,1,unlimited,7.63
+Canada,2,unlimited,15.26
+Canada,3,unlimited,20.71
+Canada,4,unlimited,26.16
+Canada,5,unlimited,29.43
+Canada,6,unlimited,33.79
+Canada,7,unlimited,37.06
+Canada,8,unlimited,38.15
+Canada,9,unlimited,39.24
+Canada,10,unlimited,40.33
+Canada,11,unlimited,42.51
+Canada,12,unlimited,44.69
+Canada,13,unlimited,46.87
+Canada,14,unlimited,49.05
+Canada,15,unlimited,51.23
+Canada,16,unlimited,53.41
+Canada,17,unlimited,54.50
+Canada,18,unlimited,56.68
+Canada,19,unlimited,59.95
+Canada,20,unlimited,62.13
+Canada,21,unlimited,65.40
+Canada,22,unlimited,68.67
+Canada,23,unlimited,71.94
+Canada,24,unlimited,75.21
+Canada,25,unlimited,78.48
+Canada,26,unlimited,81.75
+Canada,27,unlimited,85.02
+Canada,28,unlimited,88.29
+Canada,29,unlimited,91.56
+Canada,30,unlimited,94.83
+Canada,31,unlimited,98.10
+Canada,32,unlimited,101.37
+Canada,33,unlimited,104.64
+Canada,34,unlimited,107.91
+Canada,35,unlimited,111.18
+Canada,36,unlimited,114.45
+Canada,37,unlimited,117.72
+Canada,38,unlimited,120.99
+Canada,39,unlimited,124.26
+Canada,40,unlimited,127.53
+Canada,41,unlimited,130.80
+Canada,42,unlimited,134.07
+Canada,43,unlimited,137.34
+Canada,44,unlimited,140.61
+Canada,45,unlimited,143.88
+Canada,46,unlimited,147.15
+Canada,47,unlimited,150.42
+Canada,48,unlimited,153.69
+Canada,49,unlimited,156.96
+Canada,50,unlimited,160.23
+Canada,51,unlimited,163.50
+Canada,52,unlimited,166.77
+Canada,53,unlimited,170.04
+Canada,54,unlimited,173.31
+Canada,55,unlimited,176.58
+Canada,56,unlimited,179.85
+Canada,57,unlimited,183.12
+Canada,58,unlimited,186.39
+Canada,59,unlimited,189.66
+Canada,60,unlimited,192.93
+Canada,61,unlimited,196.20
+Canada,62,unlimited,199.47
+Canada,63,unlimited,202.74
+Canada,64,unlimited,206.01
+Canada,65,unlimited,209.28
+Canada,66,unlimited,212.55
+Canada,67,unlimited,215.82
+Canada,68,unlimited,219.09
+Canada,69,unlimited,222.36
+Canada,70,unlimited,225.63
+Canada,71,unlimited,228.90
+Canada,72,unlimited,232.17
+Canada,73,unlimited,235.44
+Canada,74,unlimited,238.71
+Canada,75,unlimited,241.98
+Canada,76,unlimited,245.25
+Canada,77,unlimited,248.52
+Canada,78,unlimited,251.79
+Canada,79,unlimited,255.06
+Canada,80,unlimited,258.33
+Canada,81,unlimited,261.60
+Canada,82,unlimited,264.87
+Canada,83,unlimited,268.14
+Canada,84,unlimited,271.41
+Canada,85,unlimited,274.68
+Canada,86,unlimited,277.95
+Canada,87,unlimited,281.22
+Canada,88,unlimited,284.49
+Canada,89,unlimited,287.76
+Canada,90,unlimited,291.03
+France,1,unlimited,6.54
+France,2,unlimited,9.81
+France,3,unlimited,13.08
+France,4,unlimited,16.35
+France,5,unlimited,20.71
+France,6,unlimited,25.07
+France,7,unlimited,29.43
+France,8,unlimited,31.61
+France,9,unlimited,34.88
+France,10,unlimited,37.06
+France,11,unlimited,40.33
+France,12,unlimited,43.60
+France,13,unlimited,45.78
+France,14,unlimited,47.96
+France,15,unlimited,51.23
+France,16,unlimited,53.41
+France,17,unlimited,54.50
+France,18,unlimited,56.68
+France,19,unlimited,59.95
+France,20,unlimited,62.13
+France,21,unlimited,64.31
+France,22,unlimited,65.40
+France,23,unlimited,66.49
+France,24,unlimited,67.58
+France,25,unlimited,68.67
+France,26,unlimited,69.76
+France,27,unlimited,70.85
+France,28,unlimited,71.94
+France,29,unlimited,73.03
+France,30,unlimited,75.21
+France,31,unlimited,76.30
+France,32,unlimited,77.39
+France,33,unlimited,78.48
+France,34,unlimited,79.57
+France,35,unlimited,80.66
+France,36,unlimited,81.75
+France,37,unlimited,82.84
+France,38,unlimited,83.93
+France,39,unlimited,85.02
+France,40,unlimited,86.11
+France,41,unlimited,87.20
+France,42,unlimited,88.29
+France,43,unlimited,89.38
+France,44,unlimited,90.47
+France,45,unlimited,91.56
+France,46,unlimited,92.65
+France,47,unlimited,93.74
+France,48,unlimited,94.83
+France,49,unlimited,95.92
+France,50,unlimited,97.01
+France,51,unlimited,98.10
+France,52,unlimited,99.19
+France,53,unlimited,100.28
+France,54,unlimited,101.37
+France,55,unlimited,102.46
+France,56,unlimited,103.55
+France,57,unlimited,104.64
+France,58,unlimited,105.73
+France,59,unlimited,106.82
+France,60,unlimited,107.91
+France,61,unlimited,109.00
+France,62,unlimited,110.09
+France,63,unlimited,111.18
+France,64,unlimited,112.27
+France,65,unlimited,113.36
+France,66,unlimited,114.45
+France,67,unlimited,115.54
+France,68,unlimited,116.63
+France,69,unlimited,117.72
+France,70,unlimited,118.81
+France,71,unlimited,119.90
+France,72,unlimited,120.99
+France,73,unlimited,122.08
+France,74,unlimited,123.17
+France,75,unlimited,124.26
+France,76,unlimited,125.35
+France,77,unlimited,126.44
+France,78,unlimited,127.53
+France,79,unlimited,128.62
+France,80,unlimited,129.71
+France,81,unlimited,130.80
+France,82,unlimited,131.89
+France,83,unlimited,132.98
+France,84,unlimited,134.07
+France,85,unlimited,135.16
+France,86,unlimited,136.25
+France,87,unlimited,137.34
+France,88,unlimited,138.43
+France,89,unlimited,139.52
+France,90,unlimited,140.61
+country,days,package_type,price
+Germany,1,unlimited,6.54
+Germany,2,unlimited,9.81
+Germany,3,unlimited,13.08
+Germany,4,unlimited,16.35
+Germany,5,unlimited,20.71
+Germany,6,unlimited,25.07
+Germany,7,unlimited,29.43
+Germany,8,unlimited,31.61
+Germany,9,unlimited,34.88
+Germany,10,unlimited,37.06
+Germany,11,unlimited,40.33
+Germany,12,unlimited,43.60
+Germany,13,unlimited,45.78
+Germany,14,unlimited,47.96
+Germany,15,unlimited,51.23
+Germany,16,unlimited,53.41
+Germany,17,unlimited,54.50
+Germany,18,unlimited,56.68
+Germany,19,unlimited,59.95
+Germany,20,unlimited,62.13
+Germany,21,unlimited,64.31
+Germany,22,unlimited,65.40
+Germany,23,unlimited,66.49
+Germany,24,unlimited,67.58
+Germany,25,unlimited,68.67
+Germany,26,unlimited,69.76
+Germany,27,unlimited,70.85
+Germany,28,unlimited,71.94
+Germany,29,unlimited,73.03
+Germany,30,unlimited,75.21
+Germany,31,unlimited,76.30
+Germany,32,unlimited,77.39
+Germany,33,unlimited,78.48
+Germany,34,unlimited,79.57
+Germany,35,unlimited,80.66
+Germany,36,unlimited,81.75
+Germany,37,unlimited,82.84
+Germany,38,unlimited,83.93
+Germany,39,unlimited,85.02
+Germany,40,unlimited,86.11
+Germany,41,unlimited,87.20
+Germany,42,unlimited,88.29
+Germany,43,unlimited,89.38
+Germany,44,unlimited,90.47
+Germany,45,unlimited,91.56
+Germany,46,unlimited,92.65
+Germany,47,unlimited,93.74
+Germany,48,unlimited,94.83
+Germany,49,unlimited,95.92
+Germany,50,unlimited,97.01
+Germany,51,unlimited,98.10
+Germany,52,unlimited,99.19
+Germany,53,unlimited,100.28
+Germany,54,unlimited,101.37
+Germany,55,unlimited,102.46
+Germany,56,unlimited,103.55
+Germany,57,unlimited,104.64
+Germany,58,unlimited,105.73
+Germany,59,unlimited,106.82
+Germany,60,unlimited,107.91
+Germany,61,unlimited,109.00
+Germany,62,unlimited,110.09
+Germany,63,unlimited,111.18
+Germany,64,unlimited,112.27
+Germany,65,unlimited,113.36
+Germany,66,unlimited,114.45
+Germany,67,unlimited,115.54
+Germany,68,unlimited,116.63
+Germany,69,unlimited,117.72
+Germany,70,unlimited,118.81
+Germany,71,unlimited,119.90
+Germany,72,unlimited,120.99
+Germany,73,unlimited,122.08
+Germany,74,unlimited,123.17
+Germany,75,unlimited,124.26
+Germany,76,unlimited,125.35
+Germany,77,unlimited,126.44
+Germany,78,unlimited,127.53
+Germany,79,unlimited,128.62
+Germany,80,unlimited,129.71
+Germany,81,unlimited,130.80
+Germany,82,unlimited,131.89
+Germany,83,unlimited,132.98
+Germany,84,unlimited,134.07
+Germany,85,unlimited,135.16
+Germany,86,unlimited,136.25
+Germany,87,unlimited,137.34
+Germany,88,unlimited,138.43
+Germany,89,unlimited,139.52
+Germany,90,unlimited,140.61
+India,5,unlimited,29.00
+India,7,unlimited,37.00
+India,10,unlimited,44.00,
+India,15,unlimited,47.00
+India,20,unlimited,59.00
+India,30,unlimited,79.00
+Ireland,5,unlimited,21.00
+Ireland,7,unlimited,29.00
+Ireland,10,unlimited,37.00
+Ireland,15,unlimited,51.00
+Ireland,20,unlimited,62.00
+Ireland,30,unlimited,75.00
+Ireland,60,unlimited,107.00
+Ireland,90,unlimited,139.00
+Italy,1,unlimited,6.54
+Italy,2,unlimited,9.81
+Italy,3,unlimited,13.08
+Italy,4,unlimited,16.35
+Italy,5,unlimited,20.71
+Italy,6,unlimited,25.07
+Italy,7,unlimited,29.43
+Italy,8,unlimited,31.61
+Italy,9,unlimited,34.88
+Italy,10,unlimited,37.06
+Italy,11,unlimited,40.33
+Italy,12,unlimited,43.60
+Italy,13,unlimited,45.78
+Italy,14,unlimited,47.96
+Italy,15,unlimited,51.23
+Italy,16,unlimited,53.41
+Italy,17,unlimited,54.50
+Italy,18,unlimited,56.68
+Italy,19,unlimited,59.95
+Italy,20,unlimited,62.13
+Italy,21,unlimited,64.31
+Italy,22,unlimited,65.40
+Italy,23,unlimited,66.49
+Italy,24,unlimited,67.58
+Italy,25,unlimited,68.67
+Italy,26,unlimited,69.76
+Italy,27,unlimited,70.85
+Italy,28,unlimited,71.94
+Italy,29,unlimited,73.03
+Italy,30,unlimited,75.21
+Italy,31,unlimited,76.30
+Italy,32,unlimited,77.39
+Italy,33,unlimited,78.48
+Italy,34,unlimited,79.57
+Italy,35,unlimited,80.66
+Italy,36,unlimited,81.75
+Italy,37,unlimited,82.84
+Italy,38,unlimited,83.93
+Italy,39,unlimited,85.02
+Italy,40,unlimited,86.11
+Italy,41,unlimited,87.20
+Italy,42,unlimited,88.29
+Italy,43,unlimited,89.38
+Italy,44,unlimited,90.47
+Italy,45,unlimited,91.56
+Italy,46,unlimited,92.65
+Italy,47,unlimited,93.74
+Italy,48,unlimited,94.83
+Italy,49,unlimited,95.92
+Italy,50,unlimited,97.01
+Italy,51,unlimited,98.10
+Italy,52,unlimited,99.19
+Italy,53,unlimited,100.28
+Italy,54,unlimited,101.37
+Italy,55,unlimited,102.46
+Italy,56,unlimited,103.55
+Italy,57,unlimited,104.64
+Italy,58,unlimited,105.73
+Italy,59,unlimited,106.82
+Italy,60,unlimited,107.91
+Italy,61,unlimited,109.00
+Italy,62,unlimited,110.09
+Italy,63,unlimited,111.18
+Italy,64,unlimited,112.27
+Italy,65,unlimited,113.36
+Italy,66,unlimited,114.45
+Italy,67,unlimited,115.54
+Italy,68,unlimited,116.63
+Italy,69,unlimited,117.72
+Italy,70,unlimited,118.81
+Italy,71,unlimited,119.90
+Italy,72,unlimited,120.99
+Italy,73,unlimited,122.08
+Italy,74,unlimited,123.17
+Italy,75,unlimited,124.26
+Italy,76,unlimited,125.35
+Italy,77,unlimited,126.44
+Italy,78,unlimited,127.53
+Italy,79,unlimited,128.62
+Italy,80,unlimited,129.71
+Italy,81,unlimited,130.80
+Italy,82,unlimited,131.89
+Italy,83,unlimited,132.98
+Italy,84,unlimited,134.07
+Italy,85,unlimited,135.16
+Italy,86,unlimited,136.25
+Italy,87,unlimited,137.34
+Italy,88,unlimited,138.43
+Italy,89,unlimited,139.52
+Italy,90,unlimited,140.61
+Macau,1,unlimited,6.54
+Macau,2,unlimited,9.81
+Macau,3,unlimited,13.08
+Macau,4,unlimited,16.35
+Macau,5,unlimited,20.71
+Macau,6,unlimited,25.07
+Macau,7,unlimited,29.43
+Macau,8,unlimited,31.61
+Macau,9,unlimited,34.88
+Macau,10,unlimited,37.06
+Macau,11,unlimited,40.33
+Macau,12,unlimited,43.60
+Macau,13,unlimited,45.78
+Macau,14,unlimited,47.96
+Macau,15,unlimited,51.23
+Macau,16,unlimited,53.41
+Macau,17,unlimited,54.50
+Macau,18,unlimited,56.68
+Macau,19,unlimited,59.95
+Macau,20,unlimited,62.13
+Macau,21,unlimited,64.31
+Macau,22,unlimited,65.40
+Macau,23,unlimited,66.49
+Macau,24,unlimited,67.58
+Macau,25,unlimited,68.67
+Macau,26,unlimited,69.76
+Macau,27,unlimited,70.85
+Macau,28,unlimited,71.94
+Macau,29,unlimited,73.03
+Macau,30,unlimited,75.21
+Macau,31,unlimited,76.30
+Macau,32,unlimited,77.39
+Macau,33,unlimited,78.48
+Macau,34,unlimited,79.57
+Macau,35,unlimited,80.66
+Macau,36,unlimited,81.75
+Macau,37,unlimited,82.84
+Macau,38,unlimited,83.93
+Macau,39,unlimited,85.02
+Macau,40,unlimited,86.11
+Macau,41,unlimited,87.20
+Macau,42,unlimited,88.29
+Macau,43,unlimited,89.38
+Macau,44,unlimited,90.47
+Macau,45,unlimited,91.56
+Macau,46,unlimited,92.65
+Macau,47,unlimited,93.74
+Macau,48,unlimited,94.83
+Macau,49,unlimited,95.92
+Macau,50,unlimited,97.01
+Macau,51,unlimited,98.10
+Macau,52,unlimited,99.19
+Macau,53,unlimited,100.28
+Macau,54,unlimited,101.37
+Macau,55,unlimited,102.46
+Macau,56,unlimited,103.55
+Macau,57,unlimited,104.64
+Macau,58,unlimited,105.73
+Macau,59,unlimited,106.82
+Macau,60,unlimited,107.91
+Macau,61,unlimited,109.00
+Macau,62,unlimited,110.09
+Macau,63,unlimited,111.18
+Macau,64,unlimited,112.27
+Macau,65,unlimited,113.36
+Macau,66,unlimited,114.45
+Macau,67,unlimited,115.54
+Macau,68,unlimited,116.63
+Macau,69,unlimited,117.72
+Macau,70,unlimited,118.81
+Macau,71,unlimited,119.90
+Macau,72,unlimited,120.99
+Macau,73,unlimited,122.08
+Macau,74,unlimited,123.17
+Macau,75,unlimited,124.26
+Macau,76,unlimited,125.35
+Macau,77,unlimited,126.44
+Macau,78,unlimited,127.53
+Macau,79,unlimited,128.62
+Macau,80,unlimited,129.71
+Macau,81,unlimited,130.80
+Macau,82,unlimited,131.89
+Macau,83,unlimited,132.98
+Macau,84,unlimited,134.07
+Macau,85,unlimited,135.16
+Macau,86,unlimited,136.25
+Macau,87,unlimited,137.34
+Macau,88,unlimited,138.43
+Macau,89,unlimited,139.52
+Macau,90,unlimited,140.61
+Mexico,1,unlimited,6.54
+Mexico,2,unlimited,9.81
+Mexico,3,unlimited,13.08
+Mexico,4,unlimited,16.35
+Mexico,5,unlimited,20.71
+Mexico,6,unlimited,25.07
+Mexico,7,unlimited,29.43
+Mexico,8,unlimited,31.61
+Mexico,9,unlimited,34.88
+Mexico,10,unlimited,37.06
+Mexico,11,unlimited,40.33
+Mexico,12,unlimited,43.60
+Mexico,13,unlimited,45.78
+Mexico,14,unlimited,47.96
+Mexico,15,unlimited,51.23
+Mexico,16,unlimited,53.41
+Mexico,17,unlimited,54.50
+Mexico,18,unlimited,56.68
+Mexico,19,unlimited,59.95
+Mexico,20,unlimited,62.13
+Mexico,21,unlimited,64.31
+Mexico,22,unlimited,65.40
+Mexico,23,unlimited,66.49
+Mexico,24,unlimited,67.58
+Mexico,25,unlimited,68.67
+Mexico,26,unlimited,69.76
+Mexico,27,unlimited,70.85
+Mexico,28,unlimited,71.94
+Mexico,29,unlimited,73.03
+Mexico,30,unlimited,75.21
+Mexico,31,unlimited,76.30
+Mexico,32,unlimited,77.39
+Mexico,33,unlimited,78.48
+Mexico,34,unlimited,79.57
+Mexico,35,unlimited,80.66
+Mexico,36,unlimited,81.75
+Mexico,37,unlimited,82.84
+Mexico,38,unlimited,83.93
+Mexico,39,unlimited,85.02
+Mexico,40,unlimited,86.11
+Mexico,41,unlimited,87.20
+Mexico,42,unlimited,88.29
+Mexico,43,unlimited,89.38
+Mexico,44,unlimited,90.47
+Mexico,45,unlimited,91.56
+Mexico,46,unlimited,92.65
+Mexico,47,unlimited,93.74
+Mexico,48,unlimited,94.83
+Mexico,49,unlimited,95.92
+Mexico,50,unlimited,97.01
+Mexico,51,unlimited,98.10
+Mexico,52,unlimited,99.19
+Mexico,53,unlimited,100.28
+Mexico,54,unlimited,101.37
+Mexico,55,unlimited,102.46
+Mexico,56,unlimited,103.55
+Mexico,57,unlimited,104.64
+Mexico,58,unlimited,105.73
+Mexico,59,unlimited,106.82
+Mexico,60,unlimited,107.91
+Mexico,61,unlimited,109.00
+Mexico,62,unlimited,110.09
+Mexico,63,unlimited,111.18
+Mexico,64,unlimited,112.27
+Mexico,65,unlimited,113.36
+Mexico,66,unlimited,114.45
+Mexico,67,unlimited,115.54
+Mexico,68,unlimited,116.63
+Mexico,69,unlimited,117.72
+Mexico,70,unlimited,118.81
+Mexico,71,unlimited,119.90
+Mexico,72,unlimited,120.99
+Mexico,73,unlimited,122.08
+Mexico,74,unlimited,123.17
+Mexico,75,unlimited,124.26
+Mexico,76,unlimited,125.35
+Mexico,77,unlimited,126.44
+Mexico,78,unlimited,127.53
+Mexico,79,unlimited,128.62
+Mexico,80,unlimited,129.71
+Mexico,81,unlimited,130.80
+Mexico,82,unlimited,131.89
+Mexico,83,unlimited,132.98
+Mexico,84,unlimited,134.07
+Mexico,85,unlimited,135.16
+Mexico,86,unlimited,136.25
+Mexico,87,unlimited,137.34
+Mexico,88,unlimited,138.43
+Mexico,89,unlimited,139.52
+Mexico,90,unlimited,140.61
+Nepal,5,unlimited,29.00
+Nepal,7,unlimited,37.00
+Nepal,10,unlimited,44.00
+Nepal,15,unlimited,47.00
+Nepal,20,unlimited,59.00
+Nepal,30,unlimited,79.00
+Portugal,1,unlimited,6.54
+Portugal,2,unlimited,9.81
+Portugal,3,unlimited,13.08
+Portugal,4,unlimited,16.35
+Portugal,5,unlimited,20.71
+Portugal,6,unlimited,25.07
+Portugal,7,unlimited,29.43
+Portugal,8,unlimited,31.61
+Portugal,9,unlimited,34.88
+Portugal,10,unlimited,37.06
+Portugal,11,unlimited,40.33
+Portugal,12,unlimited,43.60
+Portugal,13,unlimited,45.78
+Portugal,14,unlimited,47.96
+Portugal,15,unlimited,51.23
+Portugal,16,unlimited,53.41
+Portugal,17,unlimited,54.50
+Portugal,18,unlimited,56.68
+Portugal,19,unlimited,59.95
+Portugal,20,unlimited,62.13
+Portugal,21,unlimited,64.31
+Portugal,22,unlimited,65.40
+Portugal,23,unlimited,66.49
+Portugal,24,unlimited,67.58
+Portugal,25,unlimited,68.67
+Portugal,26,unlimited,69.76
+Portugal,27,unlimited,70.85
+Portugal,28,unlimited,71.94
+Portugal,29,unlimited,73.03
+Portugal,30,unlimited,75.21
+Portugal,31,unlimited,76.30
+Portugal,32,unlimited,77.39
+Portugal,33,unlimited,78.48
+Portugal,34,unlimited,79.57
+Portugal,35,unlimited,80.66
+Portugal,36,unlimited,81.75
+Portugal,37,unlimited,82.84
+Portugal,38,unlimited,83.93
+Portugal,39,unlimited,85.02
+Portugal,40,unlimited,86.11
+Portugal,41,unlimited,87.20
+Portugal,42,unlimited,88.29
+Portugal,43,unlimited,89.38
+Portugal,44,unlimited,90.47
+Portugal,45,unlimited,91.56
+Portugal,46,unlimited,92.65
+Portugal,47,unlimited,93.74
+Portugal,48,unlimited,94.83
+Portugal,49,unlimited,95.92
+Portugal,50,unlimited,97.01
+Portugal,51,unlimited,98.10
+Portugal,52,unlimited,99.19
+Portugal,53,unlimited,100.28
+Portugal,54,unlimited,101.37
+Portugal,55,unlimited,102.46
+Portugal,56,unlimited,103.55
+Portugal,57,unlimited,104.64
+Portugal,58,unlimited,105.73
+Portugal,59,unlimited,106.82
+Portugal,60,unlimited,107.91
+Portugal,61,unlimited,109.00
+Portugal,62,unlimited,110.09
+Portugal,63,unlimited,111.18
+Portugal,64,unlimited,112.27
+Portugal,65,unlimited,113.36
+Portugal,66,unlimited,114.45
+Portugal,67,unlimited,115.54
+Portugal,68,unlimited,116.63
+Portugal,69,unlimited,117.72
+Portugal,70,unlimited,118.81
+Portugal,71,unlimited,119.90
+Portugal,72,unlimited,120.99
+Portugal,73,unlimited,122.08
+Portugal,74,unlimited,123.17
+Portugal,75,unlimited,124.26
+Portugal,76,unlimited,125.35
+Portugal,77,unlimited,126.44
+Portugal,78,unlimited,127.53
+Portugal,79,unlimited,128.62
+Portugal,80,unlimited,129.71
+Portugal,81,unlimited,130.80
+Portugal,82,unlimited,131.89
+Portugal,83,unlimited,132.98
+Portugal,84,unlimited,134.07
+Portugal,85,unlimited,135.16
+Portugal,86,unlimited,136.25
+Portugal,87,unlimited,137.34
+Portugal,88,unlimited,138.43
+Portugal,89,unlimited,139.52
+Portugal,90,unlimited,140.61
+Qatar,5,unlimited,29.00
+Qatar,7,unlimited,37.00
+Qatar,10,unlimited,44.00
+Qatar,15,unlimited,47.00
+Qatar,20,unlimited,59.00
+Saudi arabia,5,unlimited,29.00
+Saudi arabia,7,unlimited,37.00
+Saudi arabia,10,unlimited,44.00
+Saudi arabia,15,unlimited,47.00
+Saudi arabia,20,unlimited,59.00
+South Africa,5,unlimited,29.00
+South Africa,7,unlimited,37.00
+South Africa,10,unlimited,44.00
+South Africa,15,unlimited,47.00
+South Africa,20,unlimited,59.00
+Spain,1,unlimited,6.54
+Spain,2,unlimited,9.81
+Spain,3,unlimited,13.08
+Spain,4,unlimited,16.35
+Spain,5,unlimited,20.71
+Spain,6,unlimited,25.07
+Spain,7,unlimited,29.43
+Spain,8,unlimited,31.61
+Spain,9,unlimited,34.88
+Spain,10,unlimited,37.06
+Spain,11,unlimited,40.33
+Spain,12,unlimited,43.60
+Spain,13,unlimited,45.78
+Spain,14,unlimited,47.96
+Spain,15,unlimited,51.23
+Spain,16,unlimited,53.41
+Spain,17,unlimited,54.50
+Spain,18,unlimited,56.68
+Spain,19,unlimited,59.95
+Spain,20,unlimited,62.13
+Spain,21,unlimited,64.31
+Spain,22,unlimited,65.40
+Spain,23,unlimited,66.49
+Spain,24,unlimited,67.58
+Spain,25,unlimited,68.67
+Spain,26,unlimited,69.76
+Spain,27,unlimited,70.85
+Spain,28,unlimited,71.94
+Spain,29,unlimited,73.03
+Spain,30,unlimited,75.21
+Spain,31,unlimited,76.30
+Spain,32,unlimited,77.39
+Spain,33,unlimited,78.48
+Spain,34,unlimited,79.57
+Spain,35,unlimited,80.66
+Spain,36,unlimited,81.75
+Spain,37,unlimited,82.84
+Spain,38,unlimited,83.93
+Spain,39,unlimited,85.02
+Spain,40,unlimited,86.11
+Spain,41,unlimited,87.20
+Spain,42,unlimited,88.29
+Spain,43,unlimited,89.38
+Spain,44,unlimited,90.47
+Spain,45,unlimited,91.56
+Spain,46,unlimited,92.65
+Spain,47,unlimited,93.74
+Spain,48,unlimited,94.83
+Spain,49,unlimited,95.92
+Spain,50,unlimited,97.01
+Spain,51,unlimited,98.10
+Spain,52,unlimited,99.19
+Spain,53,unlimited,100.28
+Spain,54,unlimited,101.37
+Spain,55,unlimited,102.46
+Spain,56,unlimited,103.55
+Spain,57,unlimited,104.64
+Spain,58,unlimited,105.73
+Spain,59,unlimited,106.82
+Spain,60,unlimited,107.91
+Spain,61,unlimited,109.00
+Spain,62,unlimited,110.09
+Spain,63,unlimited,111.18
+Spain,64,unlimited,112.27
+Spain,65,unlimited,113.36
+Spain,66,unlimited,114.45
+Spain,67,unlimited,115.54
+Spain,68,unlimited,116.63
+Spain,69,unlimited,117.72
+Spain,70,unlimited,118.81
+Spain,71,unlimited,119.90
+Spain,72,unlimited,120.99
+Spain,73,unlimited,122.08
+Spain,74,unlimited,123.17
+Spain,75,unlimited,124.26
+Spain,76,unlimited,125.35
+Spain,77,unlimited,126.44
+Spain,78,unlimited,127.53
+Spain,79,unlimited,128.62
+Spain,80,unlimited,129.71
+Spain,81,unlimited,130.80
+Spain,82,unlimited,131.89
+Spain,83,unlimited,132.98
+Spain,84,unlimited,134.07
+Spain,85,unlimited,135.16
+Spain,86,unlimited,136.25
+Spain,87,unlimited,137.34
+Spain,88,unlimited,138.43
+Spain,89,unlimited,139.52
+Spain,90,unlimited,140.61
+Sweden,1,unlimited,6.54
+Sweden,2,unlimited,9.81
+Sweden,3,unlimited,13.08
+Sweden,4,unlimited,16.35
+Sweden,5,unlimited,20.71
+Sweden,6,unlimited,25.07
+Sweden,7,unlimited,29.43
+Sweden,8,unlimited,31.61
+Sweden,9,unlimited,34.88
+Sweden,10,unlimited,37.06
+Sweden,11,unlimited,40.33
+Sweden,12,unlimited,43.60
+Sweden,13,unlimited,45.78
+Sweden,14,unlimited,47.96
+Sweden,15,unlimited,51.23
+Sweden,16,unlimited,53.41
+Sweden,17,unlimited,54.50
+Sweden,18,unlimited,56.68
+Sweden,19,unlimited,59.95
+Sweden,20,unlimited,62.13
+Sweden,21,unlimited,64.31
+Sweden,22,unlimited,65.40
+Sweden,23,unlimited,66.49
+Sweden,24,unlimited,67.58
+Sweden,25,unlimited,68.67
+Sweden,26,unlimited,69.76
+Sweden,27,unlimited,70.85
+Sweden,28,unlimited,71.94
+Sweden,29,unlimited,73.03
+Sweden,30,unlimited,75.21
+Sweden,31,unlimited,76.30
+Sweden,32,unlimited,77.39
+Sweden,33,unlimited,78.48
+Sweden,34,unlimited,79.57
+Sweden,35,unlimited,80.66
+Sweden,36,unlimited,81.75
+Sweden,37,unlimited,82.84
+Sweden,38,unlimited,83.93
+Sweden,39,unlimited,85.02
+Sweden,40,unlimited,86.11
+Sweden,41,unlimited,87.20
+Sweden,42,unlimited,88.29
+Sweden,43,unlimited,89.38
+Sweden,44,unlimited,90.47
+Sweden,45,unlimited,91.56
+Sweden,46,unlimited,92.65
+Sweden,47,unlimited,93.74
+Sweden,48,unlimited,94.83
+Sweden,49,unlimited,95.92
+Sweden,50,unlimited,97.01
+Sweden,51,unlimited,98.10
+Sweden,52,unlimited,99.19
+Sweden,53,unlimited,100.28
+Sweden,54,unlimited,101.37
+Sweden,55,unlimited,102.46
+Sweden,56,unlimited,103.55
+Sweden,57,unlimited,104.64
+Sweden,58,unlimited,105.73
+Sweden,59,unlimited,106.82
+Sweden,60,unlimited,107.91
+Sweden,61,unlimited,109.00
+Sweden,62,unlimited,110.09
+Sweden,63,unlimited,111.18
+Sweden,64,unlimited,112.27
+Sweden,65,unlimited,113.36
+Sweden,66,unlimited,114.45
+Sweden,67,unlimited,115.54
+Sweden,68,unlimited,116.63
+Sweden,69,unlimited,117.72
+Sweden,70,unlimited,118.81
+Sweden,71,unlimited,119.90
+Sweden,72,unlimited,120.99
+Sweden,73,unlimited,122.08
+Sweden,74,unlimited,123.17
+Sweden,75,unlimited,124.26
+Sweden,76,unlimited,125.35
+Sweden,77,unlimited,126.44
+Sweden,78,unlimited,127.53
+Sweden,79,unlimited,128.62
+Sweden,80,unlimited,129.71
+Sweden,81,unlimited,130.80
+Sweden,82,unlimited,131.89
+Sweden,83,unlimited,132.98
+Sweden,84,unlimited,134.07
+Sweden,85,unlimited,135.16
+Sweden,86,unlimited,136.25
+Sweden,87,unlimited,137.34
+Sweden,88,unlimited,138.43
+Sweden,89,unlimited,139.52
+Sweden,90,unlimited,140.61
+United Kingdom,1,unlimited,6.54
+United Kingdom,2,unlimited,9.81
+United Kingdom,3,unlimited,13.08
+United Kingdom,4,unlimited,16.35
+United Kingdom,5,unlimited,20.71
+United Kingdom,6,unlimited,25.07
+United Kingdom,7,unlimited,29.43
+United Kingdom,8,unlimited,31.61
+United Kingdom,9,unlimited,34.88
+United Kingdom,10,unlimited,37.06
+United Kingdom,11,unlimited,40.33
+United Kingdom,12,unlimited,43.60
+United Kingdom,13,unlimited,45.78
+United Kingdom,14,unlimited,47.96
+United Kingdom,15,unlimited,51.23
+United Kingdom,16,unlimited,53.41
+United Kingdom,17,unlimited,54.50
+United Kingdom,18,unlimited,56.68
+United Kingdom,19,unlimited,59.95
+United Kingdom,20,unlimited,62.13
+United Kingdom,21,unlimited,64.31
+United Kingdom,22,unlimited,65.40
+United Kingdom,23,unlimited,66.49
+United Kingdom,24,unlimited,67.58
+United Kingdom,25,unlimited,68.67
+United Kingdom,26,unlimited,69.76
+United Kingdom,27,unlimited,70.85
+United Kingdom,28,unlimited,71.94
+United Kingdom,29,unlimited,73.03
+United Kingdom,30,unlimited,75.21
+United Kingdom,31,unlimited,76.30
+United Kingdom,32,unlimited,77.39
+United Kingdom,33,unlimited,78.48
+United Kingdom,34,unlimited,79.57
+United Kingdom,35,unlimited,80.66
+United Kingdom,36,unlimited,81.75
+United Kingdom,37,unlimited,82.84
+United Kingdom,38,unlimited,83.93
+United Kingdom,39,unlimited,85.02
+United Kingdom,40,unlimited,86.11
+United Kingdom,41,unlimited,87.20
+United Kingdom,42,unlimited,88.29
+United Kingdom,43,unlimited,89.38
+United Kingdom,44,unlimited,90.47
+United Kingdom,45,unlimited,91.56
+United Kingdom,46,unlimited,92.65
+United Kingdom,47,unlimited,93.74
+United Kingdom,48,unlimited,94.83
+United Kingdom,49,unlimited,95.92
+United Kingdom,50,unlimited,97.01
+United Kingdom,51,unlimited,98.10
+United Kingdom,52,unlimited,99.19
+United Kingdom,53,unlimited,100.28
+United Kingdom,54,unlimited,101.37
+United Kingdom,55,unlimited,102.46
+United Kingdom,56,unlimited,103.55
+United Kingdom,57,unlimited,104.64
+United Kingdom,58,unlimited,105.73
+United Kingdom,59,unlimited,106.82
+United Kingdom,60,unlimited,107.91
+United Kingdom,61,unlimited,109.00
+United Kingdom,62,unlimited,110.09
+United Kingdom,63,unlimited,111.18
+United Kingdom,64,unlimited,112.27
+United Kingdom,65,unlimited,113.36
+United Kingdom,66,unlimited,114.45
+United Kingdom,67,unlimited,115.54
+United Kingdom,68,unlimited,116.63
+United Kingdom,69,unlimited,117.72
+United Kingdom,70,unlimited,118.81
+United Kingdom,71,unlimited,119.90
+United Kingdom,72,unlimited,120.99
+United Kingdom,73,unlimited,122.08
+United Kingdom,74,unlimited,123.17
+United Kingdom,75,unlimited,124.26
+United Kingdom,76,unlimited,125.35
+United Kingdom,77,unlimited,126.44
+United Kingdom,78,unlimited,127.53
+United Kingdom,79,unlimited,128.62
+United Kingdom,80,unlimited,129.71
+United Kingdom,81,unlimited,130.80
+United Kingdom,82,unlimited,131.89
+United Kingdom,83,unlimited,132.98
+United Kingdom,84,unlimited,134.07
+United Kingdom,85,unlimited,135.16
+United Kingdom,86,unlimited,136.25
+United Kingdom,87,unlimited,137.34
+United Kingdom,88,unlimited,138.43
+United Kingdom,89,unlimited,139.52
+United Kingdom,90,unlimited,140.61
+Turkey,1,unlimited,6.54
+Turkey,2,unlimited,9.81
+Turkey,3,unlimited,13.08
+Turkey,4,unlimited,16.35
+Turkey,5,unlimited,20.71
+Turkey,6,unlimited,25.07
+Turkey,7,unlimited,29.43
+Turkey,8,unlimited,31.61
+Turkey,9,unlimited,34.88
+Turkey,10,unlimited,37.06
+Turkey,11,unlimited,40.33
+Turkey,12,unlimited,43.60
+Turkey,13,unlimited,45.78
+Turkey,14,unlimited,47.96
+Turkey,15,unlimited,51.23
+Turkey,16,unlimited,53.41
+Turkey,17,unlimited,54.50
+Turkey,18,unlimited,56.68
+Turkey,19,unlimited,59.95
+Turkey,20,unlimited,62.13
+Turkey,21,unlimited,64.31
+Turkey,22,unlimited,65.40
+Turkey,23,unlimited,66.49
+Turkey,24,unlimited,67.58
+Turkey,25,unlimited,68.67
+Turkey,26,unlimited,69.76
+Turkey,27,unlimited,70.85
+Turkey,28,unlimited,71.94
+Turkey,29,unlimited,73.03
+Turkey,30,unlimited,75.21
+Turkey,31,unlimited,76.30
+Turkey,32,unlimited,77.39
+Turkey,33,unlimited,78.48
+Turkey,34,unlimited,79.57
+Turkey,35,unlimited,80.66
+Turkey,36,unlimited,81.75
+Turkey,37,unlimited,82.84
+Turkey,38,unlimited,83.93
+Turkey,39,unlimited,85.02
+Turkey,40,unlimited,86.11
+Turkey,41,unlimited,87.20
+Turkey,42,unlimited,88.29
+Turkey,43,unlimited,89.38
+Turkey,44,unlimited,90.47
+Turkey,45,unlimited,91.56
+Turkey,46,unlimited,92.65
+Turkey,47,unlimited,93.74
+Turkey,48,unlimited,94.83
+Turkey,49,unlimited,95.92
+Turkey,50,unlimited,97.01
+Turkey,51,unlimited,98.10
+Turkey,52,unlimited,99.19
+Turkey,53,unlimited,100.28
+Turkey,54,unlimited,101.37
+Turkey,55,unlimited,102.46
+Turkey,56,unlimited,103.55
+Turkey,57,unlimited,104.64
+Turkey,58,unlimited,105.73
+Turkey,59,unlimited,106.82
+Turkey,60,unlimited,107.91
+Turkey,61,unlimited,109.00
+Turkey,62,unlimited,110.09
+Turkey,63,unlimited,111.18
+Turkey,64,unlimited,112.27
+Turkey,65,unlimited,113.36
+Turkey,66,unlimited,114.45
+Turkey,67,unlimited,115.54
+Turkey,68,unlimited,116.63
+Turkey,69,unlimited,117.72
+Turkey,70,unlimited,118.81
+Turkey,71,unlimited,119.90
+Turkey,72,unlimited,120.99
+Turkey,73,unlimited,122.08
+Turkey,74,unlimited,123.17
+Turkey,75,unlimited,124.26
+Turkey,76,unlimited,125.35
+Turkey,77,unlimited,126.44
+Turkey,78,unlimited,127.53
+Turkey,79,unlimited,128.62
+Turkey,80,unlimited,129.71
+Turkey,81,unlimited,130.80
+Turkey,82,unlimited,131.89
+Turkey,83,unlimited,132.98
+Turkey,84,unlimited,134.07
+Turkey,85,unlimited,135.16
+Turkey,86,unlimited,136.25
+Turkey,87,unlimited,137.34
+Turkey,88,unlimited,138.43
+Turkey,89,unlimited,139.52
+Turkey,90,unlimited,140.61

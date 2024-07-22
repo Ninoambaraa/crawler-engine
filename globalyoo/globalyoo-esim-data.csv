@@ -1,0 +1,1095 @@
+duration,data,name,provider,data_in_mb,price,is_promo
+30,0,Local United States of America - 30 Days - 50 GB,telna,51200,32.99,False
+30,20,Local United States of America - 30 Days - 20 GB,telna,20480,16.99,False
+30,10,Local United States of America - 30 Days - 10 GB,telna,10240,9.99,False
+15,5,Local United States of America - 15 Days - 5 GB,telna,5120,5.79,False
+15,3,Local United States of America - 15 Days - 3 GB,telna,3072,3.99,False
+7,2,Local United States of America - 7 Days - 2 GB,telna,2048,2.99,False
+7,1,Local United States of America - 7 Days - 1 GB,telna,1024,1.29,False
+1,1,Local United States of America - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local United States of America - 1 Day - 500 MB,telna,500,0.69,False
+30,100,Local Turkey - 30 Days - 100 GB,telna,102400,59.99,False
+30,0,Local Turkey - 30 Days - 50 GB,telna,51200,32.29,False
+30,20,Local Turkey - 30 Days - 20 GB,telna,20480,12.99,False
+30,10,Local Turkey - 30 Days - 10 GB,telna,10240,5.99,False
+15,5,Local Turkey - 15 Days - 5 GB,telna,5120,4.99,False
+15,3,Local Turkey - 15 Days - 3 GB,telna,3072,3.79,False
+7,2,Local Turkey - 7 Days - 2 GB,telna,2048,2.99,False
+7,1,Local Turkey - 7 Days - 1 GB,telna,1024,1.79,False
+1,1,Local Turkey - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Turkey - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local United Arab Emirates - 30 Days - 10 GB,telna,10240,16.99,False
+15,5,Local United Arab Emirates - 15 Days - 5 GB,telna,5120,10.99,False
+15,3,Local United Arab Emirates - 15 Days - 3 GB,telna,3072,7.49,False
+7,2,Local United Arab Emirates - 7 Days - 2 GB,telna,2048,5.49,False
+7,1,Local United Arab Emirates - 7 Days - 1 GB,telna,1024,2.99,False
+1,1,Local United Arab Emirates - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local United Arab Emirates - 1 Day - 500 MB,telna,500,0.69,False
+30,0,Local Canada - 30 Days - 50 GB,telna,51200,49.99,False
+30,20,Local Canada - 30 Days - 20 GB,telna,20480,23.49,False
+30,10,Local Canada - 30 Days - 10 GB,telna,10240,13.99,False
+15,5,Local Canada - 15 Days - 5 GB,telna,5120,8.99,False
+15,3,Local Canada - 15 Days - 3 GB,telna,3072,6.49,False
+7,2,Local Canada - 7 Days - 2 GB,telna,2048,4.79,False
+7,1,Local Canada - 7 Days - 1 GB,telna,1024,2.49,False
+1,1,Local Canada - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Canada - 1 Day - 500 MB,telna,500,0.59,False
+30,0,Local Japan - 30 Days - 50 GB,telna,51200,49.99,False
+30,20,Local Japan - 30 Days - 20 GB,telna,20480,24.99,False
+30,10,Local Japan - 30 Days - 10 GB,telna,10240,13.89,False
+15,5,Local Japan - 15 Days - 5 GB,telna,5120,7.99,False
+15,3,Local Japan - 15 Days - 3 GB,telna,3072,5.59,False
+7,2,Local Japan - 7 Days - 2 GB,telna,2048,4.29,False
+7,1,Local Japan - 7 Days - 1 GB,telna,1024,2.29,False
+1,1,Local Japan - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Japan - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Mexico - 30 Days - 10 GB,telna,10240,24.99,False
+15,5,Local Mexico - 15 Days - 5 GB,telna,5120,15.99,False
+15,3,Local Mexico - 15 Days - 3 GB,telna,3072,10.59,False
+7,2,Local Mexico - 7 Days - 2 GB,telna,2048,7.59,False
+7,1,Local Mexico - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Mexico - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Mexico - 1 Day - 500 MB,telna,500,0.69,False
+30,0,Local China - 30 Days - 50 GB,telna,51200,49.99,False
+30,20,Local China - 30 Days - 20 GB,citic,20480,25.99,False
+30,10,Local China - 30 Days - 10 GB,citic,10240,14.19,False
+15,5,Local China - 15 Days - 5 GB,citic,5120,8.99,False
+15,3,Local China - 15 Days - 3 GB,citic,3072,5.99,False
+7,2,Local China - 7 Days - 2 GB,citic,2048,4.39,False
+7,1,Local China - 7 Days - 1 GB,citic,1024,2.49,False
+1,1,Local China - 3 Days - 1 GB,citic,1024,0.89,False
+1,0,Local China - 1 Day - 500 MB,citic,500,0.59,False
+30,0,Local United Kingdom - 30 Days - 50 GB,telna,51200,29.99,False
+30,20,Local United Kingdom - 30 Days - 20 GB,telna,20480,15.99,False
+30,10,Local United Kingdom - 30 Days - 10 GB,telna,10240,9.99,False
+15,5,Local United Kingdom - 15 Days - 5 GB,telna,5120,4.99,False
+15,3,Local United Kingdom - 15 Days - 3 GB,telna,3072,2.99,False
+7,2,Local United Kingdom - 7 Days - 2 GB,telna,2048,1.99,False
+7,1,Local United Kingdom - 7 Days - 1 GB,telna,1024,0.99,False
+1,1,Local United Kingdom - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local United Kingdom - 1 Day - 500 MB,telna,500,0.59,False
+30,0,Local India - 30 Days - 50 GB,telna,51200,55.99,False
+30,20,Local India - 30 Days - 20 GB,telna,20480,26.99,False
+30,10,Local India - 30 Days - 10 GB,telna,10240,16.99,False
+15,5,Local India - 15 Days - 5 GB,telna,5120,9.99,False
+15,3,Local India - 15 Days - 3 GB,telna,3072,6.99,False
+7,2,Local India - 7 Days - 2 GB,telna,2048,4.99,False
+7,1,Local India - 7 Days - 1 GB,telna,1024,2.59,False
+1,1,Local India - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local India - 1 Day - 500 MB,telna,500,0.59,False
+30,0,Local Thailand - 30 Days - 50 GB,telna,51200,34.09,False
+30,20,Local Thailand - 30 Days - 20 GB,citic,20480,18.99,False
+30,10,Local Thailand - 30 Days - 10 GB,citic,10240,9.99,False
+15,5,Local Thailand - 15 Days - 5 GB,citic,5120,7.59,False
+15,3,Local Thailand - 15 Days - 3 GB,citic,3072,3.99,False
+7,2,Local Thailand - 7 Days - 2 GB,citic,2048,3.39,False
+7,1,Local Thailand - 7 Days - 1 GB,citic,1024,1.99,False
+1,1,Local Thailand - 3 Days - 1 GB,citic,1024,0.89,False
+1,0,Local Thailand - 1 Day - 500 MB,citic,500,0.59,False
+30,0,Local Spain - 30 Days - 50 GB,telna,51200,27.99,False
+30,20,Local Spain - 30 Days - 20 GB,telna,20480,17.99,False
+30,10,Local Spain - 30 Days - 10 GB,telna,10240,9.99,False
+15,5,Local Spain - 15 Days - 5 GB,telna,5120,5.99,False
+15,3,Local Spain - 15 Days - 3 GB,telna,3072,3.99,False
+7,2,Local Spain - 7 Days - 2 GB,telna,2048,2.99,False
+7,1,Local Spain - 7 Days - 1 GB,telna,1024,1.59,False
+1,1,Local Spain - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Spain - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Saudi Arabia - 30 Days - 20 GB,telna,20480,47.99,False
+30,10,Local Saudi Arabia - 30 Days - 10 GB,telna,10240,24.99,False
+15,5,Local Saudi Arabia - 15 Days - 5 GB,telna,5120,15.19,False
+15,3,Local Saudi Arabia - 15 Days - 3 GB,telna,3072,10.29,False
+7,2,Local Saudi Arabia - 7 Days - 2 GB,telna,2048,7.79,False
+7,1,Local Saudi Arabia - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Saudi Arabia - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Saudi Arabia - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Egypt - 30 Days - 20 GB,telna,20480,57.99,False
+30,10,Local Egypt - 30 Days - 10 GB,telna,10240,31.99,False
+15,5,Local Egypt - 15 Days - 5 GB,telna,5120,19.89,False
+15,3,Local Egypt - 15 Days - 3 GB,telna,3072,13.59,False
+7,2,Local Egypt - 7 Days - 2 GB,telna,2048,9.49,False
+7,1,Local Egypt - 7 Days - 1 GB,telna,1024,4.89,False
+1,1,Local Egypt - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Egypt - 1 Day - 500 MB,telna,500,0.69,False
+30,0,Local Germany - 30 Days - 50 GB,telna,51200,32.99,False
+30,20,Local Germany - 30 Days - 20 GB,telna,20480,16.99,False
+30,10,Local Germany - 30 Days - 10 GB,telna,10240,9.79,False
+15,5,Local Germany - 15 Days - 5 GB,telna,5120,5.49,False
+15,3,Local Germany - 15 Days - 3 GB,telna,3072,3.79,False
+7,2,Local Germany - 7 Days - 2 GB,telna,2048,2.79,False
+7,1,Local Germany - 7 Days - 1 GB,telna,1024,1.59,False
+1,1,Local Germany - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Germany - 1 Day - 500 MB,telna,500,0.59,False
+30,0,Local Italy - 30 Days - 50 GB,telna,51200,29.99,False
+30,20,Local Italy - 30 Days - 20 GB,telna,20480,15.99,False
+30,10,Local Italy - 30 Days - 10 GB,telna,10240,9.49,False
+15,5,Local Italy - 15 Days - 5 GB,telna,5120,5.99,False
+15,3,Local Italy - 15 Days - 3 GB,telna,3072,3.99,False
+7,2,Local Italy - 7 Days - 2 GB,telna,2048,2.99,False
+7,1,Local Italy - 7 Days - 1 GB,telna,1024,1.59,False
+1,1,Local Italy - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Italy - 1 Day - 500 MB,telna,500,0.59,False
+30,0,Local France - 30 Days - 50 GB,telna,51200,29.99,False
+30,20,Local France - 30 Days - 20 GB,telna,20480,16.49,False
+30,10,Local France - 30 Days - 10 GB,telna,10240,8.99,False
+15,5,Local France - 15 Days - 5 GB,telna,5120,5.29,False
+15,3,Local France - 15 Days - 3 GB,telna,3072,3.49,False
+7,2,Local France - 7 Days - 2 GB,telna,2048,2.79,False
+7,1,Local France - 7 Days - 1 GB,telna,1024,1.49,False
+1,1,Local France - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local France - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Indonesia - 30 Days - 20 GB,telna,20480,25.99,False
+30,10,Local Indonesia - 30 Days - 10 GB,telna,10240,16.99,False
+15,5,Local Indonesia - 15 Days - 5 GB,telna,5120,10.99,False
+15,3,Local Indonesia - 15 Days - 3 GB,telna,3072,7.49,False
+7,2,Local Indonesia - 7 Days - 2 GB,telna,2048,5.49,False
+7,1,Local Indonesia - 7 Days - 1 GB,telna,1024,2.99,False
+1,1,Local Indonesia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Indonesia - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Philippines - 30 Days - 20 GB,telna,20480,27.99,False
+30,10,Local Philippines - 30 Days - 10 GB,telna,10240,15.99,False
+15,5,Local Philippines - 15 Days - 5 GB,telna,5120,9.29,False
+15,3,Local Philippines - 15 Days - 3 GB,telna,3072,6.29,False
+7,2,Local Philippines - 7 Days - 2 GB,telna,2048,4.79,False
+7,1,Local Philippines - 7 Days - 1 GB,telna,1024,2.59,False
+1,1,Local Philippines - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Philippines - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Malaysia - 30 Days - 20 GB,telna,20480,37.99,False
+30,10,Local Malaysia - 30 Days - 10 GB,telna,10240,23.79,False
+15,5,Local Malaysia - 15 Days - 5 GB,telna,5120,14.29,False
+15,3,Local Malaysia - 15 Days - 3 GB,telna,3072,9.99,False
+7,2,Local Malaysia - 7 Days - 2 GB,telna,2048,7.59,False
+7,1,Local Malaysia - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Malaysia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Malaysia - 1 Day - 500 MB,telna,500,0.59,False
+30,50,Local Switzerland - 30 Days - 50 GB,telna,51200,42.99,False
+30,20,Local Switzerland - 30 Days - 20 GB,telna,20480,19.99,False
+30,10,Local Switzerland - 30 Days - 10 GB,telna,10240,11.79,False
+15,5,Local Switzerland - 15 Days - 5 GB,telna,5120,6.99,False
+15,3,Local Switzerland - 15 Days - 3 GB,telna,3072,4.59,False
+7,2,Local Switzerland - 7 Days - 2 GB,telna,2048,3.49,False
+7,1,Local Switzerland - 7 Days - 1 GB,telna,1024,1.89,False
+1,1,Local Switzerland - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Switzerland - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Morocco - 30 Days - 10 GB,telna,10240,28.99,False
+15,5,Local Morocco - 15 Days - 5 GB,telna,5120,18.99,False
+15,3,Local Morocco - 15 Days - 3 GB,telna,3072,12.99,False
+7,2,Local Morocco - 7 Days - 2 GB,telna,2048,8.99,False
+7,1,Local Morocco - 7 Days - 1 GB,telna,1024,4.59,False
+30,50,Local Singapore - 30 Days - 50 GB,telna,51200,39.99,False
+30,20,Local Singapore - 30 Days - 20 GB,telna,20480,19.99,False
+30,10,Local Singapore - 30 Days - 10 GB,telna,10240,11.99,False
+15,5,Local Singapore - 15 Days - 5 GB,telna,5120,6.99,False
+15,3,Local Singapore - 15 Days - 3 GB,telna,3072,4.99,False
+7,2,Local Singapore - 7 Days - 2 GB,telna,2048,3.79,False
+7,1,Local Singapore - 7 Days - 1 GB,telna,1024,1.99,False
+1,1,Local Singapore - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Singapore - 1 Day - 500 MB,telna,500,0.59,False
+15,3,Local Brazil - 15 Days - 3 GB,telna,3072,10.99,False
+7,2,Local Brazil - 7 Days - 2 GB,telna,2048,7.59,False
+7,1,Local Brazil - 7 Days - 1 GB,telna,1024,4.49,False
+30,10,Local South Korea - 30 Days - 10 GB,telna,10240,24.99,False
+15,5,Local South Korea - 15 Days - 5 GB,telna,5120,13.99,False
+15,3,Local South Korea - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local South Korea - 7 Days - 2 GB,telna,2048,5.99,False
+7,1,Local South Korea - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local South Korea - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local South Korea - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Albania - 30 Days - 20 GB,telna,20480,39.99,False
+30,10,Local Albania - 30 Days - 10 GB,telna,10240,24.99,False
+15,5,Local Albania - 15 Days - 5 GB,telna,5120,15.99,False
+15,3,Local Albania - 15 Days - 3 GB,telna,3072,10.59,False
+7,2,Local Albania - 7 Days - 2 GB,telna,2048,7.99,False
+7,1,Local Albania - 7 Days - 1 GB,telna,1024,4.39,False
+1,1,Local Albania - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Albania - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local Oman - 30 Days - 10 GB,telna,10240,24.99,False
+15,5,Local Oman - 15 Days - 5 GB,telna,5120,14.29,False
+15,3,Local Oman - 15 Days - 3 GB,telna,3072,9.99,False
+7,2,Local Oman - 7 Days - 2 GB,telna,2048,7.59,False
+7,1,Local Oman - 7 Days - 1 GB,telna,1024,4.39,False
+1,0,Local Oman - 1 Day - 500 MB,telna,500,0.69,False
+30,0,Local Australia - 30 Days - 50 GB,telna,51200,49.99,False
+30,20,Local Australia - 30 Days - 20 GB,telna,20480,25.99,False
+30,10,Local Australia - 30 Days - 10 GB,telna,10240,15.99,False
+15,5,Local Australia - 15 Days - 5 GB,telna,5120,8.99,False
+15,3,Local Australia - 15 Days - 3 GB,telna,3072,5.99,False
+7,2,Local Australia - 7 Days - 2 GB,telna,2048,4.39,False
+7,1,Local Australia - 7 Days - 1 GB,telna,1024,2.49,False
+1,1,Local Australia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Australia - 1 Day - 500 MB,telna,500,0.59,False
+30,0,Local Hong Kong - 30 Days - 50 GB,telna,51200,39.59,False
+30,20,Local Hong Kong - 30 Days - 20 GB,citic,20480,29.99,False
+30,10,Local Hong Kong - 30 Days - 10 GB,citic,10240,16.99,False
+15,5,Local Hong Kong - 15 Days - 5 GB,citic,5120,11.49,False
+15,3,Local Hong Kong - 15 Days - 3 GB,citic,3072,7.99,False
+7,2,Local Hong Kong - 7 Days - 2 GB,citic,2048,5.49,False
+7,1,Local Hong Kong - 7 Days - 1 GB,citic,1024,3.49,False
+1,1,Local Hong Kong - 3 Days - 1 GB,citic,1024,0.89,False
+1,0,Local Hong Kong - 1 Day - 500 MB,citic,500,0.59,False
+30,50,Local Netherlands - 30 Days - 50 GB,telna,51200,29.99,False
+30,50,Local Netherlands - 30 Days - 50 GB,telna,51200,29.99,False
+30,20,Local Netherlands - 30 Days - 20 GB,telna,20480,16.99,False
+30,10,Local Netherlands - 30 Days - 10 GB,telna,10240,9.99,False
+15,5,Local Netherlands - 15 Days - 5 GB,telna,5120,6.99,False
+15,3,Local Netherlands - 15 Days - 3 GB,telna,3072,4.99,False
+7,2,Local Netherlands - 7 Days - 2 GB,telna,2048,3.79,False
+7,1,Local Netherlands - 7 Days - 1 GB,telna,1024,1.99,False
+1,1,Local Netherlands - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Netherlands - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Qatar - 15 Days - 5 GB,telna,5120,17.79,False
+15,3,Local Qatar - 15 Days - 3 GB,telna,3072,11.39,False
+7,2,Local Qatar - 7 Days - 2 GB,telna,2048,8.59,False
+7,1,Local Qatar - 7 Days - 1 GB,telna,1024,4.79,False
+1,1,Local Qatar - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Qatar - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Vietnam - 30 Days - 20 GB,telna,20480,40.99,False
+30,10,Local Vietnam - 30 Days - 10 GB,telna,10240,21.99,False
+15,5,Local Vietnam - 15 Days - 5 GB,telna,5120,12.49,False
+15,3,Local Vietnam - 15 Days - 3 GB,telna,3072,10.99,False
+7,2,Local Vietnam - 7 Days - 2 GB,telna,2048,6.99,False
+7,1,Local Vietnam - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Vietnam - 3 Days - 1 GB,citic,1024,0.99,False
+1,0,Local Vietnam - 1 Day - 500 MB,citic,500,0.69,False
+30,10,Local Tunisia - 30 Days - 10 GB,telna,10240,27.59,False
+15,5,Local Tunisia - 15 Days - 5 GB,telna,5120,16.19,False
+15,3,Local Tunisia - 15 Days - 3 GB,telna,3072,10.89,False
+7,2,Local Tunisia - 7 Days - 2 GB,telna,2048,8.59,False
+7,1,Local Tunisia - 7 Days - 1 GB,telna,1024,4.79,False
+1,1,Local Tunisia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Tunisia - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local South Africa - 30 Days - 20 GB,telna,20480,26.69,False
+30,10,Local South Africa - 30 Days - 10 GB,telna,10240,17.59,False
+15,5,Local South Africa - 15 Days - 5 GB,telna,5120,10.59,False
+15,3,Local South Africa - 15 Days - 3 GB,telna,3072,21.99,False
+7,2,Local South Africa - 7 Days - 2 GB,telna,2048,15.99,False
+7,1,Local South Africa - 7 Days - 1 GB,telna,1024,8.99,False
+1,1,Local South Africa - 1 Day - 1 GB,telna,1024,8.99,False
+15,3,Local Peru - 15 Days - 3 GB,telna,3072,14.29,False
+7,2,Local Peru - 7 Days - 2 GB,telna,2048,9.99,False
+7,1,Local Peru - 7 Days - 1 GB,telna,1024,5.89,False
+30,20,Local Serbia - 30 Days - 20 GB,telna,20480,69.99,False
+30,10,Local Serbia - 30 Days - 10 GB,telna,10240,37.99,False
+15,5,Local Serbia - 15 Days - 5 GB,telna,5120,19.99,False
+15,3,Local Serbia - 15 Days - 3 GB,telna,3072,12.39,False
+7,2,Local Serbia - 7 Days - 2 GB,telna,2048,8.49,False
+7,1,Local Serbia - 7 Days - 1 GB,telna,1024,4.79,False
+1,1,Local Serbia - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Serbia - 1 Day - 500 MB,telna,500,0.69,False
+15,5,Local Colombia - 15 Days - 5 GB,telna,5120,30.89,False
+15,3,Local Colombia - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local Colombia - 7 Days - 2 GB,telna,2048,14.29,False
+7,1,Local Colombia - 7 Days - 1 GB,telna,1024,7.99,False
+30,20,Local Taiwan - 30 Days - 20 GB,citic,20480,29.99,False
+30,10,Local Taiwan - 30 Days - 10 GB,citic,10240,16.99,False
+15,5,Local Taiwan - 15 Days - 5 GB,citic,5120,11.99,False
+15,3,Local Taiwan - 15 Days - 3 GB,citic,3072,7.99,False
+7,2,Local Taiwan - 7 Days - 2 GB,citic,2048,5.49,False
+7,1,Local Taiwan - 7 Days - 1 GB,citic,1024,3.49,False
+1,1,Local Taiwan - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Taiwan - 1 Day - 500 MB,telna,500,0.59,False
+1,1,Local Poland - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Poland - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Brunei - 15 Days - 5 GB,telna,5120,25.69,False
+15,3,Local Brunei - 15 Days - 3 GB,telna,3072,17.09,False
+7,2,Local Brunei - 7 Days - 2 GB,telna,2048,15.99,False
+7,1,Local Brunei - 7 Days - 1 GB,telna,1024,8.59,False
+1,1,Local Brunei - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Brunei - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local Georgia - 30 Days - 10 GB,telna,10240,33.29,False
+15,5,Local Georgia - 15 Days - 5 GB,telna,5120,18.99,False
+15,3,Local Georgia - 15 Days - 3 GB,telna,3072,12.79,False
+7,2,Local Georgia - 7 Days - 2 GB,telna,2048,9.39,False
+7,1,Local Georgia - 7 Days - 1 GB,telna,1024,5.29,False
+1,1,Local Georgia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Georgia - 1 Day - 500 MB,telna,500,0.59,False
+30,100,Local Ukraine - 30 Days - 100 GB,telna,102400,44.99,False
+30,50,Local Ukraine - 30 Days - 50 GB,telna,51200,24.99,False
+30,20,Local Ukraine - 30 Days - 20 GB,telna,20480,11.49,False
+30,10,Local Ukraine - 30 Days - 10 GB,telna,10240,6.69,False
+15,5,Local Ukraine - 15 Days - 5 GB,telna,5120,3.79,False
+15,3,Local Ukraine - 15 Days - 3 GB,telna,3072,2.59,False
+7,2,Local Ukraine - 7 Days - 2 GB,telna,2048,1.89,False
+7,1,Local Ukraine - 7 Days - 1 GB,telna,1024,0.99,False
+7,1,Local Ukraine - 7 Days - 1 GB,telna,1024,4.99,False
+1,1,Local Ukraine - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Ukraine - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Azerbaijan - 30 Days - 20 GB,telna,20480,64.99,False
+30,10,Local Azerbaijan - 30 Days - 10 GB,telna,10240,37.99,False
+15,5,Local Azerbaijan - 15 Days - 5 GB,telna,5120,19.99,False
+15,3,Local Azerbaijan - 15 Days - 3 GB,telna,3072,13.29,False
+7,2,Local Azerbaijan - 7 Days - 2 GB,telna,2048,11.99,False
+7,1,Local Azerbaijan - 7 Days - 1 GB,telna,1024,6.69,False
+1,1,Local Azerbaijan - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Azerbaijan - 1 Day - 500 MB,telna,500,0.69,False
+15,5,Local Dominican Republic - 15 Days - 5 GB,telna,5120,37.49,False
+15,3,Local Dominican Republic - 15 Days - 3 GB,telna,3072,23.79,False
+7,2,Local Dominican Republic - 7 Days - 2 GB,telna,2048,17.09,False
+7,1,Local Dominican Republic - 7 Days - 1 GB,telna,1024,9.39,False
+30,20,Local Montenegro - 30 Days - 20 GB,telna,20480,41.99,False
+30,10,Local Montenegro - 30 Days - 10 GB,telna,10240,23.99,False
+15,5,Local Montenegro - 15 Days - 5 GB,telna,5120,16.59,False
+15,3,Local Montenegro - 15 Days - 3 GB,telna,3072,14.29,False
+7,2,Local Montenegro - 7 Days - 2 GB,telna,2048,10.99,False
+7,1,Local Montenegro - 7 Days - 1 GB,telna,1024,6.19,False
+1,1,Local Montenegro - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Montenegro - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Greece - 30 Days - 20 GB,telna,20480,39.99,False
+30,10,Local Greece - 30 Days - 10 GB,telna,10240,23.79,False
+15,5,Local Greece - 15 Days - 5 GB,telna,5120,14.29,False
+15,3,Local Greece - 15 Days - 3 GB,telna,3072,11.39,False
+7,2,Local Greece - 7 Days - 2 GB,telna,2048,8.59,False
+7,1,Local Greece - 7 Days - 1 GB,telna,1024,4.89,False
+1,1,Local Greece - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Greece - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Portugal - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Portugal - 30 Days - 10 GB,telna,10240,16.19,False
+15,5,Local Portugal - 15 Days - 5 GB,telna,5120,9.49,False
+15,3,Local Portugal - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Portugal - 7 Days - 2 GB,telna,2048,6.69,False
+7,1,Local Portugal - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Portugal - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Portugal - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Pakistan - 30 Days - 20 GB,telna,20480,39.99,False
+30,10,Local Pakistan - 30 Days - 10 GB,telna,10240,28.49,False
+15,5,Local Pakistan - 15 Days - 5 GB,telna,5120,16.59,False
+15,3,Local Pakistan - 15 Days - 3 GB,telna,3072,11.39,False
+7,2,Local Pakistan - 7 Days - 2 GB,telna,2048,7.99,False
+7,1,Local Pakistan - 7 Days - 1 GB,telna,1024,4.99,False
+1,1,Local Pakistan - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Pakistan - 1 Day - 500 MB,telna,500,0.59,False
+15,3,Local Bosnia and Herzegovina - 15 Days - 3 GB,telna,3072,10.49,False
+7,2,Local Bosnia and Herzegovina - 7 Days - 2 GB,telna,2048,6.89,False
+7,1,Local Bosnia and Herzegovina - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Bosnia and Herzegovina - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Bosnia and Herzegovina - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local Israel - 30 Days - 10 GB,telna,10240,14.29,False
+15,5,Local Israel - 15 Days - 5 GB,telna,5120,10.49,False
+15,3,Local Israel - 15 Days - 3 GB,telna,3072,9.99,False
+7,2,Local Israel - 7 Days - 2 GB,telna,2048,7.09,False
+7,1,Local Israel - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Israel - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Israel - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Costa Rica - 15 Days - 5 GB,telna,5120,29.49,False
+15,3,Local Costa Rica - 15 Days - 3 GB,telna,3072,20.89,False
+7,2,Local Costa Rica - 7 Days - 2 GB,telna,2048,14.99,False
+7,1,Local Costa Rica - 7 Days - 1 GB,telna,1024,8.49,False
+15,5,Local Panama - 15 Days - 5 GB,telna,5120,26.99,False
+15,3,Local Panama - 15 Days - 3 GB,telna,3072,17.09,False
+7,2,Local Panama - 7 Days - 2 GB,telna,2048,11.99,False
+7,1,Local Panama - 7 Days - 1 GB,telna,1024,8.59,False
+30,20,Local Bulgaria - 30 Days - 20 GB,telna,20480,24.99,False
+30,10,Local Bulgaria - 30 Days - 10 GB,telna,10240,13.99,False
+15,5,Local Bulgaria - 15 Days - 5 GB,telna,5120,7.49,False
+15,3,Local Bulgaria - 15 Days - 3 GB,telna,3072,6.29,False
+7,2,Local Bulgaria - 7 Days - 2 GB,telna,2048,5.99,False
+7,1,Local Bulgaria - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Bulgaria - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Bulgaria - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Iraq - 30 Days - 10 GB,telna,10240,28.49,False
+15,5,Local Iraq - 15 Days - 5 GB,telna,5120,16.59,False
+15,3,Local Iraq - 15 Days - 3 GB,telna,3072,11.39,False
+7,2,Local Iraq - 7 Days - 2 GB,telna,2048,8.79,False
+7,1,Local Iraq - 7 Days - 1 GB,telna,1024,4.79,False
+1,1,Local Iraq - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Iraq - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Belgium - 30 Days - 20 GB,telna,20480,27.99,False
+30,10,Local Belgium - 30 Days - 10 GB,telna,10240,18.99,False
+15,5,Local Belgium - 15 Days - 5 GB,telna,5120,10.99,False
+15,3,Local Belgium - 15 Days - 3 GB,telna,3072,8.49,False
+7,2,Local Belgium - 7 Days - 2 GB,telna,2048,5.99,False
+7,1,Local Belgium - 7 Days - 1 GB,telna,1024,4.19,False
+1,1,Local Belgium - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Belgium - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Nepal - 15 Days - 5 GB,telna,5120,31.99,False
+15,3,Local Nepal - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local Nepal - 7 Days - 2 GB,telna,2048,14.99,False
+7,1,Local Nepal - 7 Days - 1 GB,telna,1024,9.39,False
+1,1,Local Nepal - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Nepal - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local New Zealand - 30 Days - 20 GB,telna,20480,41.79,False
+30,10,Local New Zealand - 30 Days - 10 GB,telna,10240,25.69,False
+15,5,Local New Zealand - 15 Days - 5 GB,telna,5120,15.19,False
+15,3,Local New Zealand - 15 Days - 3 GB,telna,3072,10.49,False
+7,2,Local New Zealand - 7 Days - 2 GB,telna,2048,8.09,False
+7,1,Local New Zealand - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local New Zealand - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local New Zealand - 1 Day - 500 MB,telna,500,0.59,False
+15,3,Local Bahamas - 15 Days - 3 GB,telna,3072,37.99,False
+7,2,Local Bahamas - 7 Days - 2 GB,telna,2048,25.99,False
+7,1,Local Bahamas - 7 Days - 1 GB,telna,1024,14.69,False
+30,20,Local Kuwait - 30 Days - 20 GB,telna,20480,37.99,False
+30,10,Local Kuwait - 30 Days - 10 GB,telna,10240,23.79,False
+15,5,Local Kuwait - 15 Days - 5 GB,telna,5120,14.29,False
+15,3,Local Kuwait - 15 Days - 3 GB,telna,3072,9.99,False
+7,2,Local Kuwait - 7 Days - 2 GB,telna,2048,7.59,False
+7,1,Local Kuwait - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Kuwait - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Kuwait - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Armenia - 30 Days - 20 GB,telna,20480,89.99,False
+30,10,Local Armenia - 30 Days - 10 GB,telna,10240,49.99,False
+15,5,Local Armenia - 15 Days - 5 GB,telna,5120,27.99,False
+7,2,Local Armenia - 7 Days - 2 GB,telna,2048,14.99,False
+7,1,Local Armenia - 7 Days - 1 GB,telna,1024,7.99,False
+1,1,Local Armenia - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Armenia - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local Sri Lanka - 30 Days - 10 GB,telna,10240,43.99,False
+15,5,Local Sri Lanka - 15 Days - 5 GB,telna,5120,27.99,False
+15,3,Local Sri Lanka - 15 Days - 3 GB,telna,3072,14.59,False
+7,2,Local Sri Lanka - 7 Days - 2 GB,telna,2048,13.99,False
+7,1,Local Sri Lanka - 7 Days - 1 GB,telna,1024,6.69,False
+1,1,Local Sri Lanka - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Sri Lanka - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local North Macedonia - 30 Days - 10 GB,telna,10240,59.99,False
+15,5,Local North Macedonia - 15 Days - 5 GB,telna,5120,31.99,False
+15,3,Local North Macedonia - 15 Days - 3 GB,telna,3072,21.99,False
+7,2,Local North Macedonia - 7 Days - 2 GB,telna,2048,15.99,False
+7,1,Local North Macedonia - 7 Days - 1 GB,telna,1024,8.49,False
+1,1,Local North Macedonia - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local North Macedonia - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Uzbekistan - 30 Days - 20 GB,telna,20480,32.29,False
+30,10,Local Uzbekistan - 30 Days - 10 GB,telna,10240,20.89,False
+15,5,Local Uzbekistan - 15 Days - 5 GB,telna,5120,12.79,False
+15,3,Local Uzbekistan - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Uzbekistan - 7 Days - 2 GB,telna,2048,7.09,False
+7,1,Local Uzbekistan - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Uzbekistan - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Uzbekistan - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Algeria - 30 Days - 10 GB,telna,10240,46.49,False
+15,5,Local Algeria - 15 Days - 5 GB,telna,5120,25.49,False
+15,3,Local Algeria - 15 Days - 3 GB,telna,3072,16.59,False
+7,2,Local Algeria - 7 Days - 2 GB,telna,2048,12.49,False
+7,1,Local Algeria - 7 Days - 1 GB,telna,1024,6.89,False
+1,1,Local Algeria - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Algeria - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Ireland - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Ireland - 30 Days - 10 GB,telna,10240,20.89,False
+15,5,Local Ireland - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Ireland - 15 Days - 3 GB,telna,3072,8.69,False
+7,2,Local Ireland - 7 Days - 2 GB,telna,2048,6.79,False
+7,1,Local Ireland - 7 Days - 1 GB,telna,1024,4.79,False
+1,1,Local Ireland - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Ireland - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Puerto Rico - 30 Days - 10 GB,telna,10240,10.99,False
+15,5,Local Puerto Rico - 15 Days - 5 GB,telna,5120,7.99,False
+15,3,Local Puerto Rico - 15 Days - 3 GB,telna,3072,5.99,False
+7,2,Local Puerto Rico - 7 Days - 2 GB,telna,2048,3.99,False
+7,1,Local Puerto Rico - 7 Days - 1 GB,telna,1024,3.10,False
+30,20,Local Romania - 30 Days - 20 GB,telna,20480,26.99,False
+30,10,Local Romania - 30 Days - 10 GB,telna,10240,16.49,False
+15,5,Local Romania - 15 Days - 5 GB,telna,5120,9.99,False
+15,3,Local Romania - 15 Days - 3 GB,telna,3072,7.99,False
+7,2,Local Romania - 7 Days - 2 GB,telna,2048,5.99,False
+7,1,Local Romania - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Romania - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Romania - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Argentina - 15 Days - 5 GB,telna,5120,32.59,False
+15,3,Local Argentina - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local Argentina - 7 Days - 2 GB,telna,2048,14.29,False
+7,1,Local Argentina - 7 Days - 1 GB,telna,1024,8.99,False
+30,20,Local Austria - 30 Days - 20 GB,telna,20480,23.99,False
+30,10,Local Austria - 30 Days - 10 GB,telna,10240,16.29,False
+15,5,Local Austria - 15 Days - 5 GB,telna,5120,7.99,False
+15,3,Local Austria - 15 Days - 3 GB,telna,3072,6.49,False
+7,2,Local Austria - 7 Days - 2 GB,telna,2048,4.99,False
+7,1,Local Austria - 7 Days - 1 GB,telna,1024,5.19,False
+1,1,Local Austria - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Austria - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local El Salvador - 15 Days - 5 GB,telna,5120,30.89,False
+15,3,Local El Salvador - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local El Salvador - 7 Days - 2 GB,telna,2048,13.99,False
+7,1,Local El Salvador - 7 Days - 1 GB,telna,1024,7.79,False
+15,5,Local Guatemala - 15 Days - 5 GB,telna,5120,27.99,False
+15,3,Local Guatemala - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local Guatemala - 7 Days - 2 GB,telna,2048,13.99,False
+7,1,Local Guatemala - 7 Days - 1 GB,telna,1024,7.29,False
+30,10,Local Cambodia - 30 Days - 10 GB,telna,10240,29.99,False
+15,5,Local Cambodia - 15 Days - 5 GB,telna,5120,15.19,False
+15,3,Local Cambodia - 15 Days - 3 GB,telna,3072,9.19,False
+7,2,Local Cambodia - 7 Days - 2 GB,telna,2048,12.99,False
+7,1,Local Cambodia - 7 Days - 1 GB,telna,1024,6.89,False
+1,1,Local Cambodia - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Cambodia - 1 Day - 500 MB,telna,500,0.69,False
+30,20,Local Norway - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Norway - 30 Days - 10 GB,telna,10240,19.99,False
+15,5,Local Norway - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Norway - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Norway - 7 Days - 2 GB,telna,2048,6.69,False
+7,1,Local Norway - 7 Days - 1 GB,telna,1024,4.39,False
+1,1,Local Norway - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Norway - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Hungary - 30 Days - 20 GB,telna,20480,34.19,False
+30,10,Local Hungary - 30 Days - 10 GB,telna,10240,20.89,False
+15,5,Local Hungary - 15 Days - 5 GB,telna,5120,12.79,False
+15,3,Local Hungary - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Hungary - 7 Days - 2 GB,telna,2048,7.49,False
+7,1,Local Hungary - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Hungary - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Hungary - 1 Day - 500 MB,telna,500,0.59,False
+7,2,Local Jamaica - 7 Days - 2 GB,telna,2048,28.99,False
+7,1,Local Jamaica - 7 Days - 1 GB,telna,1024,15.99,False
+30,20,Local Czechia - 30 Days - 20 GB,telna,20480,27.99,False
+30,10,Local Czechia - 30 Days - 10 GB,telna,10240,20.89,False
+15,5,Local Czechia - 15 Days - 5 GB,telna,5120,14.99,False
+15,3,Local Czechia - 15 Days - 3 GB,telna,3072,10.99,False
+7,2,Local Czechia - 7 Days - 2 GB,telna,2048,7.49,False
+7,1,Local Czechia - 7 Days - 1 GB,telna,1024,4.79,False
+30,10,Local Ghana - 30 Days - 10 GB,telna,10240,27.59,False
+15,5,Local Ghana - 15 Days - 5 GB,telna,5120,16.19,False
+15,3,Local Ghana - 15 Days - 3 GB,telna,3072,10.89,False
+7,2,Local Ghana - 7 Days - 2 GB,telna,2048,8.59,False
+7,1,Local Ghana - 7 Days - 1 GB,telna,1024,4.89,False
+1,1,Local Ghana - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Ghana - 1 Day - 500 MB,telna,500,0.69,False
+15,3,Local Aruba - 15 Days - 3 GB,telna,3072,33.99,False
+7,2,Local Aruba - 7 Days - 2 GB,telna,2048,22.99,False
+7,1,Local Aruba - 7 Days - 1 GB,telna,1024,12.99,False
+30,20,Local Kazakhstan - 30 Days - 20 GB,telna,20480,32.99,False
+30,10,Local Kazakhstan - 30 Days - 10 GB,telna,10240,17.09,False
+15,5,Local Kazakhstan - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Kazakhstan - 15 Days - 3 GB,telna,3072,8.59,False
+7,2,Local Kazakhstan - 7 Days - 2 GB,telna,2048,6.59,False
+7,1,Local Kazakhstan - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Kazakhstan - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Kazakhstan - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Sweden - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Sweden - 30 Days - 10 GB,telna,10240,17.09,False
+15,5,Local Sweden - 15 Days - 5 GB,telna,5120,11.39,False
+15,3,Local Sweden - 15 Days - 3 GB,telna,3072,7.59,False
+7,2,Local Sweden - 7 Days - 2 GB,telna,2048,6.19,False
+7,1,Local Sweden - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Sweden - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Sweden - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Kenya - 15 Days - 5 GB,telna,5120,34.69,False
+15,3,Local Kenya - 15 Days - 3 GB,telna,3072,22.29,False
+7,2,Local Kenya - 7 Days - 2 GB,telna,2048,15.69,False
+7,1,Local Kenya - 7 Days - 1 GB,telna,1024,8.59,False
+30,10,Local Bangladesh - 30 Days - 10 GB,telna,10240,25.99,False
+15,5,Local Bangladesh - 15 Days - 5 GB,telna,5120,12.99,False
+15,3,Local Bangladesh - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Bangladesh - 7 Days - 2 GB,telna,2048,6.99,False
+7,1,Local Bangladesh - 7 Days - 1 GB,telna,1024,4.39,False
+1,1,Local Bangladesh - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Bangladesh - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local Iran - 30 Days - 10 GB,telna,10240,57.99,False
+15,5,Local Iran - 15 Days - 5 GB,telna,5120,29.99,False
+15,3,Local Iran - 15 Days - 3 GB,telna,3072,16.99,False
+7,2,Local Iran - 7 Days - 2 GB,telna,2048,11.99,False
+7,1,Local Iran - 7 Days - 1 GB,telna,1024,6.79,False
+15,3,Local Tajikistan - 15 Days - 3 GB,telna,3072,11.99,False
+7,2,Local Tajikistan - 7 Days - 2 GB,telna,2048,7.99,False
+7,1,Local Tajikistan - 7 Days - 1 GB,telna,1024,4.39,False
+1,1,Local Tajikistan - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Tajikistan - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local Chile - 30 Days - 10 GB,telna,10240,61.99,False
+15,5,Local Chile - 15 Days - 5 GB,telna,5120,34.99,False
+15,3,Local Chile - 15 Days - 3 GB,telna,3072,21.99,False
+7,2,Local Chile - 7 Days - 2 GB,telna,2048,16.99,False
+7,1,Local Chile - 7 Days - 1 GB,telna,1024,8.99,False
+15,5,Local Nigeria - 15 Days - 5 GB,telna,5120,32.29,False
+15,3,Local Nigeria - 15 Days - 3 GB,telna,3072,20.89,False
+7,2,Local Nigeria - 7 Days - 2 GB,telna,2048,14.69,False
+7,1,Local Nigeria - 7 Days - 1 GB,telna,1024,8.49,False
+30,20,Local Denmark - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Denmark - 30 Days - 10 GB,telna,10240,19.99,False
+15,5,Local Denmark - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Denmark - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Denmark - 7 Days - 2 GB,telna,2048,6.89,False
+7,1,Local Denmark - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Denmark - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Denmark - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Iceland - 30 Days - 20 GB,telna,20480,34.19,False
+30,10,Local Iceland - 30 Days - 10 GB,telna,10240,21.89,False
+15,5,Local Iceland - 15 Days - 5 GB,telna,5120,13.29,False
+15,3,Local Iceland - 15 Days - 3 GB,telna,3072,9.49,False
+7,2,Local Iceland - 7 Days - 2 GB,telna,2048,7.09,False
+7,1,Local Iceland - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Iceland - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Iceland - 1 Day - 500 MB,telna,500,0.59,False
+7,2,Local Tanzania - 7 Days - 2 GB,telna,2048,12.09,False
+7,1,Local Tanzania - 7 Days - 1 GB,telna,1024,7.19,False
+30,20,Local Malta - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Malta - 30 Days - 10 GB,telna,10240,21.39,False
+15,5,Local Malta - 15 Days - 5 GB,telna,5120,14.29,False
+15,3,Local Malta - 15 Days - 3 GB,telna,3072,9.49,False
+7,2,Local Malta - 7 Days - 2 GB,telna,2048,6.99,False
+7,1,Local Malta - 7 Days - 1 GB,telna,1024,4.99,False
+1,1,Local Malta - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Malta - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Bolivia - 30 Days - 10 GB,telna,10240,64.99,False
+15,5,Local Bolivia - 15 Days - 5 GB,telna,5120,34.19,False
+15,3,Local Bolivia - 15 Days - 3 GB,telna,3072,21.89,False
+7,2,Local Bolivia - 7 Days - 2 GB,telna,2048,15.69,False
+7,1,Local Bolivia - 7 Days - 1 GB,telna,1024,8.49,False
+30,20,Local Macao - 30 Days - 20 GB,telna,20480,41.99,False
+30,10,Local Macao - 30 Days - 10 GB,telna,10240,22.99,False
+15,5,Local Macao - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Macao - 15 Days - 3 GB,telna,3072,7.19,False
+7,2,Local Macao - 7 Days - 2 GB,telna,2048,4.89,False
+7,1,Local Macao - 7 Days - 1 GB,telna,1024,2.79,False
+1,1,Local Macao - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Macao - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Ecuador - 30 Days - 10 GB,telna,10240,54.99,False
+15,5,Local Ecuador - 15 Days - 5 GB,telna,5120,30.89,False
+15,3,Local Ecuador - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local Ecuador - 7 Days - 2 GB,telna,2048,14.29,False
+7,1,Local Ecuador - 7 Days - 1 GB,telna,1024,7.59,False
+7,2,Local Belize - 7 Days - 2 GB,telna,2048,33.49,False
+7,1,Local Belize - 7 Days - 1 GB,telna,1024,17.39,False
+15,5,Local Honduras - 15 Days - 5 GB,telna,5120,34.99,False
+15,3,Local Honduras - 15 Days - 3 GB,telna,3072,20.19,False
+7,2,Local Honduras - 7 Days - 2 GB,telna,2048,13.49,False
+7,1,Local Honduras - 7 Days - 1 GB,telna,1024,7.99,False
+15,5,Local Nicaragua - 15 Days - 5 GB,telna,5120,32.29,False
+15,3,Local Nicaragua - 15 Days - 3 GB,telna,3072,20.89,False
+7,2,Local Nicaragua - 7 Days - 2 GB,telna,2048,14.69,False
+7,1,Local Nicaragua - 7 Days - 1 GB,telna,1024,8.49,False
+7,1,Local Ethiopia - 7 Days - 1 GB,telna,1024,44.99,False
+15,5,Local Uruguay - 15 Days - 5 GB,telna,5120,35.59,False
+15,3,Local Uruguay - 15 Days - 3 GB,telna,3072,22.99,False
+7,2,Local Uruguay - 7 Days - 2 GB,telna,2048,14.99,False
+7,1,Local Uruguay - 7 Days - 1 GB,telna,1024,8.49,False
+7,2,Local Barbados - 7 Days - 2 GB,telna,2048,25.99,False
+7,1,Local Barbados - 7 Days - 1 GB,telna,1024,14.89,False
+30,20,Local Cyprus - 30 Days - 20 GB,telna,20480,26.59,False
+30,10,Local Cyprus - 30 Days - 10 GB,telna,10240,18.09,False
+15,5,Local Cyprus - 15 Days - 5 GB,telna,5120,11.39,False
+15,3,Local Cyprus - 15 Days - 3 GB,telna,3072,8.59,False
+7,2,Local Cyprus - 7 Days - 2 GB,telna,2048,6.69,False
+7,1,Local Cyprus - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Cyprus - 1 Day - 1 GB,telna,1024,0.79,False
+1,0,Local Cyprus - 1 Day - 500 MB,telna,500,0.49,False
+15,5,Local Moldova - 15 Days - 5 GB,telna,5120,16.19,False
+15,3,Local Moldova - 15 Days - 3 GB,telna,3072,12.79,False
+7,2,Local Moldova - 7 Days - 2 GB,telna,2048,9.89,False
+7,1,Local Moldova - 7 Days - 1 GB,telna,1024,5.29,False
+1,1,Local Moldova - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Moldova - 1 Day - 500 MB,telna,500,0.69,False
+15,3,Local Bahrain - 15 Days - 3 GB,telna,3072,23.99,False
+7,2,Local Bahrain - 7 Days - 2 GB,telna,2048,15.89,False
+7,1,Local Bahrain - 7 Days - 1 GB,telna,1024,9.19,False
+30,20,Local Croatia - 30 Days - 20 GB,telna,20480,33.99,False
+30,10,Local Croatia - 30 Days - 10 GB,telna,10240,20.99,False
+15,5,Local Croatia - 15 Days - 5 GB,telna,5120,13.99,False
+15,3,Local Croatia - 15 Days - 3 GB,telna,3072,8.49,False
+7,2,Local Croatia - 7 Days - 2 GB,telna,2048,5.99,False
+7,1,Local Croatia - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Croatia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Croatia - 1 Day - 500 MB,telna,500,0.59,False
+15,3,Local Gibraltar - 15 Days - 3 GB,telna,3072,12.49,False
+7,2,Local Gibraltar - 7 Days - 2 GB,telna,2048,8.49,False
+7,1,Local Gibraltar - 7 Days - 1 GB,telna,1024,4.89,False
+30,20,Local Reunion - 30 Days - 20 GB,telna,20480,36.59,False
+30,10,Local Reunion - 30 Days - 10 GB,telna,10240,18.49,False
+15,5,Local Reunion - 15 Days - 5 GB,telna,5120,9.99,False
+15,3,Local Reunion - 15 Days - 3 GB,telna,3072,7.99,False
+7,2,Local Reunion - 7 Days - 2 GB,telna,2048,5.99,False
+7,1,Local Reunion - 7 Days - 1 GB,telna,1024,3.99,False
+1,1,Local Reunion - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Reunion - 1 Day - 500 MB,telna,500,0.59,False
+30,10,Local Kyrgyzstan - 30 Days - 10 GB,telna,10240,39.99,False
+15,5,Local Kyrgyzstan - 15 Days - 5 GB,telna,5120,22.79,False
+15,3,Local Kyrgyzstan - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local Kyrgyzstan - 7 Days - 2 GB,telna,2048,13.99,False
+7,1,Local Kyrgyzstan - 7 Days - 1 GB,telna,1024,7.69,False
+1,1,Local Kyrgyzstan - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Kyrgyzstan - 1 Day - 500 MB,telna,500,0.69,False
+15,5,Local Venezuela - 15 Days - 5 GB,telna,5120,37.99,False
+15,3,Local Venezuela - 15 Days - 3 GB,telna,3072,24.19,False
+7,2,Local Venezuela - 7 Days - 2 GB,telna,2048,17.09,False
+7,1,Local Venezuela - 7 Days - 1 GB,telna,1024,9.29,False
+7,2,Local Bhutan - 7 Days - 2 GB,telna,2048,19.99,False
+7,1,Local Bhutan - 7 Days - 1 GB,telna,1024,11.89,False
+15,3,Local Trinidad and Tobago - 15 Days - 3 GB,telna,3072,35.99,False
+7,2,Local Trinidad and Tobago - 7 Days - 2 GB,telna,2048,23.99,False
+7,1,Local Trinidad and Tobago - 7 Days - 1 GB,telna,1024,13.49,False
+30,20,Local Finland - 30 Days - 20 GB,telna,20480,24.69,False
+30,10,Local Finland - 30 Days - 10 GB,telna,10240,17.09,False
+15,5,Local Finland - 15 Days - 5 GB,telna,5120,11.39,False
+15,3,Local Finland - 15 Days - 3 GB,telna,3072,7.59,False
+7,2,Local Finland - 7 Days - 2 GB,telna,2048,6.19,False
+7,1,Local Finland - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Finland - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Finland - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Myanmar - 30 Days - 20 GB,telna,20480,44.99,False
+30,10,Local Myanmar - 30 Days - 10 GB,telna,10240,24.99,False
+15,5,Local Myanmar - 15 Days - 5 GB,telna,5120,15.49,False
+15,3,Local Myanmar - 15 Days - 3 GB,telna,3072,9.99,False
+7,2,Local Myanmar - 7 Days - 2 GB,telna,2048,7.99,False
+7,1,Local Myanmar - 7 Days - 1 GB,telna,1024,4.99,False
+1,1,Local Myanmar - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Myanmar - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Fiji - 15 Days - 5 GB,telna,5120,30.99,False
+15,3,Local Fiji - 15 Days - 3 GB,telna,3072,18.49,False
+7,2,Local Fiji - 7 Days - 2 GB,telna,2048,18.99,False
+7,1,Local Fiji - 7 Days - 1 GB,telna,1024,7.29,False
+7,1,Local Namibia - 7 Days - 1 GB,telna,1024,36.99,False
+7,2,Local Antigua and Barbuda - 7 Days - 2 GB,telna,2048,26.49,False
+7,1,Local Antigua and Barbuda - 7 Days - 1 GB,telna,1024,14.99,False
+15,5,Local Côte d'Ivoire - 15 Days - 5 GB,telna,5120,45.99,False
+15,3,Local Côte d'Ivoire - 15 Days - 3 GB,telna,3072,29.99,False
+7,2,Local Côte d'Ivoire - 7 Days - 2 GB,telna,2048,18.99,False
+7,1,Local Côte d'Ivoire - 7 Days - 1 GB,telna,1024,9.99,False
+30,20,Local Lithuania - 30 Days - 20 GB,telna,20480,32.29,False
+30,10,Local Lithuania - 30 Days - 10 GB,telna,10240,20.89,False
+15,5,Local Lithuania - 15 Days - 5 GB,telna,5120,12.79,False
+15,3,Local Lithuania - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Lithuania - 7 Days - 2 GB,telna,2048,7.09,False
+7,1,Local Lithuania - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Lithuania - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Lithuania - 1 Day - 500 MB,telna,500,0.59,False
+15,3,Local Timor-Leste - 15 Days - 3 GB,telna,3072,14.99,False
+7,2,Local Timor-Leste - 7 Days - 2 GB,telna,2048,10.99,False
+7,1,Local Timor-Leste - 7 Days - 1 GB,telna,1024,5.99,False
+15,3,Local Zambia - 15 Days - 3 GB,telna,3072,25.99,False
+7,2,Local Zambia - 7 Days - 2 GB,telna,2048,17.99,False
+7,1,Local Zambia - 7 Days - 1 GB,telna,1024,9.59,False
+15,5,Local Laos - 15 Days - 5 GB,telna,5120,36.99,False
+15,3,Local Laos - 15 Days - 3 GB,telna,3072,22.99,False
+7,2,Local Laos - 7 Days - 2 GB,telna,2048,15.99,False
+7,1,Local Laos - 7 Days - 1 GB,telna,1024,9.29,False
+30,20,Local Slovakia - 30 Days - 20 GB,telna,20480,38.99,False
+30,10,Local Slovakia - 30 Days - 10 GB,telna,10240,20.89,False
+15,5,Local Slovakia - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Slovakia - 15 Days - 3 GB,telna,3072,8.59,False
+7,2,Local Slovakia - 7 Days - 2 GB,telna,2048,6.19,False
+7,1,Local Slovakia - 7 Days - 1 GB,telna,1024,4.39,False
+1,1,Local Slovakia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Slovakia - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Latvia - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Latvia - 30 Days - 10 GB,telna,10240,19.99,False
+15,5,Local Latvia - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Latvia - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Latvia - 7 Days - 2 GB,telna,2048,6.99,False
+7,1,Local Latvia - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Latvia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Latvia - 1 Day - 500 MB,telna,500,0.59,False
+15,5,Local Mozambique - 15 Days - 5 GB,telna,5120,31.99,False
+15,3,Local Mozambique - 15 Days - 3 GB,telna,3072,19.99,False
+7,2,Local Mozambique - 7 Days - 2 GB,telna,2048,12.99,False
+7,1,Local Mozambique - 7 Days - 1 GB,telna,1024,7.89,False
+30,20,Local Estonia - 30 Days - 20 GB,telna,20480,26.99,False
+30,10,Local Estonia - 30 Days - 10 GB,telna,10240,18.09,False
+15,5,Local Estonia - 15 Days - 5 GB,telna,5120,11.39,False
+15,3,Local Estonia - 15 Days - 3 GB,telna,3072,8.09,False
+7,2,Local Estonia - 7 Days - 2 GB,telna,2048,6.69,False
+7,1,Local Estonia - 7 Days - 1 GB,telna,1024,4.29,False
+1,1,Local Estonia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Estonia - 1 Day - 500 MB,telna,500,0.59,False
+15,3,Local Kosovo - 15 Days - 3 GB,telna,3072,22.99,False
+7,2,Local Kosovo - 7 Days - 2 GB,telna,2048,14.39,False
+7,1,Local Kosovo - 7 Days - 1 GB,telna,1024,8.39,False
+15,5,Local Cayman Islands - 15 Days - 5 GB,telna,5120,64.99,False
+15,3,Local Cayman Islands - 15 Days - 3 GB,telna,3072,37.99,False
+7,2,Local Cayman Islands - 7 Days - 2 GB,telna,2048,25.99,False
+7,1,Local Cayman Islands - 7 Days - 1 GB,telna,1024,13.99,False
+15,3,"Local Palestine, State of - 15 Days - 3 GB",telna,3072,32.99,False
+7,2,"Local Palestine, State of - 7 Days - 2 GB",telna,2048,22.99,False
+7,1,"Local Palestine, State of - 7 Days - 1 GB",telna,1024,13.99,False
+15,5,Local Paraguay - 15 Days - 5 GB,telna,5120,33.29,False
+15,3,Local Paraguay - 15 Days - 3 GB,telna,3072,21.39,False
+7,2,Local Paraguay - 7 Days - 2 GB,telna,2048,15.19,False
+7,1,Local Paraguay - 7 Days - 1 GB,telna,1024,8.29,False
+15,5,Local Rwanda - 15 Days - 5 GB,telna,5120,35.99,False
+15,3,Local Rwanda - 15 Days - 3 GB,telna,3072,21.39,False
+7,2,Local Rwanda - 7 Days - 2 GB,telna,2048,14.59,False
+7,1,Local Rwanda - 7 Days - 1 GB,telna,1024,8.39,False
+30,20,Local San Marino - 30 Days - 20 GB,telna,20480,27.99,False
+30,10,Local San Marino - 30 Days - 10 GB,telna,10240,20.99,False
+15,5,Local San Marino - 15 Days - 5 GB,telna,5120,14.99,False
+15,3,Local San Marino - 15 Days - 3 GB,telna,3072,10.99,False
+7,2,Local San Marino - 7 Days - 2 GB,telna,2048,7.99,False
+7,1,Local San Marino - 7 Days - 1 GB,telna,1024,4.99,False
+1,1,Local San Marino - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local San Marino - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Slovenia - 30 Days - 20 GB,telna,20480,43.69,False
+30,10,Local Slovenia - 30 Days - 10 GB,telna,10240,21.39,False
+15,5,Local Slovenia - 15 Days - 5 GB,telna,5120,14.29,False
+15,3,Local Slovenia - 15 Days - 3 GB,telna,3072,9.49,False
+7,2,Local Slovenia - 7 Days - 2 GB,telna,2048,7.89,False
+7,1,Local Slovenia - 7 Days - 1 GB,telna,1024,4.79,False
+1,1,Local Slovenia - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Slovenia - 1 Day - 500 MB,telna,500,0.59,False
+7,2,Local Turks and Caicos Islands - 7 Days - 2 GB,telna,2048,27.79,False
+7,1,Local Turks and Caicos Islands - 7 Days - 1 GB,telna,1024,14.49,False
+15,3,Local Cameroon - 15 Days - 3 GB,telna,3072,24.99,False
+7,2,Local Cameroon - 7 Days - 2 GB,telna,2048,17.99,False
+7,1,Local Cameroon - 7 Days - 1 GB,telna,1024,9.99,False
+15,5,Local Faroe Islands - 15 Days - 5 GB,telna,5120,29.99,False
+7,2,Local Faroe Islands - 7 Days - 2 GB,telna,2048,13.99,False
+7,1,Local Faroe Islands - 7 Days - 1 GB,telna,1024,7.49,False
+15,5,Local Martinique - 15 Days - 5 GB,telna,5120,30.39,False
+15,3,Local Martinique - 15 Days - 3 GB,telna,3072,18.39,False
+7,2,Local Martinique - 7 Days - 2 GB,telna,2048,12.29,False
+7,1,Local Martinique - 7 Days - 1 GB,telna,1024,7.09,False
+7,2,Local Saint Lucia - 7 Days - 2 GB,telna,2048,28.99,False
+7,1,Local Saint Lucia - 7 Days - 1 GB,telna,1024,16.99,False
+30,10,Local Guernsey - 30 Days - 10 GB,telna,10240,25.99,False
+15,5,Local Guernsey - 15 Days - 5 GB,telna,5120,13.89,False
+15,3,Local Guernsey - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Guernsey - 7 Days - 2 GB,telna,2048,6.09,False
+7,1,Local Guernsey - 7 Days - 1 GB,telna,1024,3.39,False
+1,1,Local Guernsey - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Guernsey - 1 Day - 500 MB,telna,500,0.69,False
+7,2,Local Guinea - 7 Days - 2 GB,telna,2048,17.89,False
+7,1,Local Guinea - 7 Days - 1 GB,telna,1024,10.39,False
+7,1,Local Guyana - 7 Days - 1 GB,telna,1024,34.49,False
+30,20,Local Jersey - 30 Days - 20 GB,telna,20480,41.99,False
+30,10,Local Jersey - 30 Days - 10 GB,telna,10240,24.99,False
+15,5,Local Jersey - 15 Days - 5 GB,telna,5120,14.99,False
+15,3,Local Jersey - 15 Days - 3 GB,telna,3072,9.99,False
+7,2,Local Jersey - 7 Days - 2 GB,telna,2048,7.99,False
+7,1,Local Jersey - 7 Days - 1 GB,telna,1024,9.29,False
+1,1,Local Jersey - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Jersey - 1 Day - 500 MB,telna,500,0.59,False
+7,2,Local Palau - 7 Days - 2 GB,telna,2048,49.99,False
+7,1,Local Palau - 7 Days - 1 GB,telna,1024,27.99,False
+15,3,Local Papua New Guinea - 15 Days - 3 GB,telna,3072,35.99,False
+7,2,Local Papua New Guinea - 7 Days - 2 GB,telna,2048,24.99,False
+7,1,Local Papua New Guinea - 7 Days - 1 GB,telna,1024,13.99,False
+7,2,Local Senegal - 7 Days - 2 GB,telna,2048,26.29,False
+7,1,Local Senegal - 7 Days - 1 GB,telna,1024,15.99,False
+15,3,Local Afghanistan - 15 Days - 3 GB,telna,3072,25.99,False
+7,2,Local Afghanistan - 7 Days - 2 GB,telna,2048,20.99,False
+7,1,Local Afghanistan - 7 Days - 1 GB,telna,1024,12.99,False
+15,3,Local Botswana - 15 Days - 3 GB,telna,3072,22.99,False
+7,2,Local Botswana - 7 Days - 2 GB,telna,2048,14.99,False
+7,1,Local Botswana - 7 Days - 1 GB,telna,1024,8.99,False
+7,2,Local Dominica - 7 Days - 2 GB,telna,2048,28.99,False
+7,1,Local Dominica - 7 Days - 1 GB,telna,1024,16.99,False
+15,3,Local Greenland - 15 Days - 3 GB,telna,3072,32.99,False
+7,2,Local Greenland - 7 Days - 2 GB,telna,2048,21.99,False
+7,1,Local Greenland - 7 Days - 1 GB,telna,1024,11.99,False
+15,5,Local Guadeloupe - 15 Days - 5 GB,telna,5120,25.99,False
+15,3,Local Guadeloupe - 15 Days - 3 GB,telna,3072,15.59,False
+7,2,Local Guadeloupe - 7 Days - 2 GB,telna,2048,10.39,False
+7,1,Local Guadeloupe - 7 Days - 1 GB,telna,1024,6.09,False
+30,20,Local Isle of Man - 30 Days - 20 GB,telna,20480,45.99,False
+30,10,Local Isle of Man - 30 Days - 10 GB,telna,10240,27.59,False
+15,5,Local Isle of Man - 15 Days - 5 GB,telna,5120,16.19,False
+15,3,Local Isle of Man - 15 Days - 3 GB,telna,3072,11.39,False
+7,2,Local Isle of Man - 7 Days - 2 GB,telna,2048,7.99,False
+7,1,Local Isle of Man - 7 Days - 1 GB,telna,1024,4.79,False
+1,1,Local Isle of Man - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Isle of Man - 1 Day - 500 MB,telna,500,0.59,False
+7,2,Local Jordan - 7 Days - 2 GB,telna,2048,23.99,False
+7,1,Local Jordan - 7 Days - 1 GB,telna,1024,13.49,False
+15,5,Local Lesotho - 15 Days - 5 GB,telna,5120,49.99,False
+15,3,Local Lesotho - 15 Days - 3 GB,telna,3072,29.99,False
+7,2,Local Lesotho - 7 Days - 2 GB,telna,2048,17.99,False
+7,1,Local Lesotho - 7 Days - 1 GB,telna,1024,9.29,False
+30,20,Local Liechtenstein - 30 Days - 20 GB,telna,20480,30.39,False
+30,10,Local Liechtenstein - 30 Days - 10 GB,telna,10240,19.99,False
+15,5,Local Liechtenstein - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local Liechtenstein - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Liechtenstein - 7 Days - 2 GB,telna,2048,6.69,False
+7,1,Local Liechtenstein - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Liechtenstein - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Liechtenstein - 1 Day - 500 MB,telna,500,0.59,False
+30,20,Local Luxembourg - 30 Days - 20 GB,telna,20480,32.29,False
+30,10,Local Luxembourg - 30 Days - 10 GB,telna,10240,20.89,False
+15,5,Local Luxembourg - 15 Days - 5 GB,telna,5120,12.79,False
+15,3,Local Luxembourg - 15 Days - 3 GB,telna,3072,8.99,False
+7,2,Local Luxembourg - 7 Days - 2 GB,telna,2048,7.09,False
+7,1,Local Luxembourg - 7 Days - 1 GB,telna,1024,4.49,False
+1,1,Local Luxembourg - 1 Day - 1 GB,telna,1024,0.89,False
+1,0,Local Luxembourg - 1 Day - 500 MB,telna,500,0.59,False
+7,1,Local Mauritius - 7 Days - 1 GB,telna,1024,28.49,False
+15,3,Local Netherlands Antilles - 15 Days - 3 GB,telna,3072,49.99,False
+7,2,Local Netherlands Antilles - 7 Days - 2 GB,telna,2048,33.99,False
+7,1,Local Netherlands Antilles - 7 Days - 1 GB,telna,1024,17.99,False
+15,3,Local Saint Martin - 15 Days - 3 GB,telna,3072,26.99,False
+7,2,Local Saint Martin - 7 Days - 2 GB,telna,2048,17.99,False
+7,1,Local Saint Martin - 7 Days - 1 GB,telna,1024,10.49,False
+7,2,Local Andorra - 7 Days - 2 GB,telna,2048,24.99,False
+7,1,Local Andorra - 7 Days - 1 GB,telna,1024,17.99,False
+7,1,Local Maldives - 7 Days - 1 GB,telna,1024,69.99,False
+7,2,Local Saint Kitts and Nevis - 7 Days - 2 GB,telna,2048,25.23,False
+7,1,Local Saint Kitts and Nevis - 7 Days - 1 GB,telna,1024,14.99,False
+7,1,Local Seychelles - 7 Days - 1 GB,telna,1024,23.99,False
+7,2,Local Virgin Islands (British) - 7 Days - 2 GB,telna,2048,28.99,False
+7,1,Local Virgin Islands (British) - 7 Days - 1 GB,telna,1024,15.39,False
+7,2,Local Anguilla - 7 Days - 2 GB,telna,2048,38.99,False
+7,1,Local Anguilla - 7 Days - 1 GB,telna,1024,19.99,False
+15,5,Local Congo (the Democratic Republic of the) - 15 Days - 5 GB,telna,5120,37.99,False
+15,3,Local Congo (the Democratic Republic of the) - 15 Days - 3 GB,telna,3072,24.19,False
+7,2,Local Congo (the Democratic Republic of the) - 7 Days - 2 GB,telna,2048,16.99,False
+7,1,Local Congo (the Democratic Republic of the) - 7 Days - 1 GB,telna,1024,9.19,False
+7,1,Local Curaçao - 7 Days - 1 GB,telna,1024,44.99,False
+15,3,Local Grenada - 15 Days - 3 GB,telna,3072,44.99,False
+7,2,Local Grenada - 7 Days - 2 GB,telna,2048,25.19,False
+7,1,Local Grenada - 7 Days - 1 GB,telna,1024,13.49,False
+15,3,Local Guam - 15 Days - 3 GB,telna,3072,29.99,False
+7,2,Local Guam - 7 Days - 2 GB,telna,2048,21.99,False
+7,1,Local Guam - 7 Days - 1 GB,telna,1024,12.99,False
+15,5,Local Liberia - 15 Days - 5 GB,telna,5120,45.99,False
+15,3,Local Liberia - 15 Days - 3 GB,telna,3072,26.29,False
+7,2,Local Liberia - 7 Days - 2 GB,telna,2048,17.39,False
+7,1,Local Liberia - 7 Days - 1 GB,telna,1024,9.99,False
+7,1,Local Madagascar - 7 Days - 1 GB,telna,1024,21.99,False
+15,5,Local Mayotte - 15 Days - 5 GB,telna,5120,27.99,False
+15,3,Local Mayotte - 15 Days - 3 GB,telna,3072,15.99,False
+7,2,Local Mayotte - 7 Days - 2 GB,telna,2048,10.39,False
+7,1,Local Mayotte - 7 Days - 1 GB,telna,1024,5.99,False
+15,3,Local Mongolia - 15 Days - 3 GB,telna,3072,32.99,False
+7,2,Local Mongolia - 7 Days - 2 GB,telna,2048,19.99,False
+7,1,Local Mongolia - 7 Days - 1 GB,telna,1024,12.99,False
+7,1,Local Saint Barthélemy - 7 Days - 1 GB,telna,1024,27.99,False
+15,3,Local Saint Vincent and the Grenadines - 15 Days - 3 GB,telna,3072,41.99,False
+7,2,Local Saint Vincent and the Grenadines - 7 Days - 2 GB,telna,2048,25.59,False
+7,1,Local Saint Vincent and the Grenadines - 7 Days - 1 GB,telna,1024,14.69,False
+15,5,Local Sudan - 15 Days - 5 GB,telna,5120,43.99,False
+15,3,Local Sudan - 15 Days - 3 GB,telna,3072,26.99,False
+7,2,Local Sudan - 7 Days - 2 GB,telna,2048,18.99,False
+7,1,Local Sudan - 7 Days - 1 GB,telna,1024,9.99,False
+15,5,Local Uganda - 15 Days - 5 GB,telna,5120,34.99,False
+15,3,Local Uganda - 15 Days - 3 GB,telna,3072,22.79,False
+7,2,Local Uganda - 7 Days - 2 GB,telna,2048,15.99,False
+7,1,Local Uganda - 7 Days - 1 GB,telna,1024,8.59,False
+15,3,Local Yemen - 15 Days - 3 GB,telna,3072,26.99,False
+7,2,Local Yemen - 7 Days - 2 GB,telna,2048,18.99,False
+7,1,Local Yemen - 7 Days - 1 GB,telna,1024,10.99,False
+7,1,Local Benin - 7 Days - 1 GB,telna,1024,25.99,False
+7,1,Local Bermuda - 7 Days - 1 GB,telna,1024,33.99,False
+7,2,Local Burkina Faso - 7 Days - 2 GB,telna,2048,23.99,False
+7,1,Local Burkina Faso - 7 Days - 1 GB,telna,1024,13.99,False
+7,1,Local Chad - 7 Days - 1 GB,telna,1024,21.99,False
+15,5,Local French Guiana - 15 Days - 5 GB,telna,5120,34.99,False
+15,3,Local French Guiana - 15 Days - 3 GB,telna,3072,21.99,False
+7,2,Local French Guiana - 7 Days - 2 GB,telna,2048,15.99,False
+7,1,Local French Guiana - 7 Days - 1 GB,telna,1024,8.19,False
+7,1,Local French Polynesia - 7 Days - 1 GB,telna,1024,53.99,False
+7,1,Local Gabon - 7 Days - 1 GB,telna,1024,21.59,False
+7,2,Local Guinea-Bissau - 7 Days - 2 GB,telna,2048,17.89,False
+7,1,Local Guinea-Bissau - 7 Days - 1 GB,telna,1024,10.39,False
+7,2,Local Haiti - 7 Days - 2 GB,telna,2048,37.99,False
+7,1,Local Haiti - 7 Days - 1 GB,telna,1024,22.99,False
+7,1,Local Kiribati - 7 Days - 1 GB,telna,1024,29.99,False
+15,3,Local Malawi - 15 Days - 3 GB,telna,3072,24.99,False
+7,2,Local Malawi - 7 Days - 2 GB,telna,2048,16.99,False
+7,1,Local Malawi - 7 Days - 1 GB,telna,1024,9.29,False
+15,3,Local Montserrat - 15 Days - 3 GB,telna,3072,42.99,False
+7,2,Local Montserrat - 7 Days - 2 GB,telna,2048,26.99,False
+7,1,Local Montserrat - 7 Days - 1 GB,telna,1024,15.39,False
+7,1,Local Nauru - 7 Days - 1 GB,telna,1024,29.49,False
+7,1,Local Niger - 7 Days - 1 GB,telna,1024,21.99,False
+7,1,Local Samoa - 7 Days - 1 GB,telna,1024,27.99,False
+7,1,Local Suriname - 7 Days - 1 GB,telna,1024,44.99,False
+15,3,Local Swaziland - 15 Days - 3 GB,telna,3072,32.99,False
+7,2,Local Swaziland - 7 Days - 2 GB,telna,2048,18.99,False
+7,1,Local Swaziland - 7 Days - 1 GB,telna,1024,10.59,False
+7,1,Local Tonga - 7 Days - 1 GB,telna,1024,27.99,False
+7,1,Local Vanuatu - 7 Days - 1 GB,telna,1024,38.99,False
+180,20,Local Europe Explorer - 180 Days - 20 GB,telna,20480,17.49,False
+60,10,Local Europe Explorer - 60 Days - 10 GB,telna,10240,8.89,False
+30,5,Local Europe Explorer - 30 Days - 5 GB,telna,5120,5.49,False
+15,3,Local Europe Explorer - 15 Days - 3 GB,telna,3072,3.49,False
+7,1,Local Europe Explorer - 7 Days - 1 GB,telna,1024,1.59,False
+1,1,Local Europe Explorer - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Europe Explorer - 1 Day - 500 MB,telna,500,0.69,False
+180,20,Local Asia Explorer - 180 Days - 20 GB,telna,20480,21.99,False
+60,10,Local Asia Explorer - 60 Days - 10 GB,telna,10240,13.99,False
+30,5,Local Asia Explorer - 30 Days - 5 GB,telna,5120,8.99,False
+15,3,Local Asia Explorer - 15 Days - 3 GB,telna,3072,4.99,False
+7,1,Local Asia Explorer - 7 Days - 1 GB,telna,1024,2.49,False
+1,0,Local Asia Explorer - 1 - 200 MB,telna,200,0.49,False
+30,20,Local South America Explorer - 30 Days - 20 GB,telna,20480,39.99,False
+30,10,Local South America Explorer - 30 Days - 10 GB,telna,10240,19.99,False
+15,5,Local South America Explorer - 15 Days - 5 GB,telna,5120,13.99,False
+15,3,Local South America Explorer - 15 Days - 3 GB,telna,3072,10.79,False
+7,1,Local South America Explorer - 7 Days - 1 GB,telna,1024,4.89,False
+1,0,Local South America Explorer - 1 - 200 MB,telna,200,0.79,False
+30,20,Local North America Explorer - 30 Days - 20 GB,telna,20480,33.99,False
+30,10,Local North America Explorer - 30 Days - 10 GB,telna,10240,16.99,False
+15,5,Local North America Explorer - 15 Days - 5 GB,telna,5120,9.99,False
+15,3,Local North America Explorer - 15 Days - 3 GB,telna,3072,6.99,False
+7,1,Local North America Explorer - 7 Days - 1 GB,telna,1024,2.99,False
+1,1,Local North America Explorer - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local North America Explorer - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local YO Asia Explorer - 30 Days - 10 GB,telna,10240,15.79,False
+15,5,Local YO Asia Explorer - 15 Days - 5 GB,telna,5120,12.39,False
+15,3,Local YO Asia Explorer - 15 Days - 3 GB,telna,3072,8.19,False
+7,1,Local YO Asia Explorer - 7 Days - 1 GB,telna,1024,3.19,False
+30,10,Local Caribbean Islands Explorer - 30 Days - 10 GB,telna,10240,59.99,False
+15,5,Local Caribbean Islands Explorer - 15 Days - 5 GB,telna,5120,37.99,False
+15,3,Local Caribbean Islands Explorer - 15 Days - 3 GB,telna,3072,23.99,False
+7,1,Local Caribbean Islands Explorer - 7 Days - 1 GB,telna,1024,9.99,False
+1,0,Local Caribbean Islands Explorer - 1 - 200 MB,telna,200,0.99,False
+30,10,Local Backpacker - 30 Days - 10 GB,telna,10240,59.99,False
+15,5,Local Backpacker - 15 Days - 5 GB,telna,5120,29.99,False
+15,3,Local Backpacker - 15 Days - 3 GB,telna,3072,18.99,False
+7,1,Local Backpacker - 7 Days - 1 GB,telna,1024,6.29,False
+1,1,Local Backpacker - 1 Day - 1 GB,telna,1024,1.99,False
+1,0,Local Backpacker - 1 Day - 500 MB,telna,500,0.99,False
+30,20,Local North America Explorer + - 30 Days - 20 GB,telna,20480,69.99,False
+30,10,Local North America Explorer + - 30 Days - 10 GB,telna,10240,39.99,False
+15,5,Local North America Explorer + - 15 Days - 5 GB,telna,5120,19.99,False
+15,3,Local North America Explorer + - 15 Days - 3 GB,telna,3072,12.99,False
+7,1,Local North America Explorer + - 7 Days - 1 GB,telna,1024,4.99,False
+1,0,Local North America Explorer + - 1 - 200 MB,telna,200,0.59,False
+30,10,Local Middle East Explorer  - 30 Days - 10 GB,telna,10240,34.99,False
+15,5,Local Middle East Explorer  - 15 Days - 5 GB,telna,5120,19.99,False
+15,3,Local Middle East Explorer  - 15 Days - 3 GB,telna,3072,11.99,False
+7,1,Local Middle East Explorer  - 7 Days - 1 GB,telna,1024,4.98,False
+1,0,Local Middle East Explorer  - 1 - 200 MB,telna,200,0.59,False
+30,10,Local Caribbean Explorer + - 30 Days - 10 GB,telna,10240,63.99,False
+15,5,Local Caribbean Explorer + - 15 Days - 5 GB,telna,5120,44.99,False
+15,3,Local Caribbean Explorer + - 15 Days - 3 GB,telna,3072,35.99,False
+7,1,Local Caribbean Explorer + - 7 Days - 1 GB,telna,1024,14.99,False
+1,0,Local Caribbean Explorer + - 1 - 100 MB,telna,100,0.99,False
+30,20,Local The Americas Explorer - 30 Days - 20 GB,telna,20480,69.99,False
+30,10,Local The Americas Explorer - 30 Days - 10 GB,telna,10240,37.99,False
+15,5,Local The Americas Explorer - 15 Days - 5 GB,telna,5120,26.99,False
+15,3,Local The Americas Explorer - 15 Days - 3 GB,telna,3072,21.99,False
+7,1,Local The Americas Explorer - 7 Days - 1 GB,telna,1024,8.99,False
+1,0,Local The Americas Explorer - 1 - 200 MB,telna,200,0.69,False
+30,10,Local Digital Nomad - 30 Days - 10 GB,telna,10240,44.99,False
+15,5,Local Digital Nomad - 15 Days - 5 GB,telna,5120,22.99,False
+15,3,Local Digital Nomad - 15 Days - 3 GB,telna,3072,13.99,False
+7,1,Local Digital Nomad - 7 Days - 1 GB,telna,1024,4.69,False
+1,1,Local Digital Nomad - 1 Day - 1 GB,telna,1024,1.99,False
+1,0,Local Digital Nomad - 1 Day - 500 MB,telna,500,0.99,False
+15,5,Local Africa Explorer - 15 Days - 5 GB,telna,5120,49.99,False
+15,3,Local Africa Explorer - 15 Days - 3 GB,telna,3072,29.99,False
+7,1,Local Africa Explorer - 7 Days - 1 GB,telna,1024,11.99,False
+1,0,Local Africa Explorer - 1 - 100 MB,telna,100,0.79,False
+15,5,Local Africa Explorer+ - 15 Days - 5 GB,telna,5120,59.99,False
+15,3,Local Africa Explorer+ - 15 Days - 3 GB,telna,3072,36.99,False
+7,1,Local Africa Explorer+ - 7 Days - 1 GB,telna,1024,14.99,False
+1,0,Local Africa Explorer+ - 1 - 100 MB,telna,100,0.89,False
+15,3,Local Surfer Explorer - 15 Days - 3 GB,telna,3072,35.99,False
+7,2,Local Surfer Explorer - 7 Days - 2 GB,telna,2048,21.99,False
+7,1,Local Surfer Explorer - 7 Days - 1 GB,telna,1024,7.49,False
+30,20,Local SEA Explorer - 30 Days - 20 GB,telna,20480,20.99,False
+30,10,Local SEA Explorer - 30 Days - 10 GB,telna,10240,11.79,False
+15,5,Local SEA Explorer - 15 Days - 5 GB,telna,5120,7.19,False
+15,3,Local SEA Explorer - 15 Days - 3 GB,telna,3072,4.69,False
+7,1,Local SEA Explorer - 7 Days - 1 GB,telna,1024,1.99,False
+1,0,Local SEA Explorer - 1 Day - 200 MB,telna,200,0.49,False
+30,20,Local Asia 5 Star Explorer - 30 Days - 20 GB,telna,20480,22.99,False
+30,10,Local Asia 5 Star Explorer - 30 Days - 10 GB,telna,10240,13.99,False
+15,5,Local Asia 5 Star Explorer - 15 Days - 5 GB,telna,5120,7.99,False
+15,3,Local Asia 5 Star Explorer - 15 Days - 3 GB,telna,3072,4.99,False
+7,1,Local Asia 5 Star Explorer - 7 Days - 1 GB,telna,1024,2.29,False
+1,0,Local Asia 5 Star Explorer - 1 Day - 200 MB,telna,200,0.59,False
+30,20,Local Nordic Explorer - 30 Days - 20 GB,telna,20480,34.99,False
+30,10,Local Nordic Explorer - 30 Days - 10 GB,telna,10240,18.99,False
+15,5,Local Nordic Explorer - 15 Days - 5 GB,telna,5120,13.99,False
+15,3,Local Nordic Explorer - 15 Days - 3 GB,telna,3072,10.99,False
+7,1,Local Nordic Explorer - 7 Days - 1 GB,telna,1024,4.39,False
+1,1,Local Nordic Explorer - 1 Day - 1 GB,telna,1024,0.99,False
+1,0,Local Nordic Explorer - 1 Day - 500 MB,telna,500,0.69,False
+30,10,Local World Explorer 100 - 30 Days - 10 GB,telna,10240,32.99,False
+15,5,Local World Explorer 100 - 15 Days - 5 GB,telna,5120,23.99,False
+15,3,Local World Explorer 100 - 15 Days - 3 GB,telna,3072,14.99,False
+7,1,Local World Explorer 100 - 7 Days - 1 GB,telna,1024,5.99,False
+30,50,Local World Explorer 101 - 30 Days - 50 GB,telna,51200,45.99,False
+30,10,Local World Explorer 101 - 30 Days - 10 GB,telna,10240,19.99,False
+15,5,Local World Explorer 101 - 15 Days - 5 GB,telna,5120,9.99,False
+15,3,Local World Explorer 101 - 15 Days - 3 GB,telna,3072,8.73,False
+7,1,Local World Explorer 101 - 7 Days - 1 GB,telna,1024,4.98,False
+1,0,Local World Explorer 101 - 1 - 200 MB,telna,200,0.69,False
+30,10,Local World Explorer + - 30 Days - 10 GB,telna,10240,63.99,False
+15,5,Local World Explorer + - 15 Days - 5 GB,telna,5120,33.99,False
+15,3,Local World Explorer + - 15 Days - 3 GB,telna,3072,22.99,False
+7,1,Local World Explorer + - 7 Days - 1 GB,telna,1024,8.99,False

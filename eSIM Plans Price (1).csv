@@ -1,0 +1,646 @@
+Type,Region,Name,Price(USD),Code,GBs,Validity(Days),Slug,Coverage,ID,Billing starts,Pre-Install Days,Speed
+Single,South Africa,South Africa 1GB 7Days,$7.10,ZA,1,7,ZA_1_7,ZA,MB026,First Network Connection,180,3G/4G
+Single,South Africa,South Africa 3GB 30Days,$17.90,ZA,3,30,ZA_3_30,ZA,MB065,First Network Connection,180,3G/4G
+Single,South Africa,South Africa 5GB 30Days,$26.00,ZA,5,30,ZA_5_30,ZA,MB036,First Network Connection,180,3G/4G
+Multi-Area,Africa (25+ areas),Africa 1GB 7Days,$14.00,AF-29,1,7,AF-29_1_7,"BF,LR,TZ,SC,SD,UG,MA,BW,MG,GA,KE,SN,ML,CD,GH,EG,CF,CG,CI,ZA,SZ,MW,TD,GW,RE,ZM,NE,NG,TN",CKH495,First Network Connection,180,3G/4G
+Multi-Area,Africa (25+ areas),Africa 3GB 30Days,$35.00,AF-29,3,30,AF-29_3_30,"BF,LR,TZ,SC,SD,UG,MA,BW,MG,GA,KE,SN,ML,CD,GH,EG,CF,CG,CI,ZA,SZ,MW,TD,GW,RE,ZM,NE,NG,TN",P1XXDOD0C,First Network Connection,180,3G/4G
+Multi-Area,Africa (25+ areas),Africa 5GB 30Days,$52.00,AF-29,5,30,AF-29_5_30,"BF,LR,TZ,SC,SD,UG,MA,BW,MG,GA,KE,SN,ML,CD,GH,EG,CF,CG,CI,ZA,SZ,MW,TD,GW,RE,ZM,NE,NG,TN",CKH497,First Network Connection,180,3G/4G
+Multi-Area,Asia (7 areas),Asia (7 areas) 10GB 30Days,$12.20,AS-7,10,30,AS-7_10_30,"TH,SG,VN,PH,ID,MY,KH",JC168,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (7 areas),Asia (7 areas) 1GB 7Days,$1.80,AS-7,1,7,AS-7_1_7,"TH,SG,VN,PH,ID,MY,KH",JC165,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (7 areas),Asia (7 areas) 20GB 30Days,$20.00,AS-7,20,30,AS-7_20_30,"TH,SG,VN,PH,ID,MY,KH",JC169,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (7 areas),Asia (7 areas) 3GB 15Days,$4.60,AS-7,3,15,AS-7_3_15,"TH,SG,VN,PH,ID,MY,KH",JC166,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (7 areas),Asia (7 areas) 50GB 180Days,$45.00,AS-7,50,180,AS-7_50_180,"TH,SG,VN,PH,ID,MY,KH",P4GNDNA36,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (7 areas),Asia (7 areas) 5GB 30Days,$7.00,AS-7,5,30,AS-7_5_30,"TH,SG,VN,PH,ID,MY,KH",JC167,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (20 areas),Asia-20 10GB 30Days,$23.00,AS-20,10,30,AS-20_10_30,"MO,HK,IL,IN,JP,KR,CN,NZ,MY,KW,SA,AU,TH,SG,VN,PH,ID,PK,KH,LK",JC180,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (20 areas),Asia-20 1GB 30 Days,$3.70,AS-20,1,30,AS-20_1_30,"MO,HK,IL,IN,JP,KR,CN,NZ,MY,KW,SA,AU,TH,SG,VN,PH,ID,PK,KH,LK",JC177,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (20 areas),Asia-20 1GB 7 Days,$3.60,AS-20,1,7,AS-20_1_7,"MO,HK,IL,IN,JP,KR,CN,NZ,MY,KW,SA,AU,TH,SG,VN,PH,ID,PK,KH,LK",JC183,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (20 areas),Asia-20 20GB 90 Days,$42.00,AS-20,20,90,AS-20_20_90,"MO,HK,IL,IN,JP,KR,CN,NZ,MY,KW,SA,AU,TH,SG,VN,PH,ID,PK,KH,LK",JC181,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (20 areas),Asia-20 3GB 15Days,$8.90,AS-20,3,15,AS-20_3_15,"MO,HK,IL,IN,JP,KR,CN,NZ,MY,KW,SA,AU,TH,SG,VN,PH,ID,PK,KH,LK",JC179,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (20 areas),Asia-20 50GB 180 Days,$89.00,AS-20,50,180,AS-20_50_180,"MO,HK,IL,IN,JP,KR,CN,NZ,MY,KW,SA,AU,TH,SG,VN,PH,ID,PK,KH,LK",JC182,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (20 areas),Asia-20 5GB 30 Days,$13.60,AS-20,5,30,AS-20_5_30,"MO,HK,IL,IN,JP,KR,CN,NZ,MY,KW,SA,AU,TH,SG,VN,PH,ID,PK,KH,LK",JC178,First Network Connection,180,3G/4G/5G
+Multi-Area,Asia (30+ areas),Asia-Pacific 6GB 8Days,$11.00,AS-31,6,8,AS-31_6_8,"NP,BD,HK,TW,JO,BH,JP,BN,QA,SG,ID,KH,GE,OM,MN,MO,IL,UZ,IN,KR,CN,MY,KW,GU,KZ,AU,LA,VN,PH,PK,LK",AIS001,First Installation,180,3G/4G/5G
+Multi-Area,China (mainland HK Macao),China (mainland HK Macao) 10GB 30Days,$9.90,CN-3,10,30,CN-3_10_30,"MO,HK,CN",JC175,First Network Connection,180,3G/4G/5G
+Multi-Area,China (mainland HK Macao),China (mainland HK Macao) 1GB 7Days,$1.50,CN-3,1,7,CN-3_1_7,"MO,HK,CN",JC172,First Network Connection,180,3G/4G/5G
+Multi-Area,China (mainland HK Macao),China (mainland HK Macao) 20GB 30Days,$16.80,CN-3,20,30,CN-3_20_30,"MO,HK,CN",JC176,First Network Connection,180,3G/4G/5G
+Multi-Area,China (mainland HK Macao),China (mainland HK Macao) 3GB 15Days,$3.70,CN-3,3,15,CN-3_3_15,"MO,HK,CN",JC173,First Network Connection,180,3G/4G/5G
+Multi-Area,China (mainland HK Macao),China (mainland HK Macao) 50GB 180Days,$37.00,CN-3,50,180,CN-3_50_180,"MO,HK,CN",PJKYY3QTL,First Network Connection,180,3G/4G/5G
+Multi-Area,China (mainland HK Macao),China (mainland HK Macao) 5GB 30Days,$5.70,CN-3,5,30,CN-3_5_30,"MO,HK,CN",JC174,First Network Connection,180,3G/4G/5G
+Multi-Area,Europe (40+ areas),Europe 10GB 30Days,$12.20,EU-42,10,30,EU-42_10_30,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",CKH486,First Network Connection,180,3G/4G
+Multi-Area,Europe (40+ areas),Europe 1GB 30Days,$1.00,EU-42,1,30,EU-42_1_30,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",CKH005,First Network Connection,180,3G/4G/5G
+Multi-Area,Europe (40+ areas),Europe 1GB 7Days,$1.80,EU-42,1,7,EU-42_1_7,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",CKH484,First Network Connection,180,3G/4G
+Multi-Area,Europe (40+ areas),Europe 20GB 30Days,$20.00,EU-42,20,30,EU-42_20_30,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",CKH500,First Network Connection,180,3G/4G
+Multi-Area,Europe (40+ areas),Europe 20GB 90Days,$21.00,EU-42,20,90,EU-42_20_90,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",P7VCE7FKY,First Network Connection,180,3G/4G
+Multi-Area,Europe (40+ areas),Europe 3GB 30Days,$4.70,EU-42,3,30,EU-42_3_30,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",CKH006,First Network Connection,180,3G/4G/5G
+Multi-Area,Europe (40+ areas),Europe 50GB 180Days,$45.00,EU-42,50,180,EU-42_50_180,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",PGXJN6W2T,First Network Connection,180,3G/4G
+Multi-Area,Europe (40+ areas),Europe 5GB 30Days,$7.00,EU-42,5,30,EU-42_5_30,"NO,RS,DE,RU,BE,FI,PT,BG,DK,LT,LU,LV,HR,UA,FR,HU,SE,SI,SK,GB,IE,MK,GG,EE,GI,IM,CH,MT,IS,IT,GR,ES,AT,CY,AX,CZ,JE,PL,RO,LI,NL,TR",CKH007,First Network Connection,180,3G/4G/5G
+Multi-Area,Global (140+ areas),Global138 6GB 15Days,$25.00,GL-144,6,15,GL-144_6_15,"PR,PS,HK,PT,HN,PY,HR,YE,HU,QA,GB-ENG,ID,IE,IL,IM,AE,IN,AF,ZA,IR,IS,IT,AL,AM,AT,RE,ZM,AU,AX,AZ,JE,ZW,RO,BA,RS,BD,BE,RU,BG,JO,JP,BH,BN,BO,SA,SB,SC,BT,SE,SG,SI,SJ,BY,SK,SM,KE,SN,KG,KH,CA,CD,SV,CG,CH,KR,SZ,CL,CN,KW,CO,CR,KZ,TD,LA,TJ,CY,CZ,TN,TO,LI,TR,LK,DE,TW,TZ,DK,LT,LU,WS-S,LV,DO,UA,TRNC,MC,MD,ME,MG,EC,MK,EE,MN,MO,EG,UY,UZ,MT,CY-N,MU,MV,VA,MX,MY,ES,VG,VN,NG,NI,NL,NO,NP,FI,FJ,NR,FO,FR,NZ,GB-SCT,GB-NIR,GA,GB,OM,GE,GG,GH,GL,GR,GT,GU,PA,GB-WLS,PE,PG,PH,PK,PL",AIS002,First Installation,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 100GB 365Days,$180.00,GL-139,100,365,GL-139_100_365,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",CKH1043,First Network Connection,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 10GB 30Days,$57.00,GL-139,10,30,GL-139_10_30,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",CKH826,First Network Connection,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 1GB 365Days,$19.00,GL-139,1,365,GL-139_1_365,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",PCQXBW5UJ,First Network Connection,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 1GB 7Days,$8.90,GL-139,1,7,GL-139_1_7,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",CKH823,First Network Connection,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 20GB 90Days,$103.00,GL-139,20,90,GL-139_20_90,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",PG3K0LHBC,First Network Connection,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 3GB 30Days,$22.00,GL-139,3,30,GL-139_3_30,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",PHD8GZ2VN,First Network Connection,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 50GB 180Days,$130.00,GL-139,50,180,GL-139_50_180,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",PZS0IRQFF,First Network Connection,180,3G/4G
+Multi-Area,Global (130+ areas),Global139 5GB 30Days,$33.00,GL-139,5,30,GL-139_5_30,"PR,HK,PT,HN,PY,HR,YE,HU,QA,ID,IE,IL,IM,AE,IN,ZA,IS,IT,AL,AM,AR,AT,RE,ZM,AU,AX,AZ,JE,RO,BA,RS,BD,BE,RU,BF,BG,JO,JP,BH,BN,BO,SA,BR,SC,SD,SE,SG,BW,SI,BY,SK,KE,SN,KG,KH,CA,KI,CD,SV,CG,CH,CI,KR,SZ,CL,CM,CN,KW,CO,CR,KZ,TD,TH,CY,CZ,TN,LI,TR,LK,DE,TW,LR,TZ,DK,LT,LU,LV,UA,UG,MA,MC,DZ,MD,ME,MG,US,EC,MK,ML,EE,MO,EG,MQ,UY,UZ,MT,MW,MX,MY,ES,NE,VN,NG,NI,NL,NO,FI,FR,NZ,GA,GB,WS,OM,GE,GG,GH,GI,GL,GR,GT,GW,PA,XK,PE,PH,PK,PL",CKH825,First Network Connection,180,3G/4G
+Multi-Area,Middle East,Middle East 1GB 7Days,$7.00,ME-13,1,7,ME-13_1_7,"QA,IL,AE,JO,BH,AZ,KW,AM,SA,TR,OM",CKH848,First Network Connection,180,3G/4G
+Multi-Area,Middle East,Middle East 3GB 30Days,$17.90,ME-13,3,30,ME-13_3_30,"QA,IL,AE,JO,BH,AZ,KW,AM,SA,TR,OM",PNEKXVZKV,First Network Connection,180,3G/4G
+Multi-Area,Middle East,Middle East 5GB 30Days,$26.00,ME-13,5,30,ME-13_5_30,"QA,IL,AE,JO,BH,AZ,KW,AM,SA,TR,OM",CKH850,First Network Connection,180,3G/4G
+Multi-Area,North America (3 areas),North America 10GB 30Days,$37.00,NA-3,10,30,NA-3_10_30,"MX,US,CA",CKH494,First Network Connection,180,3G/4G
+Multi-Area,North America (3 areas),North America 1GB 30Days,$5.90,NA-3,1,30,NA-3_1_30,"MX,US,CA",PWTE0W1Q4,First Network Connection,180,3G/4G
+Multi-Area,North America (3 areas),North America 1GB 7Days,$5.70,NA-3,1,7,NA-3_1_7,"MX,US,CA",CKH491,First Network Connection,180,3G/4G
+Multi-Area,North America (3 areas),North America 20GB 90Days,$66.00,NA-3,20,90,NA-3_20_90,"MX,US,CA",PVF7RTI3Y,First Network Connection,180,3G/4G
+Multi-Area,North America (3 areas),North America 3GB 30Days,$14.00,NA-3,3,30,NA-3_3_30,"MX,US,CA",PB9HFSUS0,First Network Connection,180,3G/4G
+Multi-Area,North America (3 areas),North America 50GB 180Days,$140.00,NA-3,50,180,NA-3_50_180,"MX,US,CA",POGTY0THV,First Network Connection,180,3G/4G
+Multi-Area,North America (3 areas),North America 5GB 30Days,$21.00,NA-3,5,30,NA-3_5_30,"MX,US,CA",CKH493,First Network Connection,180,3G/4G
+Single,South Africa,South Africa 10GB 30Days,$46.00,ZA,10,30,ZA_10_30,ZA,MB041,First Network Connection,180,3G/4G
+Multi-Area,South America (15+ areas),South America 1GB 7Days,$8.90,SA-18,1,7,SA-18_1_7,"PR,SV,MQ,UY,HN,CL,PY,CO,BO,GT,CR,BR,AR,PA,PE,NI,EC",CKH487,First Network Connection,180,3G/4G
+Multi-Area,South America (15+ areas),South America 3GB 30Days,$22.00,SA-18,3,30,SA-18_3_30,"PR,SV,MQ,UY,HN,CL,PY,CO,BO,GT,CR,BR,AR,PA,PE,NI,EC",P6FNJUAP4,First Network Connection,180,3G/4G
+Multi-Area,South America (15+ areas),South America 5GB 30Days,$33.00,SA-18,5,30,SA-18_5_30,"PR,SV,MQ,UY,HN,CL,PY,CO,BO,GT,CR,BR,AR,PA,PE,NI,EC",CKH489,First Network Connection,180,3G/4G
+Single,South Africa,South Africa 20GB 30Days,$79.00,ZA,20,30,ZA_20_30,ZA,MB052,First Network Connection,180,3G/4G
+Single,Aaland Islands,Aaland Islands 1GB 7Days,$2.90,AX,1,7,AX_1_7,AX,CKH256,First Network Connection,180,3G/4G/5G
+Single,Aaland Islands,Aaland Islands 20GB 30Days,$32.00,AX,20,30,AX_20_30,AX,CKH740,First Network Connection,180,3G/4G/5G
+Single,Aaland Islands,Aaland Islands 3GB 15Days,$7.20,AX,3,15,AX_3_15,AX,CKH257,First Network Connection,180,3G/4G/5G
+Single,Aaland Islands,Aaland Islands 3GB 30Days,$7.30,AX,3,30,AX_3_30,AX,CKH105,First Network Connection,180,3G/4G
+Single,Aaland Islands,Aaland Islands 5GB 30Days,$11.00,AX,5,30,AX_5_30,AX,CKH144,First Network Connection,180,3G/4G
+Single,Albania,Albania 1GB 7Days,$7.10,AL,1,7,AL_1_7,AL,CKH525,First Network Connection,180,3G/4G
+Single,Albania,Albania 3GB 30Days,$17.90,AL,3,30,AL_3_30,AL,PL5JS8GQQ,First Network Connection,180,3G/4G
+Single,Albania,Albania 5GB 30Days,$26.00,AL,5,30,AL_5_30,AL,CKH549,First Network Connection,180,3G/4G
+Single,Algeria,Algeria 10GB 30Days,$9.90,DZ,10,30,DZ_10_30,DZ,CKH809,First Network Connection,180,3G/4G
+Single,Algeria,Algeria 1GB 7Days,$1.50,DZ,1,7,DZ_1_7,DZ,CKH515,First Network Connection,180,3G/4G
+Single,Algeria,Algeria 20GB 30Days,$16.80,DZ,20,30,DZ_20_30,DZ,CKH810,First Network Connection,180,3G/4G
+Single,Algeria,Algeria 3GB 15Days,$3.70,DZ,3,15,DZ_3_15,DZ,CKH551,First Network Connection,180,3G/4G
+Single,Argentina,Argentina 1GB 7Days,$4.60,AR,1,7,AR_1_7,AR,CKH293,First Network Connection,180,3G/4G/5G
+Single,Argentina,Argentina 20GB 30Days,$50.00,AR,20,30,AR_20_30,AR,CKH858,First Network Connection,180,3G/4G/5G
+Single,Argentina,Argentina 3GB 15Days,$11.20,AR,3,15,AR_3_15,AR,CKH294,First Network Connection,180,3G/4G/5G
+Single,Armenia,Armenia 1GB 7Days,$11.20,AM,1,7,AM_1_7,AM,CKH514,First Network Connection,180,3G/4G
+Single,Armenia,Armenia 20GB 30Days,$123.00,AM,20,30,AM_20_30,AM,CKH776,First Network Connection,180,3G/4G
+Single,Armenia,Armenia 3GB 15Days,$27.00,AM,3,15,AM_3_15,AM,CKH555,First Network Connection,180,3G/4G
+Single,Armenia,Armenia 3GB 30Days,$28.00,AM,3,30,AM_3_30,AM,CKH030,First Network Connection,180,3G/4G
+Single,Australia,Australia 10GB 30Days,$7.60,AU,10,30,AU_10_30,AU,JC101,First Network Connection,180,3G/4G/5G
+Single,Australia,Australia 1GB 7Days,$1.10,AU,1,7,AU_1_7,AU,JC018,First Network Connection,180,3G/4G/5G
+Single,Australia,Australia 20GB 30Days,$12.90,AU,20,30,AU_20_30,AU,JC102,First Network Connection,180,3G/4G/5G
+Single,Australia,Australia 3GB 15Days,$2.80,AU,3,15,AU_3_15,AU,JC019,First Network Connection,180,3G/4G/5G
+Single,Australia,Australia 50GB 180Days,$28.00,AU,50,180,AU_50_180,AU,POU9P9TSZ,First Network Connection,180,3G/4G/5G
+Single,Australia,Australia 5GB 30Days,$4.40,AU,5,30,AU_5_30,AU,JC020,First Network Connection,180,3G/4G/5G
+Single,Austria,Austria 10GB 30Days,$9.90,AT,10,30,AT_10_30,AT,CKH159,First Network Connection,180,3G/4G/5G
+Single,Austria,Austria 1GB 7Days,$1.50,AT,1,7,AT_1_7,AT,CKH157,First Network Connection,180,3G/4G/5G
+Single,Austria,Austria 20GB 30Days,$16.80,AT,20,30,AT_20_30,AT,CKH537,First Network Connection,180,3G/4G
+Single,Austria,Austria 3GB 15Days,$3.70,AT,3,15,AT_3_15,AT,CKH158,First Network Connection,180,3G/4G/5G
+Single,Austria,Austria 3GB 30Days,$3.80,AT,3,30,AT_3_30,AT,CKH076,First Network Connection,180,3G/4G
+Single,Austria,Austria 50GB 180Days,$37.00,AT,50,180,AT_50_180,AT,PJG7CZ02I,First Network Connection,180,3G/4G
+Single,Austria,Austria 5GB 30Days,$5.70,AT,5,30,AT_5_30,AT,CKH115,First Network Connection,180,3G/4G
+Single,Azerbaijan,Azerbaijan 1GB 7Days,$14.00,AZ,1,7,AZ_1_7,AZ,CKH281,First Network Connection,180,3G/4G/5G
+Single,Azerbaijan,Azerbaijan 3GB 15Days,$34.00,AZ,3,15,AZ_3_15,AZ,CKH282,First Network Connection,180,3G/4G/5G
+Single,Azerbaijan,Azerbaijan 3GB 30Days,$35.00,AZ,3,30,AZ_3_30,AZ,CKH032,First Network Connection,180,3G/4G
+Single,Bahrain,Bahrain 1GB 7Days,$17.50,BH,1,7,BH_1_7,BH,CKH289,First Network Connection,180,3G/4G/5G
+Single,Bahrain,Bahrain 3GB 15Days,$42.00,BH,3,15,BH_3_15,BH,CKH290,First Network Connection,180,3G/4G/5G
+Single,Bahrain,Bahrain 3GB 30Days,$43.00,BH,3,30,BH_3_30,BH,CKH035,First Network Connection,180,3G/4G
+Single,Bangladesh,Bangladesh 1GB 7Days,$2.90,BD,1,7,BD_1_7,BD,JC110,First Network Connection,180,3G/4G
+Single,Bangladesh,Bangladesh 20GB 30Days,$32.00,BD,20,30,BD_20_30,BD,JC156,First Network Connection,180,3G/4G
+Single,Bangladesh,Bangladesh 3GB 15Days,$7.20,BD,3,15,BD_3_15,BD,JC112,First Network Connection,180,3G/4G
+Single,Bangladesh,Bangladesh 5GB 30Days,$11.00,BD,5,30,BD_5_30,BD,JC113,First Network Connection,180,3G/4G
+Single,Belarus,Belarus 1GB 7Days,$2.10,BY,1,7,BY_1_7,BY,EF4MLC10,First Network Connection,180,3G/4G
+Single,Belarus,Belarus 3GB 15Days,$6.30,BY,3,15,BY_3_15,BY,ALL95F6M,First Network Connection,180,3G/4G
+Single,Belarus,Belarus 5GB 30Days,$10.50,BY,5,30,BY_5_30,BY,G9EDN4W6,First Network Connection,180,3G/4G
+Single,Belgium,Belgium 10GB 30Days,$7.60,BE,10,30,BE_10_30,BE,CKH204,First Network Connection,180,3G/4G/5G
+Single,Belgium,Belgium 1GB 7Days,$1.10,BE,1,7,BE_1_7,BE,CKH202,First Network Connection,180,3G/4G/5G
+Single,Belgium,Belgium 20GB 30Days,$12.90,BE,20,30,BE_20_30,BE,CKH502,First Network Connection,180,3G/4G
+Single,Belgium,Belgium 3GB 15Days,$2.80,BE,3,15,BE_3_15,BE,CKH203,First Network Connection,180,3G/4G/5G
+Single,Belgium,Belgium 3GB 30Days,$3.00,BE,3,30,BE_3_30,BE,CKH077,First Network Connection,180,3G/4G
+Single,Belgium,Belgium 50GB 180Days,$28.00,BE,50,180,BE_50_180,BE,PJ4UJHAJC,First Network Connection,180,3G/4G
+Single,Belgium,Belgium 5GB 30Days,$4.40,BE,5,30,BE_5_30,BE,CKH116,First Network Connection,180,3G/4G
+Single,Bolivia,Bolivia 1GB 7Days,$11.20,BO,1,7,BO_1_7,BO,CKH297,First Network Connection,180,3G/4G/5G
+Single,Bolivia,Bolivia 20GB 30Days,$123.00,BO,20,30,BO_20_30,BO,CKH831,First Network Connection,180,3G/4G/5G
+Single,Bolivia,Bolivia 3GB 15Days,$27.00,BO,3,15,BO_3_15,BO,CKH298,First Network Connection,180,3G/4G/5G
+Single,Bosnia and Herzegovina,Bosnia and Herzegovina 1GB 7Days,$7.10,BA,1,7,BA_1_7,BA,CKH531,First Network Connection,180,3G/4G
+Single,Bosnia and Herzegovina,Bosnia and Herzegovina 3GB 15Days,$17.60,BA,3,15,BA_3_15,BA,CKH563,First Network Connection,180,3G/4G
+Single,Botswana,Botswana 1GB 7Days,$14.00,BW,1,7,BW_1_7,BW,CKH368,First Network Connection,180,3G/4G
+Single,Botswana,Botswana 3GB 15Days,$34.00,BW,3,15,BW_3_15,BW,CKH397,First Network Connection,180,3G/4G
+Single,Brazil,Brazil 1GB 7Days,$8.90,BR,1,7,BR_1_7,BR,CKH301,First Network Connection,180,3G/4G
+Single,Brazil,Brazil 20GB 30Days,$98.00,BR,20,30,BR_20_30,BR,CKH860,First Network Connection,180,3G/4G
+Single,Brazil,Brazil 3GB 15Days,$21.00,BR,3,15,BR_3_15,BR,CKH317,First Network Connection,180,3G/4G
+Single,Brunei Darussalam,Brunei Darussalam 1GB 7Days,$4.60,BN,1,7,BN_1_7,BN,CKH833,First Network Connection,180,3G/4G
+Single,Brunei Darussalam,Brunei Darussalam 20GB 30Days,$50.00,BN,20,30,BN_20_30,BN,CKH837,First Network Connection,180,3G/4G
+Single,Brunei Darussalam,Brunei Darussalam 3GB 15Days,$11.20,BN,3,15,BN_3_15,BN,CKH834,First Network Connection,180,3G/4G
+Single,Bulgaria,Bulgaria 10GB 30Days,$9.90,BG,10,30,BG_10_30,BG,CKH207,First Network Connection,180,3G/4G/5G
+Single,Bulgaria,Bulgaria 1GB 7Days,$1.50,BG,1,7,BG_1_7,BG,CKH205,First Network Connection,180,3G/4G/5G
+Single,Bulgaria,Bulgaria 3GB 15Days,$3.70,BG,3,15,BG_3_15,BG,CKH206,First Network Connection,180,3G/4G/5G
+Single,Bulgaria,Bulgaria 3GB 30Days,$3.80,BG,3,30,BG_3_30,BG,CKH078,First Network Connection,180,3G/4G
+Single,Bulgaria,Bulgaria 50GB 180Days,$37.00,BG,50,180,BG_50_180,BG,PQQINSIX3,First Network Connection,180,3G/4G
+Single,Burkina Faso,Burkina Faso 1GB 7Days,$8.90,BF,1,7,BF_1_7,BF,CKH521,First Network Connection,180,3G/4G
+Single,Burkina Faso,Burkina Faso 3GB 15Days,$21.00,BF,3,15,BF_3_15,BF,CKH572,First Network Connection,180,3G/4G
+Single,Burkina Faso,Burkina Faso 5GB 30Days,$33.00,BF,5,30,BF_5_30,BF,CKH573,First Network Connection,180,3G/4G
+Single,Cambodia,Cambodia 10GB 30Days,$15.20,KH,10,30,KH_10_30,KH,JC149,First Network Connection,180,3G/4G
+Single,Cambodia,Cambodia 1GB 7Days,$2.30,KH,1,7,KH_1_7,KH,JC109,First Network Connection,180,3G/4G
+Single,Cambodia,Cambodia 20GB 30Days,$25.00,KH,20,30,KH_20_30,KH,JC150,First Network Connection,180,3G/4G
+Single,Cambodia,Cambodia 3GB 15Days,$5.70,KH,3,15,KH_3_15,KH,JC115,First Network Connection,180,3G/4G
+Single,Cameroon,Cameroon 1GB 7Days,$17.50,CM,1,7,CM_1_7,CM,CKH526,First Network Connection,180,3G/4G
+Single,Cameroon,Cameroon 3GB 15Days,$42.00,CM,3,15,CM_3_15,CM,CKH575,First Network Connection,180,3G/4G
+Single,Canada,Canada 1GB 7Days,$4.60,CA,1,7,CA_1_7,CA,CKH516,First Network Connection,180,3G/4G
+Single,Canada,Canada 3GB 15Days,$11.20,CA,3,15,CA_3_15,CA,CKH578,First Network Connection,180,3G/4G
+Single,Central African Republic,Central African Republic 1GB 7Days,$14.00,CF,1,7,CF_1_7,CF,CKH370,First Network Connection,180,3G/4G
+Single,Central African Republic,Central African Republic 3GB 15Days,$34.00,CF,3,15,CF_3_15,CF,CKH399,First Network Connection,180,3G/4G
+Single,Central African Republic,Central African Republic 5GB 30Days,$52.00,CF,5,30,CF_5_30,CF,CKH428,First Network Connection,180,3G/4G
+Single,Chad,Chad 1GB 7Days,$14.00,TD,1,7,TD_1_7,TD,CKH371,First Network Connection,180,3G/4G
+Single,Chad,Chad 3GB 15Days,$34.00,TD,3,15,TD_3_15,TD,CKH400,First Network Connection,180,3G/4G
+Single,Chad,Chad 5GB 30Days,$52.00,TD,5,30,TD_5_30,TD,CKH429,First Network Connection,180,3G/4G
+Single,Chile,Chile 1GB 7Days,$5.70,CL,1,7,CL_1_7,CL,CKH302,First Network Connection,180,3G/4G
+Single,Chile,Chile 3GB 15Days,$14.10,CL,3,15,CL_3_15,CL,CKH318,First Network Connection,180,3G/4G
+Single,China mainland,China 10GB 30Days,$7.60,CN,10,30,CN_10_30,CN,JC055,First Network Connection,180,3G/4G/5G
+Single,China mainland,China 1GB 7Days,$1.10,CN,1,7,CN_1_7,CN,JC052,First Network Connection,180,3G/4G/5G
+Single,China mainland,China 20GB 30Days,$12.90,CN,20,30,CN_20_30,CN,JC090,First Network Connection,180,3G/4G/5G
+Single,China mainland,China 3GB 15Days,$2.80,CN,3,15,CN_3_15,CN,JC053,First Network Connection,180,3G/4G/5G
+Single,China mainland,China 50GB 180Days,$28.00,CN,50,180,CN_50_180,CN,PXI7MA5MW,First Network Connection,180,3G/4G/5G
+Single,China mainland,China 5GB 30Days,$4.40,CN,5,30,CN_5_30,CN,JC054,First Network Connection,180,3G/4G/5G
+Single,Colombia,Colombia 1GB 7Days,$8.90,CO,1,7,CO_1_7,CO,CKH303,First Network Connection,180,3G/4G
+Single,Colombia,Colombia 3GB 15Days,$21.00,CO,3,15,CO_3_15,CO,CKH319,First Network Connection,180,3G/4G
+Single,Congo,Congo 1GB 7Days,$7.10,CG,1,7,CG_1_7,CG,MB023,First Network Connection,180,3G/4G
+Single,Congo,Congo 3GB 15Days,$17.60,CG,3,15,CG_3_15,CG,MB028,First Network Connection,180,3G/4G
+Single,Congo,Congo 5GB 30Days,$26.00,CG,5,30,CG_5_30,CG,MB033,First Network Connection,180,3G/4G
+Single,Costa Rica,Costa Rica 1GB 7Days,$8.90,CR,1,7,CR_1_7,CR,CKH304,First Network Connection,180,3G/4G
+Single,Costa Rica,Costa Rica 3GB 15Days,$21.00,CR,3,15,CR_3_15,CR,CKH320,First Network Connection,180,3G/4G
+Single,Cote d'Ivoire,Cote d'Ivoire 1GB 7Days,$1.80,CI,1,7,CI_1_7,CI,CKH374,First Network Connection,180,3G/4G
+Single,Cote d'Ivoire,Cote d'Ivoire 3GB 15Days,$4.60,CI,3,15,CI_3_15,CI,CKH403,First Network Connection,180,3G/4G
+Single,Cote d'Ivoire,Cote d'Ivoire 5GB 30Days,$7.00,CI,5,30,CI_5_30,CI,CKH432,First Network Connection,180,3G/4G
+Single,Croatia,Croatia 10GB 30Days,$7.60,HR,10,30,HR_10_30,HR,CKH162,First Network Connection,180,3G/4G/5G
+Single,Croatia,Croatia 1GB 7Days,$1.10,HR,1,7,HR_1_7,HR,CKH160,First Network Connection,180,3G/4G/5G
+Single,Croatia,Croatia 20GB 30Days,$12.90,HR,20,30,HR_20_30,HR,CKH539,First Network Connection,180,3G/4G
+Single,Croatia,Croatia 3GB 15Days,$2.80,HR,3,15,HR_3_15,HR,CKH161,First Network Connection,180,3G/4G/5G
+Single,Croatia,Croatia 3GB 30Days,$3.00,HR,3,30,HR_3_30,HR,CKH079,First Network Connection,180,3G/4G
+Single,Croatia,Croatia 50GB 180Days,$28.00,HR,50,180,HR_50_180,HR,PQCZMPBQD,First Network Connection,180,3G/4G
+Single,Croatia,Croatia 5GB 30Days,$4.40,HR,5,30,HR_5_30,HR,CKH118,First Network Connection,180,3G/4G
+Single,Cyprus,Cyprus 10GB 30Days,$9.90,CY,10,30,CY_10_30,CY,CKH210,First Network Connection,180,3G/4G/5G
+Single,Cyprus,Cyprus 1GB 7Days,$1.50,CY,1,7,CY_1_7,CY,CKH208,First Network Connection,180,3G/4G/5G
+Single,Cyprus,Cyprus 3GB 15Days,$3.70,CY,3,15,CY_3_15,CY,CKH209,First Network Connection,180,3G/4G/5G
+Single,Cyprus,Cyprus 3GB 30Days,$3.80,CY,3,30,CY_3_30,CY,CKH080,First Network Connection,180,3G/4G
+Single,Cyprus,Cyprus 50GB 180Days,$37.00,CY,50,180,CY_50_180,CY,PXHQDYUBO,First Network Connection,180,3G/4G
+Single,Cyprus,Cyprus 5GB 30Days,$5.70,CY,5,30,CY_5_30,CY,CKH119,First Network Connection,180,3G/4G
+Single,Czech Republic,Czech Republic 10GB 30Days,$9.90,CZ,10,30,CZ_10_30,CZ,CKH165,First Network Connection,180,3G/4G/5G
+Single,Czech Republic,Czech Republic 1GB 7Days,$1.50,CZ,1,7,CZ_1_7,CZ,CKH163,First Network Connection,180,3G/4G/5G
+Single,Czech Republic,Czech Republic 20GB 30Days,$16.80,CZ,20,30,CZ_20_30,CZ,CKH541,First Network Connection,180,3G/4G
+Single,Czech Republic,Czech Republic 3GB 15Days,$3.70,CZ,3,15,CZ_3_15,CZ,CKH164,First Network Connection,180,3G/4G/5G
+Single,Czech Republic,Czech Republic 3GB 30Days,$3.80,CZ,3,30,CZ_3_30,CZ,CKH081,First Network Connection,180,3G/4G
+Single,Czech Republic,Czech Republic 50GB 180Days,$37.00,CZ,50,180,CZ_50_180,CZ,PVFLCUSP6,First Network Connection,180,3G/4G
+Single,Czech Republic,Czech Republic 5GB 30Days,$5.70,CZ,5,30,CZ_5_30,CZ,CKH120,First Network Connection,180,3G/4G
+Single,Denmark,Denmark 10GB 30Days,$7.60,DK,10,30,DK_10_30,DK,CKH168,First Network Connection,180,3G/4G/5G
+Single,Denmark,Denmark 1GB 7Days,$1.10,DK,1,7,DK_1_7,DK,CKH166,First Network Connection,180,3G/4G/5G
+Single,Denmark,Denmark 20GB 30Days,$12.90,DK,20,30,DK_20_30,DK,CKH543,First Network Connection,180,3G/4G
+Single,Denmark,Denmark 3GB 15Days,$2.80,DK,3,15,DK_3_15,DK,CKH167,First Network Connection,180,3G/4G/5G
+Single,Denmark,Denmark 3GB 30Days,$3.00,DK,3,30,DK_3_30,DK,CKH082,First Network Connection,180,3G/4G
+Single,Denmark,Denmark 50GB 180Days,$28.00,DK,50,180,DK_50_180,DK,PJJEKFZJ0,First Network Connection,180,3G/4G
+Single,Denmark,Denmark 5GB 30Days,$4.40,DK,5,30,DK_5_30,DK,CKH121,First Network Connection,180,3G/4G
+Single,Dominican Republic,Dominican Republic 1GB 7Days,$5.70,DO,1,7,DO_1_7,DO,JC158,First Network Connection,180,2G/3G
+Single,Dominican Republic,Dominican Republic 20GB 30Days,$63.00,DO,20,30,DO_20_30,DO,JC162,First Network Connection,180,2G/3G
+Single,Dominican Republic,Dominican Republic 3GB 15Days,$14.10,DO,3,15,DO_3_15,DO,JC159,First Network Connection,180,2G/3G
+Single,Dominican Republic,Dominican Republic 5GB 30Days,$21.00,DO,5,30,DO_5_30,DO,JC160,First Network Connection,180,2G/3G
+Single,Ecuador,Ecuador 1GB 7Days,$8.90,EC,1,7,EC_1_7,EC,CKH305,First Network Connection,180,3G/4G
+Single,Ecuador,Ecuador 3GB 15Days,$21.00,EC,3,15,EC_3_15,EC,CKH321,First Network Connection,180,3G/4G
+Single,Egypt,Egypt 1GB 7Days,$3.60,EG,1,7,EG_1_7,EG,MB024,First Network Connection,180,3G/4G
+Single,Egypt,Egypt 3GB 15Days,$8.90,EG,3,15,EG_3_15,EG,MB029,First Network Connection,180,3G/4G
+Single,El Salvador,El Salvador 1GB 7Days,$17.50,SV,1,7,SV_1_7,SV,CKH306,First Network Connection,180,3G/4G
+Single,El Salvador,El Salvador 3GB 15Days,$42.00,SV,3,15,SV_3_15,SV,CKH322,First Network Connection,180,3G/4G
+Single,Estonia,Estonia 10GB 30Days,$9.90,EE,10,30,EE_10_30,EE,CKH213,First Network Connection,180,3G/4G/5G
+Single,Estonia,Estonia 1GB 7Days,$1.50,EE,1,7,EE_1_7,EE,CKH211,First Network Connection,180,3G/4G/5G
+Single,Estonia,Estonia 20GB 30Days,$16.80,EE,20,30,EE_20_30,EE,CKH710,First Network Connection,180,3G/4G
+Single,Estonia,Estonia 3GB 15Days,$3.70,EE,3,15,EE_3_15,EE,CKH212,First Network Connection,180,3G/4G/5G
+Single,Estonia,Estonia 3GB 30Days,$3.80,EE,3,30,EE_3_30,EE,CKH083,First Network Connection,180,3G/4G
+Single,Estonia,Estonia 50GB 180Days,$37.00,EE,50,180,EE_50_180,EE,PF1EBHZY5,First Network Connection,180,3G/4G
+Single,Estonia,Estonia 5GB 30Days,$5.70,EE,5,30,EE_5_30,EE,CKH122,First Network Connection,180,3G/4G
+Single,Finland,Finland 10GB 30Days,$9.90,FI,10,30,FI_10_30,FI,CKH216,First Network Connection,180,3G/4G/5G
+Single,Finland,Finland 1GB 7Days,$1.50,FI,1,7,FI_1_7,FI,CKH214,First Network Connection,180,3G/4G/5G
+Single,Finland,Finland 3GB 15Days,$3.70,FI,3,15,FI_3_15,FI,CKH215,First Network Connection,180,3G/4G/5G
+Single,Finland,Finland 3GB 30Days,$3.80,FI,3,30,FI_3_30,FI,CKH084,First Network Connection,180,3G/4G
+Single,Finland,Finland 50GB 180Days,$37.00,FI,50,180,FI_50_180,FI,PU4UANEPA,First Network Connection,180,3G/4G
+Single,Finland,Finland 5GB 30Days,$5.70,FI,5,30,FI_5_30,FI,CKH123,First Network Connection,180,3G/4G
+Single,France,France 10GB 30Days,$7.60,FR,10,30,FR_10_30,FR,CKH992,First Network Connection,180,3G/4G/5G
+Single,France,France 1GB 7Days,$1.10,FR,1,7,FR_1_7,FR,CKH990,First Network Connection,180,3G/4G/5G
+Single,France,France 20GB 30Days,$12.90,FR,20,30,FR_20_30,FR,CKH1005,First Network Connection,180,3G/4G
+Single,France,France 3GB 15Days,$2.80,FR,3,15,FR_3_15,FR,CKH991,First Network Connection,180,3G/4G/5G
+Single,France,France 3GB 30Days,$3.00,FR,3,30,FR_3_30,FR,CKH977,First Network Connection,180,3G/4G
+Single,France,France 50GB 180Days,$28.00,FR,50,180,FR_50_180,FR,P5ML89XJG,First Network Connection,180,3G/4G
+Single,France,France 5GB 30Days,$4.40,FR,5,30,FR_5_30,FR,CKH983,First Network Connection,180,3G/4G
+Single,Gabon,Gabon 1GB 7Days,$7.10,GA,1,7,GA_1_7,GA,CKH376,First Network Connection,180,3G/4G
+Single,Gabon,Gabon 3GB 15Days,$17.60,GA,3,15,GA_3_15,GA,CKH405,First Network Connection,180,3G/4G
+Single,Georgia,Georgia 1GB 7Days,$1.80,GE,1,7,GE_1_7,GE,CKH511,First Network Connection,180,3G/4G
+Single,Georgia,Georgia 20GB 30Days,$20.00,GE,20,30,GE_20_30,GE,CKH743,First Network Connection,180,3G/4G
+Single,Georgia,Georgia 3GB 15Days,$4.60,GE,3,15,GE_3_15,GE,CKH601,First Network Connection,180,3G/4G
+Single,Georgia,Georgia 3GB 30Days,$4.70,GE,3,30,GE_3_30,GE,CKH970,First Network Connection,180,3G/4G
+Single,Germany,Germany 10GB 30Days,$7.60,DE,10,30,DE_10_30,DE,CKH995,First Network Connection,180,3G/4G/5G
+Single,Germany,Germany 1GB 7Days,$1.10,DE,1,7,DE_1_7,DE,CKH993,First Network Connection,180,3G/4G/5G
+Single,Germany,Germany 20GB 30Days,$12.90,DE,20,30,DE_20_30,DE,CKH1013,First Network Connection,180,3G/4G
+Single,Germany,Germany 3GB 15Days,$2.80,DE,3,15,DE_3_15,DE,CKH994,First Network Connection,180,3G/4G/5G
+Single,Germany,Germany 3GB 30Days,$3.00,DE,3,30,DE_3_30,DE,CKH978,First Network Connection,180,3G/4G
+Single,Germany,Germany 50GB 180Days,$28.00,DE,50,180,DE_50_180,DE,PMDYU8KU3,First Network Connection,180,3G/4G
+Single,Germany,Germany 5GB 30Days,$4.40,DE,5,30,DE_5_30,DE,CKH984,First Network Connection,180,3G/4G
+Single,Gibraltar,Gibraltar 1GB 7Days,$2.90,GI,1,7,GI_1_7,GI,CKH481,First Network Connection,180,3G/4G
+Single,Gibraltar,Gibraltar 3GB 15Days,$7.20,GI,3,15,GI_3_15,GI,CKH482,First Network Connection,180,3G/4G
+Single,Gibraltar,Gibraltar 3GB 30Days,$7.30,GI,3,30,GI_3_30,GI,CKH114,First Network Connection,180,3G/4G
+Single,Greece,Greece 10GB 30Days,$7.60,GR,10,30,GR_10_30,GR,CKH998,First Network Connection,180,3G/4G/5G
+Single,Greece,Greece 1GB 7Days,$1.10,GR,1,7,GR_1_7,GR,CKH996,First Network Connection,180,3G/4G/5G
+Single,Greece,Greece 20GB 30Days,$12.90,GR,20,30,GR_20_30,GR,CKH1007,First Network Connection,180,3G/4G
+Single,Greece,Greece 3GB 15Days,$2.80,GR,3,15,GR_3_15,GR,CKH997,First Network Connection,180,3G/4G/5G
+Single,Greece,Greece 3GB 30Days,$3.00,GR,3,30,GR_3_30,GR,CKH979,First Network Connection,180,3G/4G
+Single,Greece,Greece 50GB 180Days,$28.00,GR,50,180,GR_50_180,GR,PGLSEATB8,First Network Connection,180,3G/4G
+Single,Greece,Greece 5GB 30Days,$4.40,GR,5,30,GR_5_30,GR,CKH985,First Network Connection,180,3G/4G
+Single,Guadeloupe,Guadeloupe 1GB 7Days,$2.90,GP,1,7,GP_1_7,GP,CKH812,First Network Connection,180,3G/4G
+Single,Guadeloupe,Guadeloupe 20GB 30Days,$32.00,GP,20,30,GP_20_30,GP,CKH816,First Network Connection,180,3G/4G
+Single,Guadeloupe,Guadeloupe 3GB 15Days,$7.20,GP,3,15,GP_3_15,GP,CKH813,First Network Connection,180,3G/4G
+Single,Guatemala,Guatemala 1GB 7Days,$11.20,GT,1,7,GT_1_7,GT,CKH309,First Network Connection,180,3G/4G
+Single,Guatemala,Guatemala 3GB 15Days,$27.00,GT,3,15,GT_3_15,GT,CKH325,First Network Connection,180,3G/4G
+Single,Guernsey,Guernsey 1GB 7Days,$4.60,GG,1,7,GG_1_7,GG,CKH608,First Network Connection,180,3G/4G
+Single,Guernsey,Guernsey 20GB 30Days,$50.00,GG,20,30,GG_20_30,GG,CKH788,First Network Connection,180,3G/4G
+Single,Guernsey,Guernsey 3GB 15Days,$11.20,GG,3,15,GG_3_15,GG,CKH609,First Network Connection,180,3G/4G
+Single,Guernsey,Guernsey 3GB 30Days,$11.40,GG,3,30,GG_3_30,GG,CKH109,First Network Connection,180,3G/4G
+Single,Guernsey,Guernsey 5GB 30Days,$17.10,GG,5,30,GG_5_30,GG,CKH148,First Network Connection,180,3G/4G
+Single,Guinea-Bissau,Guinea-Bissau 1GB 7Days,$14.00,GW,1,7,GW_1_7,GW,CKH378,First Network Connection,180,3G/4G
+Single,Guinea-Bissau,Guinea-Bissau 3GB 15Days,$34.00,GW,3,15,GW_3_15,GW,CKH407,First Network Connection,180,3G/4G
+Single,Guinea-Bissau,Guinea-Bissau 5GB 30Days,$52.00,GW,5,30,GW_5_30,GW,CKH436,First Network Connection,180,3G/4G
+Single,Honduras,Honduras 1GB 7Days,$17.50,HN,1,7,HN_1_7,HN,CKH310,First Network Connection,180,3G/4G
+Single,Honduras,Honduras 3GB 15Days,$42.00,HN,3,15,HN_3_15,HN,CKH326,First Network Connection,180,3G/4G
+Single,Hong Kong (China),Hong Kong 10GB 30Days,$7.60,HK,10,30,HK_10_30,HK,JC023,First Network Connection,180,3G/4G/5G
+Single,Hong Kong (China),Hong Kong 1GB 7Days,$1.10,HK,1,7,HK_1_7,HK,JC021,First Network Connection,180,3G/4G/5G
+Single,Hong Kong (China),Hong Kong 20GB 30Days,$12.90,HK,20,30,HK_20_30,HK,JC104,First Network Connection,180,3G/4G
+Single,Hong Kong (China),Hong Kong 3GB 15Days,$2.80,HK,3,15,HK_3_15,HK,JC022,First Network Connection,180,3G/4G/5G
+Single,Hong Kong (China),Hong Kong 3GB 30Days,$3.00,HK,3,30,HK_3_30,HK,JC004,First Network Connection,180,3G/4G/5G
+Single,Hong Kong (China),Hong Kong 50GB 180Days,$28.00,HK,50,180,HK_50_180,HK,P4MCCLBKV,First Network Connection,180,3G/4G
+Single,Hong Kong (China),Hong Kong 5GB 30Days,$4.40,HK,5,30,HK_5_30,HK,JC005,First Network Connection,180,3G/4G/5G
+Single,Hungary,Hungary 10GB 30Days,$9.90,HU,10,30,HU_10_30,HU,CKH180,First Network Connection,180,3G/4G/5G
+Single,Hungary,Hungary 1GB 7Days,$1.50,HU,1,7,HU_1_7,HU,CKH178,First Network Connection,180,3G/4G/5G
+Single,Hungary,Hungary 20GB 30Days,$16.80,HU,20,30,HU_20_30,HU,CKH545,First Network Connection,180,3G/4G
+Single,Hungary,Hungary 3GB 15Days,$3.70,HU,3,15,HU_3_15,HU,CKH179,First Network Connection,180,3G/4G/5G
+Single,Hungary,Hungary 3GB 30Days,$3.80,HU,3,30,HU_3_30,HU,CKH088,First Network Connection,180,3G/4G
+Single,Hungary,Hungary 50GB 180Days,$37.00,HU,50,180,HU_50_180,HU,PNLUHHYLQ,First Network Connection,180,3G/4G
+Single,Hungary,Hungary 5GB 30Days,$5.70,HU,5,30,HU_5_30,HU,CKH127,First Network Connection,180,3G/4G
+Single,Iceland,Iceland 10GB 30Days,$9.90,IS,10,30,IS_10_30,IS,CKH219,First Network Connection,180,3G/4G/5G
+Single,Iceland,Iceland 1GB 7Days,$1.50,IS,1,7,IS_1_7,IS,CKH217,First Network Connection,180,3G/4G/5G
+Single,Iceland,Iceland 20GB 30Days,$16.80,IS,20,30,IS_20_30,IS,CKH714,First Network Connection,180,3G/4G
+Single,Iceland,Iceland 3GB 15Days,$3.70,IS,3,15,IS_3_15,IS,CKH218,First Network Connection,180,3G/4G/5G
+Single,Iceland,Iceland 3GB 30Days,$3.80,IS,3,30,IS_3_30,IS,CKH089,First Network Connection,180,3G/4G
+Single,Iceland,Iceland 50GB 180Days,$37.00,IS,50,180,IS_50_180,IS,PKK3BVKVF,First Network Connection,180,3G/4G
+Single,Iceland,Iceland 5GB 30Days,$5.70,IS,5,30,IS_5_30,IS,CKH128,First Network Connection,180,3G/4G
+Single,India,India 10GB 30Days,$19.00,IN,10,30,IN_10_30,IN,JC140,First Network Connection,180,3G/4G/5G
+Single,India,India 1GB 7Days,$2.90,IN,1,7,IN_1_7,IN,JC060,First Network Connection,180,3G/4G/5G
+Single,India,India 20GB 30Days,$32.00,IN,20,30,IN_20_30,IN,JC141,First Network Connection,180,3G/4G/5G
+Single,India,India 3GB 15Days,$7.20,IN,3,15,IN_3_15,IN,JC061,First Network Connection,180,3G/4G/5G
+Single,India,India 5GB 30Days,$11.00,IN,5,30,IN_5_30,IN,JC062,First Network Connection,180,3G/4G/5G
+Single,Indonesia,Indonesia 10GB 30Days,$7.60,ID,10,30,ID_10_30,ID,JC059,First Network Connection,180,3G/4G/5G
+Single,Indonesia,Indonesia 1GB 7Days,$1.10,ID,1,7,ID_1_7,ID,JC056,First Network Connection,180,3G/4G/5G
+Single,Indonesia,Indonesia 20GB 30Days,$12.90,ID,20,30,ID_20_30,ID,JC143,First Network Connection,180,3G/4G/5G
+Single,Indonesia,Indonesia 3GB 15Days,$2.80,ID,3,15,ID_3_15,ID,JC057,First Network Connection,180,3G/4G/5G
+Single,Indonesia,Indonesia 5GB 30Days,$4.40,ID,5,30,ID_5_30,ID,JC058,First Network Connection,180,3G/4G/5G
+Single,Iran,Iran 1GB 7Days,$1.80,IR,1,7,IR_1_7,IR,MB005,First Network Connection,180,3G/4G
+Single,Iran,Iran 3GB 15Days,$4.60,IR,3,15,IR_3_15,IR,MB007,First Network Connection,180,3G/4G
+Single,Ireland,Ireland 10GB 30Days,$7.60,IE,10,30,IE_10_30,IE,CKH222,First Network Connection,180,3G/4G/5G
+Single,Ireland,Ireland 1GB 7Days,$1.10,IE,1,7,IE_1_7,IE,CKH220,First Network Connection,180,3G/4G/5G
+Single,Ireland,Ireland 20GB 30Days,$12.90,IE,20,30,IE_20_30,IE,CKH720,First Network Connection,180,3G/4G/5G
+Single,Ireland,Ireland 3GB 15Days,$2.80,IE,3,15,IE_3_15,IE,CKH221,First Network Connection,180,3G/4G/5G
+Single,Ireland,Ireland 3GB 30Days,$3.00,IE,3,30,IE_3_30,IE,CKH090,First Network Connection,180,3G/4G
+Single,Ireland,Ireland 50GB 180Days,$28.00,IE,50,180,IE_50_180,IE,PJVVSY6IR,First Network Connection,180,3G/4G/5G
+Single,Ireland,Ireland 5GB 30Days,$4.40,IE,5,30,IE_5_30,IE,CKH129,First Network Connection,180,3G/4G
+Single,Isle of Man,Isle of Man 1GB 7Days,$2.90,IM,1,7,IM_1_7,IM,CKH259,First Network Connection,180,3G/4G/5G
+Single,Isle of Man,Isle of Man 20GB 30Days,$32.00,IM,20,30,IM_20_30,IM,CKH745,First Network Connection,180,3G/4G/5G
+Single,Isle of Man,Isle of Man 3GB 15Days,$7.20,IM,3,15,IM_3_15,IM,CKH260,First Network Connection,180,3G/4G/5G
+Single,Isle of Man,Isle of Man 3GB 30Days,$7.30,IM,3,30,IM_3_30,IM,CKH106,First Network Connection,180,3G/4G
+Single,Isle of Man,Isle of Man 5GB 30Days,$11.00,IM,5,30,IM_5_30,IM,CKH145,First Network Connection,180,3G/4G
+Single,Israel,Israel 10GB 30Days,$9.90,IL,10,30,IL_10_30,IL,CKH226,First Network Connection,180,3G/4G/5G
+Single,Israel,Israel 1GB 7Days,$1.50,IL,1,7,IL_1_7,IL,CKH223,First Network Connection,180,3G/4G/5G
+Single,Israel,Israel 20GB 30Days,$16.80,IL,20,30,IL_20_30,IL,CKH722,First Network Connection,180,3G/4G/5G
+Single,Israel,Israel 3GB 15Days,$3.70,IL,3,15,IL_3_15,IL,CKH224,First Network Connection,180,3G/4G/5G
+Single,Israel,Israel 3GB 30Days,$3.80,IL,3,30,IL_3_30,IL,CKH024,First Network Connection,180,3G/4G
+Single,Israel,Israel 50GB 180Days,$37.00,IL,50,180,IL_50_180,IL,PWCDVUQGM,First Network Connection,180,3G/4G/5G
+Single,Israel,Israel 5GB 30Days,$5.70,IL,5,30,IL_5_30,IL,CKH225,First Network Connection,180,3G/4G/5G
+Single,Italy,Italy 10GB 30Days,$7.60,IT,10,30,IT_10_30,IT,CKH229,First Network Connection,180,3G/4G/5G
+Single,Italy,Italy 1GB 7Days,$1.10,IT,1,7,IT_1_7,IT,CKH227,First Network Connection,180,3G/4G/5G
+Single,Italy,Italy 20GB 30Days,$12.90,IT,20,30,IT_20_30,IT,CKH504,First Network Connection,180,3G/4G
+Single,Italy,Italy 3GB 15Days,$2.80,IT,3,15,IT_3_15,IT,CKH228,First Network Connection,180,3G/4G/5G
+Single,Italy,Italy 3GB 30Days,$3.00,IT,3,30,IT_3_30,IT,CKH091,First Network Connection,180,3G/4G
+Single,Italy,Italy 50GB 180Days,$28.00,IT,50,180,IT_50_180,IT,PX1CNITSE,First Network Connection,180,3G/4G
+Single,Italy,Italy 5GB 30Days,$4.40,IT,5,30,IT_5_30,IT,CKH130,First Network Connection,180,3G/4G
+Single,Japan,Japan 10GB 30Days,$7.60,JP,10,30,JP_10_30,JP,JC066,First Network Connection,30,3G/4G/5G
+Single,Japan,Japan 1GB 7Days,$1.10,JP,1,7,JP_1_7,JP,JC063,First Network Connection,30,3G/4G/5G
+Single,Japan,Japan 20GB 30Days,$12.90,JP,20,30,JP_20_30,JP,JC145,First Network Connection,30,3G/4G/5G
+Single,Japan,Japan 3GB 15Days,$2.80,JP,3,15,JP_3_15,JP,JC064,First Network Connection,30,3G/4G/5G
+Single,Japan,Japan 50GB 180Days,$28.00,JP,50,180,JP_50_180,JP,PL4E7JOWX,First Network Connection,30,3G/4G/5G
+Single,Japan,Japan 5GB 30Days,$4.40,JP,5,30,JP_5_30,JP,JC065,First Network Connection,30,3G/4G/5G
+Single,Jersey,Jersey 1GB 7Days,$2.90,JE,1,7,JE_1_7,JE,CKH262,First Network Connection,180,3G/4G/5G
+Single,Jersey,Jersey 20GB 30Days,$32.00,JE,20,30,JE_20_30,JE,CKH753,First Network Connection,180,3G/4G/5G
+Single,Jersey,Jersey 3GB 15Days,$7.20,JE,3,15,JE_3_15,JE,CKH263,First Network Connection,180,3G/4G/5G
+Single,Jersey,Jersey 3GB 30Days,$7.30,JE,3,30,JE_3_30,JE,CKH107,First Network Connection,180,3G/4G
+Single,Jersey,Jersey 5GB 30Days,$11.00,JE,5,30,JE_5_30,JE,CKH146,First Network Connection,180,3G/4G
+Single,Jordan,Jordan 1GB 7Days,$8.90,JO,1,7,JO_1_7,JO,CKH269,First Network Connection,180,3G/4G/5G
+Single,Jordan,Jordan 20GB 30Days,$98.00,JO,20,30,JO_20_30,JO,CKH790,First Network Connection,180,3G/4G/5G
+Single,Jordan,Jordan 3GB 15Days,$21.00,JO,3,15,JO_3_15,JO,CKH270,First Network Connection,180,3G/4G/5G
+Single,Jordan,Jordan 3GB 30Days,$22.00,JO,3,30,JO_3_30,JO,CKH026,First Network Connection,180,3G/4G
+Single,Jordan,Jordan 5GB 30Days,$33.00,JO,5,30,JO_5_30,JO,CKH271,First Network Connection,180,3G/4G/5G
+Single,Kazakhstan,Kazakhstan 1GB 7Days,$1.50,KZ,1,7,KZ_1_7,KZ,CKH1030,First Network Connection,180,3G/4G
+Single,Kazakhstan,Kazakhstan 20GB 30Days,$16.80,KZ,20,30,KZ_20_30,KZ,CKH751,First Network Connection,180,3G/4G
+Single,Kazakhstan,Kazakhstan 3GB 15Days,$3.70,KZ,3,15,KZ_3_15,KZ,CKH1031,First Network Connection,180,3G/4G
+Single,Kazakhstan,Kazakhstan 5GB 30Days,$5.70,KZ,5,30,KZ_5_30,KZ,CKH1032,First Network Connection,180,3G/4G
+Single,Kenya,Kenya 1GB 7Days,$7.10,KE,1,7,KE_1_7,KE,CKH379,First Network Connection,180,3G/4G
+Single,Kenya,Kenya 3GB 15Days,$17.60,KE,3,15,KE_3_15,KE,CKH408,First Network Connection,180,3G/4G
+Single,Kenya,Kenya 5GB 30Days,$26.00,KE,5,30,KE_5_30,KE,CKH437,First Network Connection,180,3G/4G
+Single,Kosovo,Kosovo 1GB 7Days,$14.00,XK,1,7,XK_1_7,XK,CKH530,First Network Connection,180,3G/4G
+Single,Kosovo,Kosovo 3GB 15Days,$34.00,XK,3,15,XK_3_15,XK,CKH625,First Network Connection,180,3G/4G
+Single,Kuwait,Kuwait 1GB 7Days,$2.90,KW,1,7,KW_1_7,KW,CKH512,First Network Connection,180,3G/4G
+Single,Kuwait,Kuwait 20GB 30Days,$32.00,KW,20,30,KW_20_30,KW,CKH748,First Network Connection,180,3G/4G
+Single,Kuwait,Kuwait 3GB 15Days,$7.20,KW,3,15,KW_3_15,KW,CKH628,First Network Connection,180,3G/4G
+Single,Kuwait,Kuwait 3GB 30Days,$7.30,KW,3,30,KW_3_30,KW,CKH027,First Network Connection,180,3G/4G
+Single,Kuwait,Kuwait 5GB 30Days,$11.00,KW,5,30,KW_5_30,KW,CKH629,First Network Connection,180,3G/4G
+Single,Kyrgyzstan,Kyrgyzstan 1GB 7Days,$11.20,KG,1,7,KG_1_7,KG,CKH755,First Network Connection,180,3G/4G
+Single,Kyrgyzstan,Kyrgyzstan 20GB 30Days,$123.00,KG,20,30,KG_20_30,KG,CKH759,First Network Connection,180,3G/4G
+Single,Kyrgyzstan,Kyrgyzstan 3GB 15Days,$27.00,KG,3,15,KG_3_15,KG,CKH756,First Network Connection,180,3G/4G
+Single,Latvia,Latvia 10GB 30Days,$9.90,LV,10,30,LV_10_30,LV,CKH183,First Network Connection,180,3G/4G/5G
+Single,Latvia,Latvia 1GB 7Days,$1.50,LV,1,7,LV_1_7,LV,CKH181,First Network Connection,180,3G/4G/5G
+Single,Latvia,Latvia 20GB 30Days,$16.80,LV,20,30,LV_20_30,LV,CKH702,First Network Connection,180,3G/4G
+Single,Latvia,Latvia 3GB 15Days,$3.70,LV,3,15,LV_3_15,LV,CKH182,First Network Connection,180,3G/4G/5G
+Single,Latvia,Latvia 3GB 30Days,$3.80,LV,3,30,LV_3_30,LV,CKH092,First Network Connection,180,3G/4G
+Single,Latvia,Latvia 50GB 180Days,$37.00,LV,50,180,LV_50_180,LV,PUS1LIQUY,First Network Connection,180,3G/4G
+Single,Latvia,Latvia 5GB 30Days,$5.70,LV,5,30,LV_5_30,LV,CKH131,First Network Connection,180,3G/4G
+Single,Liberia,Liberia 1GB 7Days,$14.00,LR,1,7,LR_1_7,LR,CKH380,First Network Connection,180,3G/4G
+Single,Liberia,Liberia 3GB 15Days,$34.00,LR,3,15,LR_3_15,LR,CKH409,First Network Connection,180,3G/4G
+Single,Liberia,Liberia 5GB 30Days,$52.00,LR,5,30,LR_5_30,LR,CKH438,First Network Connection,180,3G/4G
+Single,Liechtenstein,Liechtenstein 1GB 7Days,$1.50,LI,1,7,LI_1_7,LI,CKH1015,First Network Connection,180,3G/4G
+Single,Liechtenstein,Liechtenstein 3GB 15Days,$3.70,LI,3,15,LI_3_15,LI,CKH1021,First Network Connection,180,3G/4G
+Single,Liechtenstein,Liechtenstein 3GB 30Days,$3.80,LI,3,30,LI_3_30,LI,CKH981,First Network Connection,180,3G/4G
+Single,Lithuania,Lithuania 10GB 30Days,$9.90,LT,10,30,LT_10_30,LT,CKH186,First Network Connection,180,3G/4G/5G
+Single,Lithuania,Lithuania 1GB 7Days,$1.50,LT,1,7,LT_1_7,LT,CKH184,First Network Connection,180,3G/4G/5G
+Single,Lithuania,Lithuania 20GB 30Days,$16.80,LT,20,30,LT_20_30,LT,CKH704,First Network Connection,180,3G/4G
+Single,Lithuania,Lithuania 3GB 15Days,$3.70,LT,3,15,LT_3_15,LT,CKH185,First Network Connection,180,3G/4G/5G
+Single,Lithuania,Lithuania 3GB 30Days,$3.80,LT,3,30,LT_3_30,LT,CKH093,First Network Connection,180,3G/4G
+Single,Lithuania,Lithuania 50GB 180Days,$37.00,LT,50,180,LT_50_180,LT,PDCRKSTTY,First Network Connection,180,3G/4G
+Single,Lithuania,Lithuania 5GB 30Days,$5.70,LT,5,30,LT_5_30,LT,CKH132,First Network Connection,180,3G/4G
+Single,Luxembourg,Luxembourg 10GB 30Days,$9.90,LU,10,30,LU_10_30,LU,CKH232,First Network Connection,180,3G/4G/5G
+Single,Luxembourg,Luxembourg 1GB 7Days,$1.50,LU,1,7,LU_1_7,LU,CKH230,First Network Connection,180,3G/4G/5G
+Single,Luxembourg,Luxembourg 20GB 30Days,$16.80,LU,20,30,LU_20_30,LU,CKH716,First Network Connection,180,3G/4G
+Single,Luxembourg,Luxembourg 3GB 15Days,$3.70,LU,3,15,LU_3_15,LU,CKH231,First Network Connection,180,3G/4G/5G
+Single,Luxembourg,Luxembourg 3GB 30Days,$3.80,LU,3,30,LU_3_30,LU,CKH094,First Network Connection,180,3G/4G
+Single,Luxembourg,Luxembourg 50GB 180Days,$37.00,LU,50,180,LU_50_180,LU,PQIWDILIV,First Network Connection,180,3G/4G
+Single,Luxembourg,Luxembourg 5GB 30Days,$5.70,LU,5,30,LU_5_30,LU,CKH133,First Network Connection,180,3G/4G
+Single,Macao (China),Macao 10GB 30Days,$7.60,MO,10,30,MO_10_30,MO,JC026,First Network Connection,180,3G/4G/5G
+Single,Macao (China),Macao 1GB 7Days,$1.10,MO,1,7,MO_1_7,MO,JC024,First Network Connection,180,3G/4G/5G
+Single,Macao (China),Macao 20GB 30Days,$12.90,MO,20,30,MO_20_30,MO,JC106,First Network Connection,180,3G/4G
+Single,Macao (China),Macao 3GB 15Days,$2.80,MO,3,15,MO_3_15,MO,JC025,First Network Connection,180,3G/4G/5G
+Single,Macao (China),Macao 3GB 30Days,$3.00,MO,3,30,MO_3_30,MO,JC010,First Network Connection,180,3G/4G/5G
+Single,Macao (China),Macao 50GB 180Days,$28.00,MO,50,180,MO_50_180,MO,PDRBEISAJ,First Network Connection,180,3G/4G
+Single,Macao (China),Macao 5GB 30Days,$4.40,MO,5,30,MO_5_30,MO,JC011,First Network Connection,180,3G/4G/5G
+Single,Madagascar,Madagascar 1GB 7Days,$7.10,MG,1,7,MG_1_7,MG,CKH366,First Network Connection,180,3G/4G
+Single,Madagascar,Madagascar 3GB 15Days,$17.60,MG,3,15,MG_3_15,MG,CKH395,First Network Connection,180,3G/4G
+Single,Malawi,Malawi 1GB 7Days,$7.10,MW,1,7,MW_1_7,MW,CKH367,First Network Connection,180,3G/4G
+Single,Malawi,Malawi 3GB 15Days,$17.60,MW,3,15,MW_3_15,MW,CKH396,First Network Connection,180,3G/4G
+Single,Malawi,Malawi 5GB 30Days,$26.00,MW,5,30,MW_5_30,MW,CKH425,First Network Connection,180,3G/4G
+Single,Malaysia,Malaysia 10GB 30Days,$7.60,MY,10,30,MY_10_30,MY,JC030,First Network Connection,180,3G/4G/5G
+Single,Malaysia,Malaysia 1GB 7Days,$1.10,MY,1,7,MY_1_7,MY,JC027,First Network Connection,180,3G/4G/5G
+Single,Malaysia,Malaysia 20GB 30Days,$12.90,MY,20,30,MY_20_30,MY,JC097,First Network Connection,180,3G/4G/5G
+Single,Malaysia,Malaysia 3GB 15Days,$2.80,MY,3,15,MY_3_15,MY,JC028,First Network Connection,180,3G/4G/5G
+Single,Malaysia,Malaysia 50GB 180Days,$28.00,MY,50,180,MY_50_180,MY,PBAGTADCE,First Network Connection,180,3G/4G/5G
+Single,Malaysia,Malaysia 5GB 30Days,$4.40,MY,5,30,MY_5_30,MY,JC029,First Network Connection,180,3G/4G/5G
+Single,Mali,Mali 1GB 7Days,$17.50,ML,1,7,ML_1_7,ML,CKH381,First Network Connection,180,3G/4G
+Single,Mali,Mali 3GB 15Days,$42.00,ML,3,15,ML_3_15,ML,CKH410,First Network Connection,180,3G/4G
+Single,Malta,Malta 10GB 30Days,$9.90,MT,10,30,MT_10_30,MT,CKH189,First Network Connection,180,3G/4G/5G
+Single,Malta,Malta 1GB 7Days,$1.50,MT,1,7,MT_1_7,MT,CKH187,First Network Connection,180,3G/4G/5G
+Single,Malta,Malta 20GB 30Days,$16.80,MT,20,30,MT_20_30,MT,CKH706,First Network Connection,180,3G/4G
+Single,Malta,Malta 3GB 15Days,$3.70,MT,3,15,MT_3_15,MT,CKH188,First Network Connection,180,3G/4G/5G
+Single,Malta,Malta 3GB 30Days,$3.80,MT,3,30,MT_3_30,MT,CKH095,First Network Connection,180,3G/4G
+Single,Malta,Malta 5GB 30Days,$5.70,MT,5,30,MT_5_30,MT,CKH134,First Network Connection,180,3G/4G
+Single,Mexico,Mexico 1GB 7Days,$2.90,MX,1,7,MX_1_7,MX,CKH518,First Network Connection,180,3G/4G
+Single,Mexico,Mexico 20GB 30Days,$32.00,MX,20,30,MX_20_30,MX,CKH798,First Network Connection,180,3G/4G
+Single,Mexico,Mexico 3GB 15Days,$7.20,MX,3,15,MX_3_15,MX,CKH644,First Network Connection,180,3G/4G
+Single,Mexico,Mexico 5GB 30Days,$11.00,MX,5,30,MX_5_30,MX,CKH645,First Network Connection,180,3G/4G
+Single,Moldova,Moldova 1GB 7Days,$3.60,MD,1,7,MD_1_7,MD,CKH523,First Network Connection,180,3G/4G
+Single,Moldova,Moldova 3GB 15Days,$8.90,MD,3,15,MD_3_15,MD,CKH647,First Network Connection,180,3G/4G
+Single,Monaco,Monaco 1GB 7Days,$11.20,MC,1,7,MC_1_7,MC,CKH524,First Network Connection,180,3G/4G
+Single,Monaco,Monaco 3GB 15Days,$27.00,MC,3,15,MC_3_15,MC,CKH650,First Network Connection,180,3G/4G
+Single,Monaco,Monaco 5GB 30Days,$41.00,MC,5,30,MC_5_30,MC,CKH651,First Network Connection,180,3G/4G
+Single,Mongolia,Mongolia 1GB 7Days,$14.00,MN,1,7,MN_1_7,MN,MB004,First Network Connection,180,3G/4G
+Single,Mongolia,Mongolia 3GB 15Days,$34.00,MN,3,15,MN_3_15,MN,MB010,First Network Connection,180,3G/4G
+Single,Montenegro,Montenegro 1GB 7Days,$2.30,ME,1,7,ME_1_7,ME,CKH1023,First Network Connection,180,3G/4G
+Single,Montenegro,Montenegro 3GB 15Days,$5.70,ME,3,15,ME_3_15,ME,CKH1024,First Network Connection,180,3G/4G
+Single,Morocco,Morocco 1GB 7Days,$8.90,MA,1,7,MA_1_7,MA,CKH382,First Network Connection,180,3G/4G
+Single,Morocco,Morocco 20GB 30Days,$98.00,MA,20,30,MA_20_30,MA,CKH829,First Network Connection,180,3G/4G
+Single,Morocco,Morocco 3GB 15Days,$21.00,MA,3,15,MA_3_15,MA,CKH411,First Network Connection,180,3G/4G
+Single,Mozambique,Mozambique 1GB 7Days,$7.10,MZ,1,7,MZ_1_7,MZ,MB043,First Network Connection,180,3G/4G
+Single,Mozambique,Mozambique 20GB 30Days,$79.00,MZ,20,30,MZ_20_30,MZ,MB055,First Network Connection,180,3G/4G
+Single,Mozambique,Mozambique 3GB 15Days,$17.60,MZ,3,15,MZ_3_15,MZ,MB047,First Network Connection,180,3G/4G
+Single,Nepal,Nepal 1GB 7Days,$14.00,NP,1,7,NP_1_7,NP,MB003,First Network Connection,180,3G/4G
+Single,Nepal,Nepal 3GB 15Days,$34.00,NP,3,15,NP_3_15,NP,MB013,First Network Connection,180,3G/4G
+Single,Netherlands,Netherlands 10GB 30Days,$9.90,NL,10,30,NL_10_30,NL,CKH235,First Network Connection,180,3G/4G/5G
+Single,Netherlands,Netherlands 1GB 7Days,$1.50,NL,1,7,NL_1_7,NL,CKH233,First Network Connection,180,3G/4G/5G
+Single,Netherlands,Netherlands 20GB 30Days,$16.80,NL,20,30,NL_20_30,NL,CKH724,First Network Connection,180,3G/4G/5G
+Single,Netherlands,Netherlands 3GB 15Days,$3.70,NL,3,15,NL_3_15,NL,CKH234,First Network Connection,180,3G/4G/5G
+Single,Netherlands,Netherlands 3GB 30Days,$3.80,NL,3,30,NL_3_30,NL,CKH009,First Network Connection,180,3G/4G/5G
+Single,Netherlands,Netherlands 50GB 180Days,$37.00,NL,50,180,NL_50_180,NL,P6D7MCOBF,First Network Connection,180,3G/4G/5G
+Single,Netherlands,Netherlands 5GB 30Days,$5.70,NL,5,30,NL_5_30,NL,CKH010,First Network Connection,180,3G/4G/5G
+Single,New Zealand,New Zealand 10GB 30Days,$12.20,NZ,10,30,NZ_10_30,NZ,JC082,First Network Connection,180,3G/4G/5G
+Single,New Zealand,New Zealand 1GB 7Days,$1.80,NZ,1,7,NZ_1_7,NZ,JC031,First Network Connection,180,3G/4G/5G
+Single,New Zealand,New Zealand 20GB 30Days,$20.00,NZ,20,30,NZ_20_30,NZ,P0FPKFWXZ,First Network Connection,180,3G/4G/5G
+Single,New Zealand,New Zealand 3GB 15Days,$4.60,NZ,3,15,NZ_3_15,NZ,JC032,First Network Connection,180,3G/4G/5G
+Single,New Zealand,New Zealand 50GB 180Days,$45.00,NZ,50,180,NZ_50_180,NZ,PEIHJAQVY,First Network Connection,180,3G/4G/5G
+Single,New Zealand,New Zealand 5GB 30Days,$7.00,NZ,5,30,NZ_5_30,NZ,JC033,First Network Connection,180,3G/4G/5G
+Single,Nicaragua,Nicaragua 1GB 7Days,$8.90,NI,1,7,NI_1_7,NI,CKH311,First Network Connection,180,3G/4G
+Single,Nicaragua,Nicaragua 3GB 15Days,$21.00,NI,3,15,NI_3_15,NI,CKH327,First Network Connection,180,3G/4G
+Single,Niger,Niger 1GB 7Days,$11.20,NE,1,7,NE_1_7,NE,CKH383,First Network Connection,180,3G/4G
+Single,Niger,Niger 3GB 15Days,$27.00,NE,3,15,NE_3_15,NE,CKH412,First Network Connection,180,3G/4G
+Single,Nigeria,Nigeria 1GB 7Days,$5.70,NG,1,7,NG_1_7,NG,CKH384,First Network Connection,180,3G/4G
+Single,Nigeria,Nigeria 3GB 15Days,$14.10,NG,3,15,NG_3_15,NG,CKH413,First Network Connection,180,3G/4G
+Single,North Macedonia,North Macedonia of  1GB 7Days,$3.60,MK,1,7,MK_1_7,MK,CKH517,First Network Connection,180,3G/4G
+Single,North Macedonia,North Macedonia of  3GB 15Days,$8.90,MK,3,15,MK_3_15,MK,CKH637,First Network Connection,180,3G/4G
+Single,North Macedonia,North Macedonia of  5GB 30Days,$13.60,MK,5,30,MK_5_30,MK,CKH638,First Network Connection,180,3G/4G
+Single,Norway,Norway 10GB 30Days,$7.60,NO,10,30,NO_10_30,NO,CKH1001,First Network Connection,180,3G/4G/5G
+Single,Norway,Norway 1GB 7Days,$1.10,NO,1,7,NO_1_7,NO,CKH999,First Network Connection,180,3G/4G/5G
+Single,Norway,Norway 20GB 30Days,$12.90,NO,20,30,NO_20_30,NO,CKH1009,First Network Connection,180,3G/4G
+Single,Norway,Norway 3GB 15Days,$2.80,NO,3,15,NO_3_15,NO,CKH1000,First Network Connection,180,3G/4G/5G
+Single,Norway,Norway 3GB 30Days,$3.00,NO,3,30,NO_3_30,NO,CKH982,First Network Connection,180,3G/4G
+Single,Norway,Norway 50GB 180Days,$28.00,NO,50,180,NO_50_180,NO,PDUMILX5C,First Network Connection,180,3G/4G
+Single,Norway,Norway 5GB 30Days,$4.40,NO,5,30,NO_5_30,NO,CKH988,First Network Connection,180,3G/4G
+Single,Oman,Oman 1GB 7Days,$8.90,OM,1,7,OM_1_7,OM,CKH273,First Network Connection,180,3G/4G/5G
+Single,Oman,Oman 20GB 30Days,$98.00,OM,20,30,OM_20_30,OM,CKH807,First Network Connection,180,3G/4G/5G
+Single,Oman,Oman 3GB 15Days,$21.00,OM,3,15,OM_3_15,OM,CKH274,First Network Connection,180,3G/4G/5G
+Single,Oman,Oman 3GB 30Days,$22.00,OM,3,30,OM_3_30,OM,CKH028,First Network Connection,180,3G/4G
+Single,Pakistan,Pakistan 1GB 7Days,$1.80,PK,1,7,PK_1_7,PK,JC111,First Network Connection,180,3G/4G
+Single,Pakistan,Pakistan 20GB 30Days,$20.00,PK,20,30,PK_20_30,PK,JC153,First Network Connection,180,3G/4G
+Single,Pakistan,Pakistan 3GB 15Days,$4.60,PK,3,15,PK_3_15,PK,JC129,First Network Connection,180,3G/4G
+Single,Pakistan,Pakistan 5GB 30Days,$7.00,PK,5,30,PK_5_30,PK,JC130,First Network Connection,180,3G/4G
+Single,Panama,Panama 1GB 7Days,$8.90,PA,1,7,PA_1_7,PA,CKH312,First Network Connection,180,3G/4G
+Single,Panama,Panama 3GB 15Days,$21.00,PA,3,15,PA_3_15,PA,CKH328,First Network Connection,180,3G/4G
+Single,Paraguay,Paraguay 1GB 7Days,$11.20,PY,1,7,PY_1_7,PY,CKH313,First Network Connection,180,3G/4G
+Single,Paraguay,Paraguay 3GB 15Days,$27.00,PY,3,15,PY_3_15,PY,CKH329,First Network Connection,180,3G/4G
+Single,Peru,Peru 1GB 7Days,$8.90,PE,1,7,PE_1_7,PE,CKH314,First Network Connection,180,3G/4G
+Single,Peru,Peru 20GB 30Days,$98.00,PE,20,30,PE_20_30,PE,CKH862,First Network Connection,180,3G/4G
+Single,Peru,Peru 3GB 15Days,$21.00,PE,3,15,PE_3_15,PE,CKH330,First Network Connection,180,3G/4G
+Single,Philippines,Philippines 10GB 30Days,$12.20,PH,10,30,PH_10_30,PH,JC037,First Network Connection,180,3G/4G/5G
+Single,Philippines,Philippines 1GB 7Days,$1.80,PH,1,7,PH_1_7,PH,JC034,First Network Connection,180,3G/4G/5G
+Single,Philippines,Philippines 20GB 30Days,$20.00,PH,20,30,PH_20_30,PH,JC099,First Network Connection,180,3G/4G/5G
+Single,Philippines,Philippines 3GB 15Days,$4.60,PH,3,15,PH_3_15,PH,JC035,First Network Connection,180,3G/4G/5G
+Single,Philippines,Philippines 50GB 180Days,$45.00,PH,50,180,PH_50_180,PH,PYEPCSNFU,First Network Connection,180,3G/4G/5G
+Single,Philippines,Philippines 5GB 30Days,$7.00,PH,5,30,PH_5_30,PH,JC036,First Network Connection,180,3G/4G/5G
+Single,Poland,Poland 1GB 7Days,$1.50,PL,1,7,PL_1_7,PL,CKH236,First Network Connection,180,3G/4G/5G
+Single,Poland,Poland 20GB 30Days,$16.80,PL,20,30,PL_20_30,PL,CKH726,First Network Connection,180,3G/4G/5G
+Single,Poland,Poland 3GB 15Days,$3.70,PL,3,15,PL_3_15,PL,CKH237,First Network Connection,180,3G/4G/5G
+Single,Poland,Poland 3GB 30Days,$3.80,PL,3,30,PL_3_30,PL,CKH096,First Network Connection,180,3G/4G
+Single,Poland,Poland 50GB 180Days,$37.00,PL,50,180,PL_50_180,PL,PZMKJMCWN,First Network Connection,180,3G/4G/5G
+Single,Poland,Poland 5GB 30Days,$5.70,PL,5,30,PL_5_30,PL,CKH135,First Network Connection,180,3G/4G
+Single,Portugal,Portugal 10GB 30Days,$7.60,PT,10,30,PT_10_30,PT,CKH1004,First Network Connection,180,3G/4G/5G
+Single,Portugal,Portugal 1GB 7Days,$1.10,PT,1,7,PT_1_7,PT,CKH1002,First Network Connection,180,3G/4G/5G
+Single,Portugal,Portugal 20GB 30Days,$12.90,PT,20,30,PT_20_30,PT,CKH1011,First Network Connection,180,3G/4G
+Single,Portugal,Portugal 3GB 15Days,$2.80,PT,3,15,PT_3_15,PT,CKH1003,First Network Connection,180,3G/4G/5G
+Single,Portugal,Portugal 3GB 30Days,$3.00,PT,3,30,PT_3_30,PT,CKH980,First Network Connection,180,3G/4G
+Single,Portugal,Portugal 5GB 30Days,$4.40,PT,5,30,PT_5_30,PT,CKH986,First Network Connection,180,3G/4G
+Single,Puerto Rico,Puerto Rico 1GB 7Days,$11.20,PR,1,7,PR_1_7,PR,CKH315,First Network Connection,180,3G/4G
+Single,Puerto Rico,Puerto Rico 3GB 15Days,$27.00,PR,3,15,PR_3_15,PR,CKH331,First Network Connection,180,3G/4G
+Single,Puerto Rico,Puerto Rico 5GB 30Days,$41.00,PR,5,30,PR_5_30,PR,CKH347,First Network Connection,180,3G/4G
+Single,Qatar,Qatar 1GB 7Days,$3.60,QA,1,7,QA_1_7,QA,CKH513,First Network Connection,180,3G/4G
+Single,Qatar,Qatar 20GB 30Days,$40.00,QA,20,30,QA_20_30,QA,CKH762,First Network Connection,180,3G/4G
+Single,Qatar,Qatar 3GB 15Days,$8.90,QA,3,15,QA_3_15,QA,CKH667,First Network Connection,180,3G/4G
+Single,Qatar,Qatar 3GB 30Days,$9.10,QA,3,30,QA_3_30,QA,CKH029,First Network Connection,180,3G/4G
+Single,Qatar,Qatar 5GB 30Days,$13.60,QA,5,30,QA_5_30,QA,CKH668,First Network Connection,180,3G/4G
+Single,Reunion,Reunion 1GB 7Days,$3.60,RE,1,7,RE_1_7,RE,CKH365,First Network Connection,180,3G/4G
+Single,Reunion,Reunion 3GB 15Days,$8.90,RE,3,15,RE_3_15,RE,CKH394,First Network Connection,180,3G/4G
+Single,Reunion,Reunion 5GB 30Days,$13.60,RE,5,30,RE_5_30,RE,CKH423,First Network Connection,180,3G/4G
+Single,Romania,Romania 10GB 30Days,$9.90,RO,10,30,RO_10_30,RO,CKH241,First Network Connection,180,3G/4G/5G
+Single,Romania,Romania 1GB 7Days,$1.50,RO,1,7,RO_1_7,RO,CKH239,First Network Connection,180,3G/4G/5G
+Single,Romania,Romania 20GB 30Days,$16.80,RO,20,30,RO_20_30,RO,CKH728,First Network Connection,180,3G/4G/5G
+Single,Romania,Romania 3GB 15Days,$3.70,RO,3,15,RO_3_15,RO,CKH240,First Network Connection,180,3G/4G/5G
+Single,Romania,Romania 3GB 30Days,$3.80,RO,3,30,RO_3_30,RO,CKH098,First Network Connection,180,3G/4G
+Single,Romania,Romania 50GB 180Days,$37.00,RO,50,180,RO_50_180,RO,PBOG35WTO,First Network Connection,180,3G/4G/5G
+Single,Romania,Romania 5GB 30Days,$5.70,RO,5,30,RO_5_30,RO,CKH137,First Network Connection,180,3G/4G
+Single,Russia,Russia 1GB 7Days,$2.90,RU,1,7,RU_1_7,RU,JC070,First Network Connection,180,3G/4G/5G
+Single,Russia,Russia 3GB 15Days,$7.20,RU,3,15,RU_3_15,RU,JC071,First Network Connection,180,3G/4G/5G
+Single,Russia,Russia 3GB 30Days,$7.30,RU,3,30,RU_3_30,RU,JC068,First Network Connection,180,3G/4G
+Single,Russia,Russia 5GB 30Days,$11.00,RU,5,30,RU_5_30,RU,JC069,First Network Connection,180,3G/4G
+Single,Saudi Arabia,Saudi Arabia 1GB 7Days,$4.60,SA,1,7,SA_1_7,SA,CKH277,First Network Connection,180,3G/4G/5G
+Single,Saudi Arabia,Saudi Arabia 20GB 30Days,$50.00,SA,20,30,SA_20_30,SA,CKH800,First Network Connection,180,3G/4G/5G
+Single,Saudi Arabia,Saudi Arabia 3GB 15Days,$11.20,SA,3,15,SA_3_15,SA,CKH278,First Network Connection,180,3G/4G/5G
+Single,Saudi Arabia,Saudi Arabia 3GB 30Days,$11.40,SA,3,30,SA_3_30,SA,CKH036,First Network Connection,180,3G/4G
+Single,Saudi Arabia,Saudi Arabia 5GB 30Days,$17.10,SA,5,30,SA_5_30,SA,CKH279,First Network Connection,180,3G/4G/5G
+Single,Senegal,Senegal 1GB 7Days,$11.20,SN,1,7,SN_1_7,SN,CKH385,First Network Connection,180,3G/4G
+Single,Senegal,Senegal 3GB 15Days,$27.00,SN,3,15,SN_3_15,SN,CKH414,First Network Connection,180,3G/4G
+Single,Senegal,Senegal 5GB 30Days,$41.00,SN,5,30,SN_5_30,SN,CKH443,First Network Connection,180,3G/4G
+Single,Serbia,Serbia 1GB 7Days,$3.60,RS,1,7,RS_1_7,RS,CKH1016,First Network Connection,180,3G/4G
+Single,Serbia,Serbia 20GB 30Days,$40.00,RS,20,30,RS_20_30,RS,CKH803,First Network Connection,180,3G/4G
+Single,Serbia,Serbia 3GB 15Days,$8.90,RS,3,15,RS_3_15,RS,CKH677,First Network Connection,180,3G/4G
+Single,Serbia,Serbia 3GB 30Days,$9.10,RS,3,30,RS_3_30,RS,CKH113,First Network Connection,180,3G/4G
+Single,Seychelles,Seychelles 1GB 7Days,$8.90,SC,1,7,SC_1_7,SC,CKH386,First Network Connection,180,3G/4G
+Single,Seychelles,Seychelles 3GB 15Days,$21.00,SC,3,15,SC_3_15,SC,CKH415,First Network Connection,180,3G/4G
+Single,Seychelles,Seychelles 5GB 30Days,$33.00,SC,5,30,SC_5_30,SC,CKH444,First Network Connection,180,3G/4G
+Single,Singapore,Singapore 10GB 30Days,$7.60,SG,10,30,SG_10_30,SG,JC041,First Network Connection,180,3G/4G/5G
+Single,Singapore,Singapore 1GB 7Days,$1.10,SG,1,7,SG_1_7,SG,JC038,First Network Connection,180,3G/4G/5G
+Single,Singapore,Singapore 20GB 30Days,$12.90,SG,20,30,SG_20_30,SG,JC092,First Network Connection,180,3G/4G/5G
+Single,Singapore,Singapore 3GB 30Days,$3.00,SG,3,30,SG_3_30,SG,PR2GUXUD5,First Network Connection,180,3G/4G/5G
+Single,Singapore,Singapore 50GB 30Days,$35.00,SG,50,30,SG_50_30,SG,JC093,First Network Connection,180,3G/4G/5G
+Single,Singapore,Singapore 5GB 30Days,$4.40,SG,5,30,SG_5_30,SG,JC040,First Network Connection,180,3G/4G/5G
+Single,Slovakia,Slovakia 10GB 30Days,$9.90,SK,10,30,SK_10_30,SK,CKH198,First Network Connection,180,3G/4G/5G
+Single,Slovakia,Slovakia 1GB 7Days,$1.50,SK,1,7,SK_1_7,SK,CKH196,First Network Connection,180,3G/4G/5G
+Single,Slovakia,Slovakia 20GB 30Days,$16.80,SK,20,30,SK_20_30,SK,CKH730,First Network Connection,180,3G/4G/5G
+Single,Slovakia,Slovakia 3GB 15Days,$3.70,SK,3,15,SK_3_15,SK,CKH197,First Network Connection,180,3G/4G/5G
+Single,Slovakia,Slovakia 3GB 30Days,$3.80,SK,3,30,SK_3_30,SK,CKH099,First Network Connection,180,3G/4G
+Single,Slovakia,Slovakia 50GB 180Days,$37.00,SK,50,180,SK_50_180,SK,PG4XMKAYQ,First Network Connection,180,3G/4G/5G
+Single,Slovakia,Slovakia 5GB 30Days,$5.70,SK,5,30,SK_5_30,SK,CKH138,First Network Connection,180,3G/4G
+Single,Slovenia,Slovenia 10GB 30Days,$9.90,SI,10,30,SI_10_30,SI,CKH244,First Network Connection,180,3G/4G/5G
+Single,Slovenia,Slovenia 1GB 7Days,$1.50,SI,1,7,SI_1_7,SI,CKH242,First Network Connection,180,3G/4G/5G
+Single,Slovenia,Slovenia 20GB 30Days,$16.80,SI,20,30,SI_20_30,SI,CKH732,First Network Connection,180,3G/4G/5G
+Single,Slovenia,Slovenia 3GB 15Days,$3.70,SI,3,15,SI_3_15,SI,CKH243,First Network Connection,180,3G/4G/5G
+Single,Slovenia,Slovenia 3GB 30Days,$3.80,SI,3,30,SI_3_30,SI,CKH100,First Network Connection,180,3G/4G
+Single,Slovenia,Slovenia 50GB 180Days,$37.00,SI,50,180,SI_50_180,SI,PCMQJGTVB,First Network Connection,180,3G/4G/5G
+Single,Slovenia,Slovenia 5GB 30Days,$5.70,SI,5,30,SI_5_30,SI,CKH139,First Network Connection,180,3G/4G
+Single,South Korea,South Korea 10GB 30Days,$15.20,KR,10,30,KR_10_30,KR,JC075,First Network Connection,180,3G/4G/5G
+Single,South Korea,South Korea 1GB 7Days,$2.30,KR,1,7,KR_1_7,KR,JC072,First Network Connection,180,3G/4G/5G
+Single,South Korea,South Korea 20GB 30Days,$25.00,KR,20,30,KR_20_30,KR,JC147,First Network Connection,180,3G/4G/5G
+Single,South Korea,South Korea 3GB 15Days,$5.70,KR,3,15,KR_3_15,KR,JC073,First Network Connection,180,3G/4G/5G
+Single,South Korea,South Korea 5GB 30Days,$8.80,KR,5,30,KR_5_30,KR,JC074,First Network Connection,180,3G/4G/5G
+Single,Spain,Spain 10GB 30Days,$9.90,ES,10,30,ES_10_30,ES,CKH506,First Network Connection,180,3G/4G
+Single,Spain,Spain 1GB 7Days,$1.50,ES,1,7,ES_1_7,ES,CKH245,First Network Connection,180,3G/4G/5G
+Single,Spain,Spain 20GB 30Days,$16.80,ES,20,30,ES_20_30,ES,CKH507,First Network Connection,180,3G/4G
+Single,Spain,Spain 3GB 15Days,$3.70,ES,3,15,ES_3_15,ES,CKH246,First Network Connection,180,3G/4G/5G
+Single,Spain,Spain 3GB 30Days,$3.80,ES,3,30,ES_3_30,ES,CKH002,First Network Connection,180,3G/4G
+Single,Spain,Spain 50GB 180Days,$37.00,ES,50,180,ES_50_180,ES,PSUZGLKSQ,First Network Connection,180,3G/4G
+Single,Spain,Spain 5GB 30Days,$5.70,ES,5,30,ES_5_30,ES,CKH003,First Network Connection,180,3G/4G
+Single,Sri Lanka,Sri Lanka 10GB 30Days,$19.00,LK,10,30,LK_10_30,LK,JC085,First Network Connection,180,3G/4G/5G
+Single,Sri Lanka,Sri Lanka 1GB 7Days,$2.90,LK,1,7,LK_1_7,LK,JC042,First Network Connection,180,3G/4G/5G
+Single,Sri Lanka,Sri Lanka 20GB 30Days,$32.00,LK,20,30,LK_20_30,LK,JC086,First Network Connection,180,3G/4G/5G
+Single,Sri Lanka,Sri Lanka 3GB 15Days,$7.20,LK,3,15,LK_3_15,LK,JC043,First Network Connection,180,3G/4G/5G
+Single,Sri Lanka,Sri Lanka 50GB 180Days,$71.00,LK,50,180,LK_50_180,LK,PVCA0JAXV,First Network Connection,180,3G/4G/5G
+Single,Sri Lanka,Sri Lanka 5GB 30Days,$11.00,LK,5,30,LK_5_30,LK,JC044,First Network Connection,180,3G/4G/5G
+Single,Sudan,Sudan 1GB 7Days,$11.20,SD,1,7,SD_1_7,SD,CKH388,First Network Connection,180,3G/4G
+Single,Sudan,Sudan 3GB 15Days,$27.00,SD,3,15,SD_3_15,SD,CKH417,First Network Connection,180,3G/4G
+Single,Sudan,Sudan 5GB 30Days,$41.00,SD,5,30,SD_5_30,SD,CKH446,First Network Connection,180,3G/4G
+Single,Swaziland,Swaziland 1GB 7Days,$14.00,SZ,1,7,SZ_1_7,SZ,CKH389,First Network Connection,180,3G/4G
+Single,Swaziland,Swaziland 3GB 15Days,$34.00,SZ,3,15,SZ_3_15,SZ,CKH418,First Network Connection,180,3G/4G
+Single,Sweden,Sweden 10GB 30Days,$7.60,SE,10,30,SE_10_30,SE,CKH201,First Network Connection,180,3G/4G/5G
+Single,Sweden,Sweden 1GB 7Days,$1.10,SE,1,7,SE_1_7,SE,CKH199,First Network Connection,180,3G/4G/5G
+Single,Sweden,Sweden 20GB 30Days,$12.90,SE,20,30,SE_20_30,SE,CKH734,First Network Connection,180,3G/4G/5G
+Single,Sweden,Sweden 3GB 15Days,$2.80,SE,3,15,SE_3_15,SE,CKH200,First Network Connection,180,3G/4G/5G
+Single,Sweden,Sweden 3GB 30Days,$3.00,SE,3,30,SE_3_30,SE,CKH101,First Network Connection,180,3G/4G
+Single,Sweden,Sweden 5GB 30Days,$4.40,SE,5,30,SE_5_30,SE,CKH140,First Network Connection,180,3G/4G
+Single,Switzerland,Switzerland 10GB 30Days,$9.90,CH,10,30,CH_10_30,CH,CKH249,First Network Connection,180,3G/4G/5G
+Single,Switzerland,Switzerland 1GB 7Days,$1.50,CH,1,7,CH_1_7,CH,CKH247,First Network Connection,180,3G/4G/5G
+Single,Switzerland,Switzerland 20GB 30Days,$16.80,CH,20,30,CH_20_30,CH,CKH736,First Network Connection,180,3G/4G/5G
+Single,Switzerland,Switzerland 3GB 15Days,$3.70,CH,3,15,CH_3_15,CH,CKH248,First Network Connection,180,3G/4G/5G
+Single,Switzerland,Switzerland 3GB 30Days,$3.80,CH,3,30,CH_3_30,CH,CKH102,First Network Connection,180,3G/4G
+Single,Switzerland,Switzerland 50GB 180Days,$37.00,CH,50,180,CH_50_180,CH,PUOG8W99P,First Network Connection,180,3G/4G/5G
+Single,Switzerland,Switzerland 5GB 30Days,$5.70,CH,5,30,CH_5_30,CH,CKH141,First Network Connection,180,3G/4G
+Single,Tanzania,Tanzania 1GB 7Days,$7.10,TZ,1,7,TZ_1_7,TZ,MB027,First Network Connection,180,3G/4G
+Single,Tanzania,Tanzania 3GB 15Days,$17.60,TZ,3,15,TZ_3_15,TZ,MB032,First Network Connection,180,3G/4G
+Single,Thailand,Thailand 10GB 30Days,$15.20,TH,10,30,TH_10_30,TH,JC047,First Network Connection,180,3G/4G/5G
+Single,Thailand,Thailand 1GB 7Days,$2.30,TH,1,7,TH_1_7,TH,JC045,First Network Connection,180,3G/4G/5G
+Single,Thailand,Thailand 20GB 30Days,$25.00,TH,20,30,TH_20_30,TH,JC080,First Network Connection,180,3G/4G/5G
+Single,Thailand,Thailand 3GB 15Days,$5.70,TH,3,15,TH_3_15,TH,JC046,First Network Connection,180,3G/4G/5G
+Single,Thailand,Thailand 3GB 30Days,$5.90,TH,3,30,TH_3_30,TH,JC013,First Network Connection,180,3G/4G/5G
+Single,Thailand,Thailand 50GB 180Days,$57.00,TH,50,180,TH_50_180,TH,PNJW9PBXH,First Network Connection,180,3G/4G/5G
+Single,Thailand,Thailand 5GB 30Days,$8.80,TH,5,30,TH_5_30,TH,JC014,First Network Connection,180,3G/4G/5G
+Single,Tunisia,Tunisia 10GB 30Days,$15.20,TN,10,30,TN_10_30,TN,KR004,First Network Connection,180,3G/4G
+Single,Tunisia,Tunisia 1GB 7Days,$2.30,TN,1,7,TN_1_7,TN,KR001,First Network Connection,180,3G/4G
+Single,Tunisia,Tunisia 3GB 30Days,$5.90,TN,3,30,TN_3_30,TN,PXX3PDGRD,First Network Connection,180,3G/4G
+Single,Tunisia,Tunisia 5GB 30Days,$8.80,TN,5,30,TN_5_30,TN,KR003,First Network Connection,180,3G/4G
+Single,Turkey,Turkey 10GB 30Days,$9.90,TR,10,30,TR_10_30,TR,CKH268,First Network Connection,180,3G/4G/5G
+Single,Turkey,Turkey 1GB 7Days,$1.50,TR,1,7,TR_1_7,TR,CKH265,First Network Connection,180,3G/4G/5G
+Single,Turkey,Turkey 20GB 30Days,$16.80,TR,20,30,TR_20_30,TR,CKH738,First Network Connection,180,3G/4G/5G
+Single,Turkey,Turkey 3GB 15Days,$3.70,TR,3,15,TR_3_15,TR,CKH266,First Network Connection,180,3G/4G/5G
+Single,Turkey,Turkey 3GB 30Days,$3.80,TR,3,30,TR_3_30,TR,CKH025,First Network Connection,180,3G/4G
+Single,Turkey,Turkey 50GB 180Days,$37.00,TR,50,180,TR_50_180,TR,PAV5NMZ28,First Network Connection,180,3G/4G/5G
+Single,Turkey,Turkey 5GB 30Days,$5.70,TR,5,30,TR_5_30,TR,CKH267,First Network Connection,180,3G/4G/5G
+Single,Uganda,Uganda 1GB 7Days,$7.10,UG,1,7,UG_1_7,UG,CKH392,First Network Connection,180,3G/4G
+Single,Uganda,Uganda 3GB 15Days,$17.60,UG,3,15,UG_3_15,UG,CKH421,First Network Connection,180,3G/4G
+Single,Ukraine,Ukraine 10GB 30Days,$7.60,UA,10,30,UA_10_30,UA,CKH252,First Network Connection,180,3G/4G/5G
+Single,Ukraine,Ukraine 1GB 7Days,$1.10,UA,1,7,UA_1_7,UA,CKH250,First Network Connection,180,3G/4G/5G
+Single,Ukraine,Ukraine 3GB 15Days,$2.80,UA,3,15,UA_3_15,UA,CKH251,First Network Connection,180,3G/4G/5G
+Single,Ukraine,Ukraine 3GB 30Days,$3.00,UA,3,30,UA_3_30,UA,CKH103,First Network Connection,180,3G/4G
+Single,Ukraine,Ukraine 5GB 30Days,$4.40,UA,5,30,UA_5_30,UA,CKH142,First Network Connection,180,3G/4G
+Single,United Arab Emirates,United Arab Emirates 1GB 7Days,$4.60,AE,1,7,AE_1_7,AE,CKH527,First Network Connection,180,3G/4G
+Single,United Arab Emirates,United Arab Emirates 3GB 15Days,$11.20,AE,3,15,AE_3_15,AE,CKH692,First Network Connection,180,3G/4G
+Single,United Arab Emirates,United Arab Emirates 3GB 30Days,$11.40,AE,3,30,AE_3_30,AE,CKH031,First Network Connection,180,3G/4G
+Single,United Arab Emirates,United Arab Emirates 5GB 30Days,$17.10,AE,5,30,AE_5_30,AE,CKH693,First Network Connection,180,3G/4G
+Single,United Kingdom,United Kingdom 10GB 30Days,$7.60,GB,10,30,GB_10_30,GB,CKH255,First Network Connection,180,3G/4G/5G
+Single,United Kingdom,United Kingdom 1GB 7Days,$1.10,GB,1,7,GB_1_7,GB,CKH253,First Network Connection,180,3G/4G/5G
+Single,United Kingdom,United Kingdom 20GB 30Days,$12.90,GB,20,30,GB_20_30,GB,CKH509,First Network Connection,180,3G/4G
+Single,United Kingdom,United Kingdom 3GB 15Days,$2.80,GB,3,15,GB_3_15,GB,CKH254,First Network Connection,180,3G/4G/5G
+Single,United Kingdom,United Kingdom 3GB 30Days,$3.00,GB,3,30,GB_3_30,GB,CKH104,First Network Connection,180,3G/4G
+Single,United Kingdom,United Kingdom 50GB 180Days,$28.00,GB,50,180,GB_50_180,GB,PLLWT4O6B,First Network Connection,180,3G/4G
+Single,United Kingdom,United Kingdom 5GB 30Days,$4.40,GB,5,30,GB_5_30,GB,CKH143,First Network Connection,180,3G/4G
+Single,United States,United States 10GB 30Days,$9.90,US,10,30,US_10_30,US,PCRKRUHIL,First Network Connection,180,3G/4G
+Single,United States,United States 1GB 7Days,$1.50,US,1,7,US_1_7,US,PHAJHEAYP,First Network Connection,180,3G/4G
+Single,United States,United States 20GB 90Days,$17.70,US,20,90,US_20_90,US,P1HAXMKHP,First Network Connection,180,3G/4G
+Single,United States,United States 3GB 15Days,$3.70,US,3,15,US_3_15,US,PGDINBJBY,First Network Connection,180,3G/4G
+Single,United States,United States 3GB 30Days,$3.80,US,3,30,US_3_30,US,PKY3WHPRZ,First Network Connection,180,3G/4G
+Single,United States,United States 50GB 180Days,$37.00,US,50,180,US_50_180,US,P3ICIKSE8,First Network Connection,180,3G/4G
+Single,United States,United States 5GB 30Days,$5.70,US,5,30,US_5_30,US,PKJNMJIIU,First Network Connection,180,3G/4G
+Single,Uruguay,Uruguay 1GB 7Days,$8.90,UY,1,7,UY_1_7,UY,CKH316,First Network Connection,180,3G/4G
+Single,Uruguay,Uruguay 3GB 15Days,$21.00,UY,3,15,UY_3_15,UY,CKH332,First Network Connection,180,3G/4G
+Single,Uzbekistan,Uzbekistan 10GB 30Days,$9.90,UZ,10,30,UZ_10_30,UZ,CKH766,First Network Connection,180,3G/4G
+Single,Uzbekistan,Uzbekistan 1GB 7Days,$1.50,UZ,1,7,UZ_1_7,UZ,CKH1017,First Network Connection,180,3G/4G
+Single,Uzbekistan,Uzbekistan 3GB 30Days,$3.80,UZ,3,30,UZ_3_30,UZ,PCHMVSA0P,First Network Connection,180,3G/4G
+Single,Uzbekistan,Uzbekistan 5GB 30Days,$5.70,UZ,5,30,UZ_5_30,UZ,CKH1029,First Network Connection,180,3G/4G
+Single,Vanuatu,Vanuatu 1GB 7Days,$17.50,VU,1,7,VU_1_7,VU,CKH529,First Network Connection,180,3G/4G
+Single,Vanuatu,Vanuatu 20GB 30Days,$193.00,VU,20,30,VU_20_30,VU,CKH840,First Network Connection,180,3G/4G
+Single,Vanuatu,Vanuatu 3GB 15Days,$42.00,VU,3,15,VU_3_15,VU,CKH697,First Network Connection,180,3G/4G
+Single,Vietnam,Vietnam 10GB 30Days,$12.20,VN,10,30,VN_10_30,VN,JC051,First Network Connection,180,3G/4G/5G
+Single,Vietnam,Vietnam 1GB 7Days,$1.80,VN,1,7,VN_1_7,VN,JC048,First Network Connection,180,3G/4G/5G
+Single,Vietnam,Vietnam 20GB 30Days,$20.00,VN,20,30,VN_20_30,VN,JC088,First Network Connection,180,3G/4G/5G
+Single,Vietnam,Vietnam 3GB 15Days,$4.60,VN,3,15,VN_3_15,VN,JC049,First Network Connection,180,3G/4G/5G
+Single,Vietnam,Vietnam 50GB 180Days,$45.00,VN,50,180,VN_50_180,VN,PU3OJKPFD,First Network Connection,180,3G/4G/5G
+Single,Vietnam,Vietnam 5GB 30Days,$7.00,VN,5,30,VN_5_30,VN,JC050,First Network Connection,180,3G/4G/5G
+Single,Yemen,Yemen 1GB 7Days,$11.20,YE,1,7,YE_1_7,YE,CKH285,First Network Connection,180,3G/4G/5G
+Single,Yemen,Yemen 3GB 15Days,$27.00,YE,3,15,YE_3_15,YE,CKH286,First Network Connection,180,3G/4G/5G
+Single,Yemen,Yemen 5GB 30Days,$41.00,YE,5,30,YE_5_30,YE,CKH287,First Network Connection,180,3G/4G/5G
+Single,Zambia,Zambia 1GB 7Days,$7.10,ZM,1,7,ZM_1_7,ZM,CKH393,First Network Connection,180,3G/4G
+Single,Zambia,Zambia 3GB 15Days,$17.60,ZM,3,15,ZM_3_15,ZM,CKH422,First Network Connection,180,3G/4G
+Single,Zambia,Zambia 5GB 30Days,$26.00,ZM,5,30,ZM_5_30,ZM,CKH451,First Network Connection,180,3G/4G
